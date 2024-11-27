@@ -36,11 +36,23 @@ Description of another amazing project.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcjill&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
-## 🏆 Dev.to Achievements
+## 🏆 Dev.to Stats & Achievements
 
 <div align="center">
   <a href="https://dev.to/elliot_brenya">
-    <img src="https://dev.to/badge/elliot_brenya" alt="Elliot Brenya's DEV Profile" />
+    <img src="https://img.shields.io/badge/dev.to-Follow%20%40elliot__brenya-lightgrey?style=for-the-badge&logo=dev.to" alt="Follow on Dev.to"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mcjill/mcjill/devcard/devcard.svg" width="400" alt="Elliot Brenya's Dev Card"/>
+</div>
+
+<!-- Dev.to blog posts -->
+<div align="center">
+  <h3>📝 Latest Dev.to Posts</h3>
+  <a href="https://dev.to/elliot_brenya">
+    <img src="https://dev.to/api/dynamic_svg/articles/user/elliot_brenya" alt="Elliot Brenya's Dev.to posts" width="400"/>
   </a>
 </div>
 
