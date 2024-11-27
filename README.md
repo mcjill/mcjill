@@ -32,16 +32,29 @@ Description of another amazing project.
 
 ## 📈 Contribution Graph
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mcjill&theme=github)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcjill&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
+
+## 🏆 Dev.to Achievements
+
+<div align="center">
+  <a href="https://dev.to/elliot_brenya">
+    <img src="https://dev.to/badge/elliot_brenya" alt="Elliot Brenya's DEV Profile" />
+  </a>
+</div>
 
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/elliot-brenya-7a6773190/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <a href="https://twitter.com/elliot_solution" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://dev.to/elliot_brenya" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
 </div>
 
