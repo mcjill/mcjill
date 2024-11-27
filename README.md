@@ -24,30 +24,129 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 ## 🌟 Featured Projects
 
-### [Spiritual Growth App](https://github.com/mcjill/spiritual-growth-app)
-A Next.js application designed to support spiritual growth and development. Features include daily devotionals, prayer tracking, and spiritual resources.
-- **Tech Stack:** Next.js, React, TailwindCSS
-- **Features:** User authentication, Daily devotionals, Prayer tracking
-
-### [Can I Buy](https://github.com/mcjill/can-i-buy)
-A financial decision-making tool that helps users determine if they can afford a purchase based on their budget and financial goals.
-- **Tech Stack:** Python, FastAPI
-- **Features:** Budget analysis, Purchase affordability calculator
-
-### [Data Visualization Tool](https://github.com/mcjill/data-viz)
-An interactive data visualization platform built with React and D3.js for analyzing and presenting complex datasets.
-- **Tech Stack:** React, D3.js, TailwindCSS
-- **Features:** Dynamic charts, Data analysis, CSV file upload
-
-### [Personal Blog](https://github.com/mcjill/blog)
-A personal blog platform built with Next.js and MDX, featuring technical articles and programming tutorials.
-- **Tech Stack:** Next.js, MDX, TailwindCSS
-- **Features:** Markdown support, Code syntax highlighting, RSS feed
-
-## 📈 Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcjill&theme=tokyonight" alt="GitHub Streak Stats" />
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Spiritual Growth App</h3>
+        <div align="center">
+          <a href="https://github.com/mcjill/spiritual-growth-app" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <p>
+            <a href="https://github.com/mcjill/spiritual-growth-app">
+              <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
+              <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+              <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>Full-Stack Spiritual Development Platform</strong></p>
+          <p>
+            A Next.js application designed to support spiritual growth with features including daily devotionals, prayer tracking, and spiritual resources.
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Can I Buy</h3>
+        <div align="center">
+          <a href="https://github.com/mcjill/can-i-buy" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <p>
+            <a href="https://github.com/mcjill/can-i-buy">
+              <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+              <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+              <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>Financial Decision Support Tool</strong></p>
+          <p>
+            Smart financial decision-making tool that helps users determine purchase affordability based on budget analysis and financial goals.
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Data Visualization Tool</h3>
+        <div align="center">
+          <a href="https://github.com/mcjill/data-viz" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <p>
+            <a href="https://github.com/mcjill/data-viz">
+              <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+              <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>Interactive Data Analytics Platform</strong></p>
+          <p>
+            Modern data visualization platform featuring dynamic charts, real-time analysis, and CSV file processing capabilities.
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Personal Blog</h3>
+        <div align="center">
+          <a href="https://github.com/mcjill/blog" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <p>
+            <a href="https://github.com/mcjill/blog">
+              <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
+              <img src="https://img.shields.io/badge/MDX-1B1F24?style=flat&logo=mdx&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>Tech Blog & Tutorial Platform</strong></p>
+          <p>
+            Personal blog featuring technical articles, programming tutorials, and coding insights with MDX support and syntax highlighting.
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">School Management System</h3>
+        <div align="center">
+          <a href="https://github.com/mcjill/school-management" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <p>
+            <a href="https://github.com/mcjill/school-management">
+              <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+              <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>Comprehensive School Management Platform</strong></p>
+          <p>
+            Full-featured school management system with modules for student records, attendance tracking, grade management, and parent communication.
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">E-commerce API</h3>
+        <div align="center">
+          <a href="https://github.com/mcjill/ecommerce-api" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <p>
+            <a href="https://github.com/mcjill/ecommerce-api">
+              <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+              <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>RESTful E-commerce Backend</strong></p>
+          <p>
+            Scalable e-commerce API with features for product management, cart operations, order processing, and payment integration.
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🏆 Dev Community Presence
