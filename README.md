@@ -36,24 +36,35 @@ Description of another amazing project.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcjill&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
-## 🏆 Dev.to Stats & Achievements
+## 🏆 Dev Community Presence
 
 <div align="center">
-  <a href="https://dev.to/elliot_brenya">
-    <img src="https://img.shields.io/badge/dev.to-Follow%20%40elliot__brenya-lightgrey?style=for-the-badge&logo=dev.to" alt="Follow on Dev.to"/>
-  </a>
+  
+[![Elliot Brenya's DEV Profile](https://img.shields.io/badge/-DEV.to%20Profile-000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/elliot_brenya)
+
+<!-- DEV Community Stats -->
+[![DEV.to Posts](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Dev.to%20Posts&query=$.published_articles_count&url=https://dev.to/api/users/elliot_brenya/articles&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/elliot_brenya)
+[![DEV.to Comments](https://img.shields.io/badge/dynamic/json?color=blue&label=Dev.to%20Comments&query=$.comments_count&url=https://dev.to/api/users/elliot_brenya&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/elliot_brenya)
+
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mcjill/mcjill/devcard/devcard.svg" width="400" alt="Elliot Brenya's Dev Card"/>
-</div>
-
-<!-- Dev.to blog posts -->
-<div align="center">
-  <h3>📝 Latest Dev.to Posts</h3>
-  <a href="https://dev.to/elliot_brenya">
-    <img src="https://dev.to/api/dynamic_svg/articles/user/elliot_brenya" alt="Elliot Brenya's Dev.to posts" width="400"/>
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://app.daily.dev/elliot_brenya">
+          <img src="https://github.com/mcjill/mcjill/blob/main/devcard.png" width="250" alt="Elliot Brenya's Dev Card" align="left"/>
+        </a>
+      </td>
+      <td>
+        <h3>Latest Blog Posts 📝</h3>
+        <!-- BLOG-POST-LIST:START -->
+        <!-- This section will be automatically updated with your latest posts -->
+        <!-- BLOG-POST-LIST:END -->
+        <p><a href="https://dev.to/elliot_brenya">➡️ More blog posts</a></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🤝 Let's Connect!
