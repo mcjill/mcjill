@@ -40,31 +40,19 @@ Description of another amazing project.
 
 <div align="center">
   
-[![Elliot Brenya's DEV Profile](https://img.shields.io/badge/-DEV.to%20Profile-000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/elliot_brenya)
+[![Dev.to Profile](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/elliot_brenya)
 
-<!-- DEV Community Stats -->
-[![DEV.to Posts](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Dev.to%20Posts&query=$.published_articles_count&url=https://dev.to/api/users/elliot_brenya/articles&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/elliot_brenya)
-[![DEV.to Comments](https://img.shields.io/badge/dynamic/json?color=blue&label=Dev.to%20Comments&query=$.comments_count&url=https://dev.to/api/users/elliot_brenya&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/elliot_brenya)
+<a href="https://app.daily.dev/elliot_brenya">
+  <img src="https://api.daily.dev/devcards/v2/elliot_brenya.png?type=default&r=6cp" width="356" alt="Elliot Brenya's Dev Card"/>
+</a>
 
-</div>
+### Latest Blog Posts 📝
+<!-- BLOG-POST-LIST:START -->
+<!-- This section will be automatically updated with your latest posts -->
+<!-- BLOG-POST-LIST:END -->
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://app.daily.dev/elliot_brenya">
-          <img src="https://github.com/mcjill/mcjill/blob/main/devcard.png" width="250" alt="Elliot Brenya's Dev Card" align="left"/>
-        </a>
-      </td>
-      <td>
-        <h3>Latest Blog Posts 📝</h3>
-        <!-- BLOG-POST-LIST:START -->
-        <!-- This section will be automatically updated with your latest posts -->
-        <!-- BLOG-POST-LIST:END -->
-        <p><a href="https://dev.to/elliot_brenya">➡️ More blog posts</a></p>
-      </td>
-    </tr>
-  </table>
+[➡️ More blog posts](https://dev.to/elliot_brenya)
+
 </div>
 
 ## 🤝 Let's Connect!
