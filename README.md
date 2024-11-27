@@ -24,11 +24,25 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 ## 🌟 Featured Projects
 
-### Project 1
-Description of your awesome project goes here.
+### [Spiritual Growth App](https://github.com/mcjill/spiritual-growth-app)
+A Next.js application designed to support spiritual growth and development. Features include daily devotionals, prayer tracking, and spiritual resources.
+- **Tech Stack:** Next.js, React, TailwindCSS
+- **Features:** User authentication, Daily devotionals, Prayer tracking
 
-### Project 2
-Description of another amazing project.
+### [Can I Buy](https://github.com/mcjill/can-i-buy)
+A financial decision-making tool that helps users determine if they can afford a purchase based on their budget and financial goals.
+- **Tech Stack:** Python, FastAPI
+- **Features:** Budget analysis, Purchase affordability calculator
+
+### [Data Visualization Tool](https://github.com/mcjill/data-viz)
+An interactive data visualization platform built with React and D3.js for analyzing and presenting complex datasets.
+- **Tech Stack:** React, D3.js, TailwindCSS
+- **Features:** Dynamic charts, Data analysis, CSV file upload
+
+### [Personal Blog](https://github.com/mcjill/blog)
+A personal blog platform built with Next.js and MDX, featuring technical articles and programming tutorials.
+- **Tech Stack:** Next.js, MDX, TailwindCSS
+- **Features:** Markdown support, Code syntax highlighting, RSS feed
 
 ## 📈 Contribution Graph
 
