@@ -22,6 +22,66 @@ I'm a passionate developer who loves building innovative solutions and contribut
   <img src="https://github-readme-stats.vercel.app/api?username=mcjill&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
+## 💎 ERPNext Expertise
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ERPNext-Expert-brightgreen?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADASURBVHgBjZLBDcIwEAT3RAEUQAfQAR2YDqAD6MCUkQ6gg9ABdEA6gA6gA7IrPXQ6mciBlWzZp92zfQ5HG2wxxR3uJa8RBrhigSl+yxHWeEdEdBoEl/jCO5Zl8RqvmNvgDHvM7P8EE3yCZvYM+O9F0RpbeEzQYYwWJR4wwhQv+PQpwRBbNJhDG1/wgk2GnGCPGg2u8IxPmKmYI8+6P+HkJPCnHqH4+ZuEqgHPUFVVR+vhurQE5RPMWZZ9S/YHdpxZDxekKGoAAAAASUVORK5CYII=" />
+  <img src="https://img.shields.io/badge/Frappe_Framework-Top_1%25-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADASURBVHgBjZLBDcIwEAT3RAEUQAfQAR2YDqAD6MCUkQ6gA+gA6MCUQQekg5wWtjydTCbASrZsn3bP9jkcbbDFFHd4kLxGGOCKBab4LUdY4x0R0WkQXOIL71iWxWu8Ym6DM+wxs/8TTPAJ2tkz4L8XRWtsoYkJOozRosQDRpjiGZ8+JRhiiwZzaOMLnrHJkBPsUaPBFZ7wCTMVc+RZ9yecnAT+1CMUP3+TUDXgGaqq6mg9XJeWoHyCOcuy78j+AHacWQ8XpChqAAAAAElFTkSuQmCC" />
+</div>
+
+<div align="center">
+  <h3>🏆 Recognized ERPNext Expert & Top Contributor</h3>
+  <p>Specialized in complex ERPNext customizations and implementations with a proven track record of delivering enterprise-grade solutions.</p>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">ERPNext Manufacturing Suite</h3>
+        <div align="center">
+          <a href="https://github.com/mcjill/erpnext-manufacturing" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <p>
+            <img src="https://img.shields.io/badge/ERPNext-0089FF?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADASURBVHgBjZLBDcIwEAT3RAEUQAfQAR2YDqAD6MCUkQ6gA+gA6MCUQQekg5wWtjydTCbASrZsn3bP9jkcbbDFFHd4kLxGGOCKBab4LUdY4x0R0WkQXOIL71iWxWu8Ym6DM+wxs/8TTPAJ2tkz4L8XRWtsoYkJOozRosQDRpjiGZ8+JRhiiwZzaOMLnrHJkBPsUaPBFZ7wCTMVc+RZ9yecnAT+1CMUP3+TUDXgGaqq6mg9XJeWoHyCOcuy78j+AHacWQ8XpChqAAAAAElFTkSuQmCC"/>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+          </p>
+          <p><strong>Advanced Manufacturing Customization</strong></p>
+          <p>
+            Custom manufacturing modules with advanced production planning, quality control, and real-time tracking capabilities.
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Healthcare Management System</h3>
+        <div align="center">
+          <a href="https://github.com/mcjill/erpnext-healthcare" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <p>
+            <img src="https://img.shields.io/badge/ERPNext-0089FF?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADASURBVHgBjZLBDcIwEAT3RAEUQAfQAR2YDqAD6MCUkQ6gA+gA6MCUQQekg5wWtjydTCbASrZsn3bP9jkcbbDFFHd4kLxGGOCKBab4LUdY4x0R0WkQXOIL71iWxWu8Ym6DM+wxs/8TTPAJ2tkz4L8XRWtsoYkJOozRosQDRpjiGZ8+JRhiiwZzaOMLnrHJkBPsUaPBFZ7wCTMVc+RZ9yecnAT+1CMUP3+TUDXgGaqq6mg9XJeWoHyCOcuy78j+AHacWQ8XpChqAAAAAElFTkSuQmCC"/>
+            <img src="https://img.shields.io/badge/Frappe-00A4EF?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADASURBVHgBjZLBDcIwEAT3RAEUQAfQAR2YDqAD6MCUkQ6gA+gA6MCUQQekg5wWtjydTCbASrZsn3bP9jkcbbDFFHd4kLxGGOCKBab4LUdY4x0R0WkQXOIL71iWxWu8Ym6DM+wxs/8TTPAJ2tkz4L8XRWtsoYkJOozRosQDRpjiGZ8+JRhiiwZzaOMLnrHJkBPsUaPBFZ7wCTMVc+RZ9yecnAT+1CMUP3+TUDXgGaqq6mg9XJeWoHyCOcuy78j+AHacWQ8XpChqAAAAAElFTkSuQmCC"/>
+            <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
+          </p>
+          <p><strong>Healthcare ERP Solution</strong></p>
+          <p>
+            Comprehensive healthcare management system with patient records, appointment scheduling, and billing integration.
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🛠️ ERPNext Expertise Highlights:
+- **Custom Module Development**: Building tailored solutions for specific business needs
+- **Complex Workflows**: Implementing sophisticated business processes and automation
+- **Integration Specialist**: Connecting ERPNext with external systems and APIs
+- **Performance Optimization**: Enhancing system performance for large-scale deployments
+- **Technical Consulting**: Providing expert guidance on ERPNext architecture and customization
+
 ## 🌟 Featured Projects
 
 <div align="center">
