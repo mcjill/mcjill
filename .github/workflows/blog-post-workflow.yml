@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every 10 minutes
+    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -27,6 +27,9 @@ jobs:
           feed_list: "https://dev.to/feed/elliot_brenya"
           max_post_count: 12
           gh_token: ${{ secrets.GH_TOKEN }}
-          commit_message: "Updated README with the latest blog posts"
+          commit_message: "Updated README with latest blog posts"
           committer_username: "blog-post-bot"
           committer_email: "blog-post-bot@example.com"
+          readme_path: ./README.md
+          retry_count: 1
+          sort: "date"
