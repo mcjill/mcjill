@@ -6,10 +6,17 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   devcard:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
         with:
@@ -17,3 +24,4 @@ jobs:
           commit_branch: main
           commit_message: "chore: update dev card"
           commit_filename: devcard.png
+          token: ${{ secrets.GH_TOKEN }}
