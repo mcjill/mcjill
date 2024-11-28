@@ -30,5 +30,3 @@ jobs:
           commit_message: "chore: update dev card"
           commit_filename: devcard.png
           token: ${{ secrets.GH_TOKEN }}
-          committer_name: "dev-card-bot"
-          committer_email: "dev-card-bot@example.com"
