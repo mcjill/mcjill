@@ -221,7 +221,18 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
-<!-- This section will be automatically updated with your latest posts -->
+- [IT WORKS](https://dev.to/elliot_brenya/it-works-3cdb)
+- [Fixing Vercel 404 Errors: A Simple Solution for Node.js Projects](https://dev.to/elliot_brenya/fixing-vercel-404-errors-a-simple-solution-for-nodejs-projects-1jbf)
+- [How To Use Zapcap API &lpar;API for Subtitles&rpar;](https://dev.to/elliot_brenya/how-to-use-zapcap-api-api-for-subtitles-4ln7)
+- [16 Brand New APIs Every Developer Should Use](https://dev.to/elliot_brenya/16-brand-new-apis-every-developer-should-use-24pd)
+- [How to Generate Automated API Documentation](https://dev.to/elliot_brenya/how-to-generate-automated-api-documentation-5g9b)
+- [The psychology 🧠of debugging - It Works 💯](https://dev.to/elliot_brenya/the-psychology-of-debugging-it-works-26a9)
+- [Building a Progressive Web App with React](https://dev.to/elliot_brenya/building-a-progressive-web-app-with-react-ifd)
+- [Build Your Own Machine Learning Models without writing a single line of code 🤯](https://dev.to/elliot_brenya/build-your-own-machine-learning-models-without-writing-a-single-line-of-code-189c)
+- [Best Software Tools for Remote Teams](https://dev.to/elliot_brenya/best-software-tools-for-remote-teams-3a1a)
+- [Unleashing the Power⚡ of Tokenization in JavaScript](https://dev.to/elliot_brenya/genesis-of-tokenization-in-javascript-3p0j)
+- [Machine Learning 🤖 Concepts Every Developer Should Know](https://dev.to/elliot_brenya/machine-learning-concepts-every-developer-should-know-3ck9)
+- [How to Build Email Lookup Extension for Chrome using Hazelbase APIs](https://dev.to/elliot_brenya/how-to-build-email-lookup-extension-for-chrome-using-hazelbase-apis-3lil)
 <!-- BLOG-POST-LIST:END -->
 
 [➡️ More blog posts](https://dev.to/elliot_brenya)
