@@ -1,0 +1,1001 @@
+name,creation,modified,modified_by,owner,docstatus,idx,guardian,guardian_name,relation,parent,parentfield,parenttype
+0hekat0ajh,"2024-11-14 13:07:05.300747","2024-11-14 13:07:05.300747",Administrator,Administrator,0,2,M12110-080,"Walanyo D. Brown ",Mother,EDU-STU-2024-00001,guardians,Student
+1onojtufr3,"2024-11-14 13:07:05.300747","2024-11-14 13:07:05.300747",Administrator,Administrator,0,1,F12007-001,"Nii Adokwei Abrahams",Father,EDU-STU-2024-00001,guardians,Student
+F12007-001,"2024-11-12 17:56:14.024289","2024-11-14 12:59:42.702673",Administrator,Administrator,0,1,F12007-001,"Nii Adokwei Abrahams",Father,12007-001,guardians,Student
+F12007-002,"2024-11-12 17:56:14.302509","2024-11-14 12:59:42.925221",Administrator,Administrator,0,1,F12007-002,"Eric Agyen-Frempong",Father,12007-002,guardians,Student
+F12007-003,"2024-11-12 17:56:14.345606","2024-11-14 12:59:42.993730",Administrator,Administrator,0,1,F12007-003,"Boahene Asamoah",Father,12007-003,guardians,Student
+F12007-004,"2024-11-12 17:56:14.394141","2024-11-14 12:59:43.061030",Administrator,Administrator,0,1,F12007-004,"Ekow Annobil",Father,12007-004,guardians,Student
+F12007-005,"2024-11-12 17:56:14.439302","2024-11-14 12:59:43.125932",Administrator,Administrator,0,1,F12007-005,"Michael Asiedu-Buabeng",Father,12007-005,guardians,Student
+F12007-007,"2024-11-12 17:56:14.463435","2024-11-14 12:51:19.794510",Administrator,Administrator,0,1,F12007-007,"Mark Owusu-Ntow",Father,12007-007,guardians,Student
+F12007-009,"2024-11-12 17:56:14.493189","2024-11-14 12:59:43.311113",Administrator,Administrator,0,1,F12007-009,"Michael Adjei Asante",Father,12007-009,guardians,Student
+F12007-011,"2024-11-12 17:56:14.533314","2024-11-14 12:59:43.373190",Administrator,Administrator,0,1,F12007-011,"Harry Atta-Motte",Father,12007-011,guardians,Student
+F12007-013,"2024-11-12 17:56:14.562149","2024-11-14 12:59:43.437042",Administrator,Administrator,0,1,F12007-013,"Johnnie Awunyo",Father,12007-013,guardians,Student
+F12007-014,"2024-11-12 17:56:14.590832","2024-11-14 12:59:43.500991",Administrator,Administrator,0,1,F12007-014,"Brentum Clement",Father,12007-014,guardians,Student
+F12007-015,"2024-11-12 17:56:14.624806","2024-11-14 12:59:43.561726",Administrator,Administrator,0,1,F12007-015,"Anthony Kwesi Eshun",Father,12007-015,guardians,Student
+F12007-016,"2024-11-12 17:56:14.657282","2024-11-14 12:59:43.620589",Administrator,Administrator,0,1,F12007-016,"Ato Herdricks",Father,12007-016,guardians,Student
+F12007-023,"2024-11-12 17:56:14.693484","2024-11-14 12:59:43.680331",Administrator,Administrator,0,1,F12007-023,"Kuklui Gavua",Father,12007-023,guardians,Student
+F12007-024,"2024-11-12 17:56:14.736407","2024-11-14 12:59:43.740753",Administrator,Administrator,0,1,F12007-024,"Andrews Adu Osei",Father,12007-024,guardians,Student
+F12007-025,"2024-11-12 17:56:14.772208","2024-11-14 12:51:20.352417",Administrator,Administrator,0,1,F12007-025,"Boahene Asamoah",Father,12007-025,guardians,Student
+F12007-026,"2024-11-12 17:56:14.805332","2024-11-14 12:59:43.816688",Administrator,Administrator,0,1,F12007-026,"Kwabena Gyaami Amoah",Father,12007-026,guardians,Student
+F12007-027,"2024-11-12 17:56:14.833223","2024-11-14 12:51:20.466600",Administrator,Administrator,0,1,F12007-027,"VIDE KOMLA OFORI",Father,12007-027,guardians,Student
+F12007-028,"2024-11-12 17:56:14.867737","2024-11-14 12:59:43.892349",Administrator,Administrator,0,1,F12007-028,"Charles Oscar-Welbeck",Father,12007-028,guardians,Student
+F12007-029,"2024-11-12 17:56:14.899767","2024-11-14 12:59:43.956493",Administrator,Administrator,0,1,F12007-029,"Oheneba Kojo Quartsin",Father,12007-029,guardians,Student
+F12007-030,"2024-11-12 17:56:14.935995","2024-11-14 12:59:44.017717",Administrator,Administrator,0,1,F12007-030,"Julius Aptidon Awini",Father,12007-030,guardians,Student
+F12007-032,"2024-11-12 17:56:14.971879","2024-11-14 12:59:44.076442",Administrator,Administrator,0,1,F12007-032,"Malcom Yawson",Father,12007-032,guardians,Student
+F12007-033,"2024-11-12 17:56:15.007724","2024-11-14 12:59:44.134048",Administrator,Administrator,0,1,F12007-033,"Daniel Kwadwo Owusu",Father,12007-033,guardians,Student
+F12007-034,"2024-11-12 17:56:15.037823","2024-11-14 12:59:44.192448",Administrator,Administrator,0,1,F12007-034,"David Ganesha Tetteh",Father,12007-034,guardians,Student
+F12007-035,"2024-11-12 17:56:15.065892","2024-11-14 12:59:44.253711",Administrator,Administrator,0,1,F12007-035,"Kofi Annan",Father,12007-035,guardians,Student
+F12007-036,"2024-11-12 17:56:15.088802","2024-11-14 12:59:44.313904",Administrator,Administrator,0,1,F12007-036,"Emil Kofi Clive-Plange",Father,12007-036,guardians,Student
+F12007-037,"2024-11-12 17:56:15.112682","2024-11-14 12:59:44.373715",Administrator,Administrator,0,1,F12007-037,"Kow Aboagye Egyankor",Father,12007-037,guardians,Student
+F12007-038,"2024-11-12 17:56:15.135798","2024-11-14 12:59:44.432633",Administrator,Administrator,0,1,F12007-038,"Sylvester Kwesi Inkoom",Father,12007-038,guardians,Student
+F12007-040,"2024-11-12 17:56:15.165539","2024-11-14 12:59:44.494179",Administrator,Administrator,0,1,F12007-040,"Emmanuel Kwofie",Father,12007-040,guardians,Student
+F12007-041,"2024-11-12 17:56:15.192727","2024-11-14 12:59:44.552285",Administrator,Administrator,0,1,F12007-041,"Israel Laryea",Father,12007-041,guardians,Student
+F12007-043,"2024-11-12 17:56:15.218131","2024-11-14 12:59:44.610277",Administrator,Administrator,0,1,F12007-043,"Dominic K Brenya-Otchere",Father,12007-043,guardians,Student
+F12007-044,"2024-11-12 17:56:15.244164","2024-11-14 12:59:44.668159",Administrator,Administrator,0,1,F12007-044,"Mubarak Abdul Malik",Father,12007-044,guardians,Student
+F12007-047,"2024-11-12 17:56:15.277783","2024-11-14 12:59:44.725331",Administrator,Administrator,0,1,F12007-047,"Edwin Tetteh-Bio",Father,12007-047,guardians,Student
+F12007-049,"2024-11-12 17:56:15.313358","2024-11-14 12:59:44.782901",Administrator,Administrator,0,1,F12007-049,"William Empeh",Father,12007-049,guardians,Student
+F12007-050,"2024-11-12 17:56:15.345337","2024-11-14 12:59:44.843418",Administrator,Administrator,0,1,F12007-050,"Julius Jeffery Djan",Father,12007-050,guardians,Student
+F12007-051,"2024-11-12 17:56:15.384948","2024-11-14 12:59:44.905017",Administrator,Administrator,0,1,F12007-051,"Stephen Yaw Osei",Father,12007-051,guardians,Student
+F12007-052,"2024-11-12 17:56:15.420621","2024-11-14 12:51:21.570701",Administrator,Administrator,0,1,F12007-052,"David Coleman",Father,12007-052,guardians,Student
+F12007-054,"2024-11-12 17:56:15.457970","2024-11-14 12:59:45.003711",Administrator,Administrator,0,1,F12007-054,"John Kwesi Kermah",Father,12007-054,guardians,Student
+F12007-055,"2024-11-12 17:56:15.489227","2024-11-14 12:59:45.062714",Administrator,Administrator,0,1,F12007-055,"Gilbert Abadji",Father,12007-055,guardians,Student
+F12007-056,"2024-11-12 17:56:15.522527","2024-11-14 12:51:21.753780",Administrator,Administrator,0,1,F12007-056,"Kwabena Owusu Akyaw",Father,12007-056,guardians,Student
+F12007-057,"2024-11-12 17:56:15.551291","2024-11-14 12:59:45.130996",Administrator,Administrator,0,1,F12007-057,"Francis Amoako",Father,12007-057,guardians,Student
+F12007-060,"2024-11-12 17:56:15.587858","2024-11-14 12:59:45.190721",Administrator,Administrator,0,1,F12007-060,"Solomon Kofi Addo",Father,12007-060,guardians,Student
+F12007-061,"2024-11-12 17:56:15.632270","2024-11-14 12:51:21.944097",Administrator,Administrator,0,1,F12007-061,"Solomon Kofi Addo",Father,12007-061,guardians,Student
+F12007-062,"2024-11-12 17:56:15.671796","2024-11-14 12:51:22.015678",Administrator,Administrator,0,1,F12007-062,"Frank Osei-Boakye",Father,12007-062,guardians,Student
+F12007-065,"2024-11-12 17:56:15.694032","2024-11-14 12:59:45.273649",Administrator,Administrator,0,1,F12007-065,"Alex Gyebi Ababio",Father,12007-065,guardians,Student
+F12007-066,"2024-11-12 17:56:15.724221","2024-11-14 12:51:22.136771",Administrator,Administrator,0,1,F12007-066,"Frank Brown",Father,12007-066,guardians,Student
+F12007-067,"2024-11-12 17:56:15.756136","2024-11-14 12:59:45.344356",Administrator,Administrator,0,1,F12007-067,"Frank Brown",Father,12007-067,guardians,Student
+F12007-069,"2024-11-12 17:56:15.791866","2024-11-14 12:59:45.403954",Administrator,Administrator,0,1,F12007-069,"Akim Adio Tijani",Father,12007-069,guardians,Student
+F12008-002,"2024-11-12 17:56:15.822354","2024-11-14 12:59:45.464155",Administrator,Administrator,0,1,F12008-002,"Nana Kwesi Akomanyi",Father,12008-002,guardians,Student
+F12008-003,"2024-11-12 17:56:15.850244","2024-11-14 12:51:22.375509",Administrator,Administrator,0,1,F12008-003,"Julius Aptidon Awini",Father,12008-003,guardians,Student
+F12008-006,"2024-11-12 17:56:15.879051","2024-11-14 12:59:45.536036",Administrator,Administrator,0,1,F12008-006,"Emmanuel Armah Appoe",Father,12008-006,guardians,Student
+F12008-008,"2024-11-12 17:56:15.907409","2024-11-14 12:59:45.628065",Administrator,Administrator,0,1,F12008-008,"Mr. Stanley Tanor",Father,12008-008,guardians,Student
+F12008-009,"2024-11-12 17:56:15.930080","2024-11-14 12:59:45.688073",Administrator,Administrator,0,1,F12008-009,"Kwadwo Konadu",Father,12008-009,guardians,Student
+F12008-011,"2024-11-12 17:56:15.954387","2024-11-14 12:59:45.748787",Administrator,Administrator,0,1,F12008-011,"Franklin Quist",Father,12008-011,guardians,Student
+F12008-012,"2024-11-12 17:56:15.976352","2024-11-14 12:59:45.809380",Administrator,Administrator,0,1,F12008-012,"Michael Kojo Savage",Father,12008-012,guardians,Student
+F12008-013,"2024-11-12 17:56:16.012079","2024-11-14 12:59:45.867367",Administrator,Administrator,0,1,F12008-013,"Agyeman Safo",Father,12008-013,guardians,Student
+F12008-014,"2024-11-12 17:56:16.044968","2024-11-14 12:51:22.795829",Administrator,Administrator,0,1,F12008-014,"Reggie Scot-Perry",Father,12008-014,guardians,Student
+F12008-016,"2024-11-12 17:56:16.076148","2024-11-14 12:59:45.935118",Administrator,Administrator,0,1,F12008-016,"Samuel Dotse",Father,12008-016,guardians,Student
+F12008-017,"2024-11-12 17:56:16.784347","2024-11-14 12:51:22.914929",Administrator,Administrator,0,1,F12008-017,"Stephen Yaw Osei",Father,12008-017,guardians,Student
+F12008-019,"2024-11-12 17:56:16.845203","2024-11-14 12:59:46.003581",Administrator,Administrator,0,1,F12008-019,"Prosper Agbekudzi",Father,12008-019,guardians,Student
+F12008-020,"2024-11-12 17:56:16.888045","2024-11-14 12:59:46.061756",Administrator,Administrator,0,1,F12008-020,"Mr. Aderemi Aibinu",Father,12008-020,guardians,Student
+F12008-021,"2024-11-12 17:56:16.923688","2024-11-14 12:59:46.123401",Administrator,Administrator,0,1,F12008-021,"Ebenezer Baisie Armoh",Father,12008-021,guardians,Student
+F12008-022,"2024-11-12 17:56:16.947194","2024-11-14 12:59:46.190242",Administrator,Administrator,0,1,F12008-022,"Emmanuel Kweku Kumi",Father,12008-022,guardians,Student
+F12008-023,"2024-11-12 17:56:17.027074","2024-11-14 12:59:46.250780",Administrator,Administrator,0,1,F12008-023,"Maxwell B. Mensah",Father,12008-023,guardians,Student
+F12107-001,"2024-11-12 17:56:17.064134","2024-11-14 12:59:46.312156",Administrator,Administrator,0,1,F12107-001,"Mr Samuel Ayesu Abrokwa",Father,12107-001,guardians,Student
+F12107-002,"2024-11-12 17:56:17.103639","2024-11-14 12:59:46.372639",Administrator,Administrator,0,1,F12107-002,"Mr. Emmanuel Ohene Addo",Father,12107-002,guardians,Student
+F12107-003,"2024-11-12 17:56:17.155562","2024-11-14 12:51:23.403461",Administrator,Administrator,0,1,F12107-003,"Mr. Emmanuel Ohene Addo",Father,12107-003,guardians,Student
+F12107-005,"2024-11-12 17:56:17.188696","2024-11-14 12:59:46.439945",Administrator,Administrator,0,1,F12107-005,"Lawyer Emm Adumua-Bossman",Father,12107-005,guardians,Student
+F12107-006,"2024-11-12 17:56:17.222067","2024-11-14 12:59:46.500549",Administrator,Administrator,0,1,F12107-006,"Reverend Mark Agbeko",Father,12107-006,guardians,Student
+F12107-009,"2024-11-12 17:56:17.244307","2024-11-14 12:59:46.570216",Administrator,Administrator,0,1,F12107-009,"Bishop John Ahiati",Father,12107-009,guardians,Student
+F12107-011,"2024-11-12 17:56:17.277976","2024-11-14 12:59:46.662546",Administrator,Administrator,0,1,F12107-011,"Mr. Nana Kwesi Akomanyi",Father,12107-011,guardians,Student
+F12107-012,"2024-11-12 17:56:17.306849","2024-11-14 12:59:46.721481",Administrator,Administrator,0,1,F12107-012,"Mr Richard Akowuah",Father,12107-012,guardians,Student
+F12107-014,"2024-11-12 17:56:17.334926","2024-11-14 12:59:46.782152",Administrator,Administrator,0,1,F12107-014,"Mr Seth Forson",Father,12107-014,guardians,Student
+F12107-016,"2024-11-12 17:56:17.387483","2024-11-14 12:59:46.842283",Administrator,Administrator,0,1,F12107-016,"Dr John Kweku Asamoah",Father,12107-016,guardians,Student
+F12107-017,"2024-11-12 17:56:17.415820","2024-11-14 12:59:46.900531",Administrator,Administrator,0,1,F12107-017,"Mr. Joseph Ekow Amankatah",Father,12107-017,guardians,Student
+F12107-021,"2024-11-12 17:56:17.471051","2024-11-14 12:59:46.959656",Administrator,Administrator,0,1,F12107-021,"Dr Daniel Asare-Kyei",Father,12107-021,guardians,Student
+F12107-022,"2024-11-12 17:56:17.492800","2024-11-14 12:59:47.019299",Administrator,Administrator,0,1,F12107-022,"MR. KWESI ATTOBRAH",Father,12107-022,guardians,Student
+F12107-023,"2024-11-12 17:56:17.523960","2024-11-14 12:59:47.076864",Administrator,Administrator,0,1,F12107-023,"Mr. Kodwo Arizie",Father,12107-023,guardians,Student
+F12107-025,"2024-11-12 17:56:17.546355","2024-11-14 12:59:47.134762",Administrator,Administrator,0,1,F12107-025,"Dr Kwadwo Boachie",Father,12107-025,guardians,Student
+F12107-029,"2024-11-12 17:56:17.609049","2024-11-14 12:59:47.192266",Administrator,Administrator,0,1,F12107-029,"Mr Kwami Sefa Kayi",Father,12107-029,guardians,Student
+F12107-030,"2024-11-12 17:56:17.645969","2024-11-14 12:59:47.252514",Administrator,Administrator,0,1,F12107-030,"MR DAVID ESSANDOH",Father,12107-030,guardians,Student
+F12107-032,"2024-11-12 17:56:17.685325","2024-11-14 12:59:47.309734",Administrator,Administrator,0,1,F12107-032,"Mr Ronald Bastford",Father,12107-032,guardians,Student
+F12107-033,"2024-11-12 17:56:17.711126","2024-11-14 12:59:47.368934",Administrator,Administrator,0,1,F12107-033,"Mr Micaiah Mawutor",Father,12107-033,guardians,Student
+F12107-034,"2024-11-12 17:56:17.739689","2024-11-14 12:59:47.427204",Administrator,Administrator,0,1,F12107-034,"Mr Kwadwo Konadu",Father,12107-034,guardians,Student
+F12107-036,"2024-11-12 17:56:17.777877","2024-11-14 12:59:47.488120",Administrator,Administrator,0,1,F12107-036,"Dr Benjamin Kwofie",Father,12107-036,guardians,Student
+F12107-037,"2024-11-12 17:56:17.806615","2024-11-14 12:59:47.547282",Administrator,Administrator,0,1,F12107-037,"Professor George Kyei",Father,12107-037,guardians,Student
+F12107-038,"2024-11-12 17:56:17.843222","2024-11-14 12:59:47.606438",Administrator,Administrator,0,1,F12107-038,"Mr George Lamptey",Father,12107-038,guardians,Student
+F12107-039,"2024-11-12 17:56:17.875267","2024-11-14 12:59:47.666942",Administrator,Administrator,0,1,F12107-039,"Rev David Larkai",Father,12107-039,guardians,Student
+F12107-040,"2024-11-12 17:56:17.920296","2024-11-14 12:59:47.725240",Administrator,Administrator,0,1,F12107-040,"Mr George Maddy",Father,12107-040,guardians,Student
+F12107-041,"2024-11-12 17:56:17.952312","2024-11-14 12:59:47.784220",Administrator,Administrator,0,1,F12107-041,"Mr Nii Ankrah Hyde",Father,12107-041,guardians,Student
+F12107-042,"2024-11-12 17:56:17.985319","2024-11-14 12:59:47.842437",Administrator,Administrator,0,1,F12107-042,"Mr Ellis Nai",Father,12107-042,guardians,Student
+F12107-043,"2024-11-12 17:56:18.009155","2024-11-14 12:59:47.902529",Administrator,Administrator,0,1,F12107-043,"Mr Kwabena Nimo-Tieku",Father,12107-043,guardians,Student
+F12107-047,"2024-11-12 17:56:18.074964","2024-11-14 12:59:47.959505",Administrator,Administrator,0,1,F12107-047,"Mr Samuel Nortey",Father,12107-047,guardians,Student
+F12107-048,"2024-11-12 17:56:18.105166","2024-11-14 12:59:48.016769",Administrator,Administrator,0,1,F12107-048,"Mr Gilbert Owusu",Father,12107-048,guardians,Student
+F12107-050,"2024-11-12 17:56:18.133207","2024-11-14 12:59:48.075458",Administrator,Administrator,0,1,F12107-050,"Mr Simon Pomary",Father,12107-050,guardians,Student
+F12107-051,"2024-11-12 17:56:18.155696","2024-11-14 12:59:48.134069",Administrator,Administrator,0,1,F12107-051,"Mr Taofeek Sulley",Father,12107-051,guardians,Student
+F12107-052,"2024-11-12 17:56:18.183521","2024-11-14 12:59:48.195389",Administrator,Administrator,0,1,F12107-052,"Dr Peter Tobbin",Father,12107-052,guardians,Student
+F12107-054,"2024-11-12 17:56:18.237297","2024-11-14 12:59:48.284845",Administrator,Administrator,0,1,F12107-054,"Mr. Stanley Yankson",Father,12107-054,guardians,Student
+F12107-056,"2024-11-12 17:56:18.276532","2024-11-14 12:59:48.417326",Administrator,Administrator,0,1,F12107-056,"Mr Mark Agyei",Father,12107-056,guardians,Student
+F12107-058,"2024-11-12 17:56:18.328872","2024-11-14 12:59:48.516561",Administrator,Administrator,0,1,F12107-058,"Mr Alexander Sarpong",Father,12107-058,guardians,Student
+F12107-059,"2024-11-12 17:56:18.350540","2024-11-14 12:59:48.599239",Administrator,Administrator,0,1,F12107-059,"Mr George Essandoh",Father,12107-059,guardians,Student
+F12107-061,"2024-11-12 17:56:18.384040","2024-11-14 12:59:48.673470",Administrator,Administrator,0,1,F12107-061,"Mr Kingsley Konadu",Father,12107-061,guardians,Student
+F12107-062,"2024-11-12 17:56:18.412319","2024-11-14 12:59:48.755559",Administrator,Administrator,0,1,F12107-062,"Mr Andrews Sarpong Amoah",Father,12107-062,guardians,Student
+F12107-063,"2024-11-12 17:56:18.437628","2024-11-14 12:59:48.831457",Administrator,Administrator,0,1,F12107-063,"Mr John Baidoo Danquah",Father,12107-063,guardians,Student
+F12107-064,"2024-11-12 17:56:18.467048","2024-11-14 12:59:48.902075",Administrator,Administrator,0,1,F12107-064,"Mr Christian Anyan Asher",Father,12107-064,guardians,Student
+F12107-065,"2024-11-12 17:56:18.489030","2024-11-14 12:59:48.967292",Administrator,Administrator,0,1,F12107-065,"Mr Noah Akakpo",Father,12107-065,guardians,Student
+F12107-066,"2024-11-12 17:56:18.519212","2024-11-14 12:59:49.044336",Administrator,Administrator,0,1,F12107-066,"Mr Claude Tolo",Father,12107-066,guardians,Student
+F12107-068,"2024-11-12 17:56:18.541312","2024-11-14 12:59:49.130143",Administrator,Administrator,0,1,F12107-068,"Mr Tony Yaw Adoninaab",Father,12107-068,guardians,Student
+F12107-069,"2024-11-12 17:56:18.573683","2024-11-14 12:59:49.204959",Administrator,Administrator,0,1,F12107-069,"DR. AGYEMANG FRIMPONG",Father,12107-069,guardians,Student
+F12107-070,"2024-11-12 17:56:18.598442","2024-11-14 12:59:49.308905",Administrator,Administrator,0,1,F12107-070,"Father Grant Sapara",Father,12107-070,guardians,Student
+F12108-001,"2024-11-12 17:56:18.629230","2024-11-14 12:59:49.389090",Administrator,Administrator,0,1,F12108-001,"Benjamin Ackon",Father,12108-001,guardians,Student
+F12108-002,"2024-11-12 17:56:18.652583","2024-11-14 12:59:49.486029",Administrator,Administrator,0,1,F12108-002,"Dr. Robinson A Milwood",Father,12108-002,guardians,Student
+F12108-003,"2024-11-12 17:56:18.681890","2024-11-14 12:59:49.561523",Administrator,Administrator,0,1,F12108-003,"Isaac Ahorney",Father,12108-003,guardians,Student
+F12108-004,"2024-11-12 17:56:18.705952","2024-11-14 12:59:49.641601",Administrator,Administrator,0,1,F12108-004,"Edward Aikins",Father,12108-004,guardians,Student
+F12108-005,"2024-11-12 17:56:18.735269","2024-11-14 12:59:49.725826",Administrator,Administrator,0,1,F12108-005,"Amoah Kofi Appiah-Kubi",Father,12108-005,guardians,Student
+F12108-006,"2024-11-12 17:56:18.770189","2024-11-14 12:59:49.827024",Administrator,Administrator,0,1,F12108-006,"Thomas Kofi Asiamah",Father,12108-006,guardians,Student
+F12108-007,"2024-11-12 17:56:18.795422","2024-11-14 12:59:49.915985",Administrator,Administrator,0,1,F12108-007,"Samuel Nii Sackey Botchway",Father,12108-007,guardians,Student
+F12108-009,"2024-11-12 17:56:18.835276","2024-11-14 12:59:49.994913",Administrator,Administrator,0,1,F12108-009,"Ato Kwamina Gaisie",Father,12108-009,guardians,Student
+F12108-011,"2024-11-12 17:56:18.888154","2024-11-14 12:59:50.074648",Administrator,Administrator,0,1,F12108-011,"Kobina Idun-Arkhurst",Father,12108-011,guardians,Student
+F12108-013,"2024-11-12 17:56:18.918433","2024-11-14 12:59:50.161678",Administrator,Administrator,0,1,F12108-013,"Clifford Laryea",Father,12108-013,guardians,Student
+F12108-014,"2024-11-12 17:56:19.027529","2024-11-14 12:59:50.268405",Administrator,Administrator,0,1,F12108-014,"Hope Smith Lomotey",Father,12108-014,guardians,Student
+F12108-016,"2024-11-12 17:56:19.049574","2024-11-14 12:59:50.359922",Administrator,Administrator,0,1,F12108-016,"Wilfred Kweku Osei",Father,12108-016,guardians,Student
+F12108-019,"2024-11-12 17:56:19.085538","2024-11-14 12:59:50.426421",Administrator,Administrator,0,1,F12108-019,"Michael Teye",Father,12108-019,guardians,Student
+F12108-020,"2024-11-12 17:56:19.169718","2024-11-14 12:59:50.501655",Administrator,Administrator,0,1,F12108-020,"Alexander Yeboah",Father,12108-020,guardians,Student
+F12108-022,"2024-11-12 17:56:19.191113","2024-11-14 12:59:50.570072",Administrator,Administrator,0,1,F12108-022,"Henry Otoo-Mensah",Father,12108-022,guardians,Student
+F12108-024,"2024-11-12 17:56:19.221466","2024-11-14 12:59:50.638134",Administrator,Administrator,0,1,F12108-024,"Osman Ayuba Aludiba",Father,12108-024,guardians,Student
+F12108-026,"2024-11-12 17:56:19.242962","2024-11-14 12:59:50.703486",Administrator,Administrator,0,1,F12108-026,"Felix Nii Mensah Anang- La",Father,12108-026,guardians,Student
+F12108-027,"2024-11-12 17:56:19.289262","2024-11-14 12:59:50.765960",Administrator,Administrator,0,1,F12108-027,"Leon Michael Cudjoe",Father,12108-027,guardians,Student
+F12108-029,"2024-11-12 17:56:19.327885","2024-11-14 12:59:50.826303",Administrator,Administrator,0,1,F12108-029,"James Kwadwo Owusu",Father,12108-029,guardians,Student
+F12108-030,"2024-11-12 17:56:19.350320","2024-11-14 12:59:50.888690",Administrator,Administrator,0,1,F12108-030,"Bernard Antwi-Boasiako",Father,12108-030,guardians,Student
+F12108-032,"2024-11-12 17:56:19.381731","2024-11-14 12:51:29.210563",Administrator,Administrator,0,1,F12108-032,"Martin Tamatey",Father,12108-032,guardians,Student
+F12109-001,"2024-11-12 17:56:19.445386","2024-11-14 12:59:50.962555",Administrator,Administrator,0,1,F12109-001,"Mawuko Kweku Afadzinu",Father,12109-001,guardians,Student
+F12109-002,"2024-11-12 17:56:19.480624","2024-11-14 12:51:29.336882",Administrator,Administrator,0,1,F12109-002,"Amoah Kofi Appiah-Kubi",Father,12109-002,guardians,Student
+F12109-003,"2024-11-12 17:56:19.519168","2024-11-14 12:59:51.047760",Administrator,Administrator,0,1,F12109-003,"Thompson Jacob Asare",Father,12109-003,guardians,Student
+F12109-004,"2024-11-12 17:56:19.545417","2024-11-14 12:59:51.117068",Administrator,Administrator,0,1,F12109-004,"James Kwesi Agyemang Boachie",Father,12109-004,guardians,Student
+F12109-005,"2024-11-12 17:56:19.581429","2024-11-14 12:59:51.183162",Administrator,Administrator,0,1,F12109-005,"Kofi Gyan",Father,12109-005,guardians,Student
+F12109-006,"2024-11-12 17:56:19.621202","2024-11-14 12:59:51.247047",Administrator,Administrator,0,1,F12109-006,"Jacob Kpotison",Father,12109-006,guardians,Student
+F12109-007,"2024-11-12 17:56:19.646274","2024-11-14 12:59:51.312220",Administrator,Administrator,0,1,F12109-007,"Philip Henry Maison",Father,12109-007,guardians,Student
+F12109-009,"2024-11-12 17:56:19.687354","2024-11-14 12:59:51.379839",Administrator,Administrator,0,1,F12109-009,"Emmanuel Addison Otoo",Father,12109-009,guardians,Student
+F12109-010,"2024-11-12 17:56:19.718774","2024-11-14 12:59:51.444936",Administrator,Administrator,0,1,F12109-010,"Wilson Kweku Segbefia",Father,12109-010,guardians,Student
+F12109-015,"2024-11-12 17:56:19.748107","2024-11-14 12:59:51.516069",Administrator,Administrator,0,1,F12109-015,"Samuel Winful",Father,12109-015,guardians,Student
+F12109-016,"2024-11-12 17:56:19.787858","2024-11-14 12:59:51.576978",Administrator,Administrator,0,1,F12109-016,"George Appah Kwabeng",Father,12109-016,guardians,Student
+F12110-001,"2024-11-12 17:56:19.827305","2024-11-14 12:59:51.635903",Administrator,Administrator,0,1,F12110-001,"George Kwame Aboagye",Father,12110-001,guardians,Student
+F12110-012,"2024-11-12 17:56:19.854228","2024-11-14 12:59:51.699272",Administrator,Administrator,0,1,F12110-012,"David Mawuko Kofitse Agbenu",Father,12110-012,guardians,Student
+F12110-014,"2024-11-12 17:56:19.891881","2024-11-14 12:59:51.762056",Administrator,Administrator,0,1,F12110-014,"Edward Kwabena Agyekum",Father,12110-014,guardians,Student
+F12110-018,"2024-11-12 17:56:19.933385","2024-11-14 12:59:51.823355",Administrator,Administrator,0,1,F12110-018,"Michael Edem Akafia",Father,12110-018,guardians,Student
+F12110-029,"2024-11-12 17:56:19.965167","2024-11-14 12:51:30.217333",Administrator,Administrator,0,1,F12110-029,"KWABENA GYAAMI AMOAH",Father,12110-029,guardians,Student
+F12110-030,"2024-11-12 17:56:19.987005","2024-11-14 12:59:51.896376",Administrator,Administrator,0,1,F12110-030,"Albert Amonoo-Mensah",Father,12110-030,guardians,Student
+F12110-035,"2024-11-12 17:56:20.014359","2024-11-14 12:59:51.957816",Administrator,Administrator,0,1,F12110-035,"Crisler Akwei Ankrah",Father,12110-035,guardians,Student
+F12110-039,"2024-11-12 17:56:20.034660","2024-11-14 12:59:52.015587",Administrator,Administrator,0,1,F12110-039,"Frederick Arhin",Father,12110-039,guardians,Student
+F12110-040,"2024-11-12 17:56:20.070888","2024-11-14 12:59:52.075362",Administrator,Administrator,0,1,F12110-040,"Vincent Aryee",Father,12110-040,guardians,Student
+F12110-042,"2024-11-12 17:56:20.099804","2024-11-14 12:59:52.132378",Administrator,Administrator,0,1,F12110-042,"John Kweku Asamoah",Father,12110-042,guardians,Student
+F12110-043,"2024-11-12 17:56:20.137059","2024-11-14 12:51:30.598522",Administrator,Administrator,0,1,F12110-043,"Kwame Kissi Asare",Father,12110-043,guardians,Student
+F12110-062,"2024-11-12 17:56:20.171915","2024-11-14 12:59:52.205388",Administrator,Administrator,0,1,F12110-062,"Alfred Kingsley Bannerman-Williams",Father,12110-062,guardians,Student
+F12110-063,"2024-11-12 17:56:20.198214","2024-11-14 12:59:52.265886",Administrator,Administrator,0,1,F12110-063,"Ronald Nana Kwame Bastford",Father,12110-063,guardians,Student
+F12110-064,"2024-11-12 17:56:20.234346","2024-11-14 12:59:52.325212",Administrator,Administrator,0,1,F12110-064,"Ronald Kwame Bastford",Father,12110-064,guardians,Student
+F12110-074,"2024-11-12 17:56:20.266418","2024-11-14 12:59:52.386643",Administrator,Administrator,0,1,F12110-074,"Osei Owusu",Father,12110-074,guardians,Student
+F12110-079,"2024-11-12 17:56:20.293291","2024-11-14 12:59:52.444755",Administrator,Administrator,0,1,F12110-079,"Ernest Owusu Aboagye",Father,12110-079,guardians,Student
+F12110-083,"2024-11-12 17:56:20.369054","2024-11-14 12:59:52.507945",Administrator,Administrator,0,1,F12110-083,"Enoch Currie-Tetteh",Father,12110-083,guardians,Student
+F12110-088,"2024-11-12 17:56:20.408197","2024-11-14 12:59:52.572137",Administrator,Administrator,0,1,F12110-088,"Alfred Doku",Father,12110-088,guardians,Student
+F12110-096,"2024-11-12 17:56:20.444290","2024-11-14 12:59:52.634639",Administrator,Administrator,0,1,F12110-096,"Gemegah John",Father,12110-096,guardians,Student
+F12110-097,"2024-11-12 17:56:20.486189","2024-11-14 12:59:52.701729",Administrator,Administrator,0,1,F12110-097,"Spike Boaitey",Father,12110-097,guardians,Student
+F12110-099,"2024-11-12 17:56:20.515016","2024-11-14 12:59:52.760104",Administrator,Administrator,0,1,F12110-099,"John Haizel-Commeh",Father,12110-099,guardians,Student
+F12110-100,"2024-11-12 17:56:20.541305","2024-11-14 12:59:52.821099",Administrator,Administrator,0,1,F12110-100,"Stephen Owusu Hammond",Father,12110-100,guardians,Student
+F12110-103,"2024-11-12 17:56:20.571568","2024-11-14 12:59:52.880362",Administrator,Administrator,0,1,F12110-103,"Ishaq Ibrahim",Father,12110-103,guardians,Student
+F12110-107,"2024-11-12 17:56:20.591192","2024-11-14 12:59:52.941615",Administrator,Administrator,0,1,F12110-107,"Ray Kakrabah-Quarshie",Father,12110-107,guardians,Student
+F12110-109,"2024-11-12 17:56:20.622299","2024-11-14 12:59:53.003869",Administrator,Administrator,0,1,F12110-109,"Eric Kwabena Karikari Boateng",Father,12110-109,guardians,Student
+F12110-113,"2024-11-12 17:56:20.643422","2024-11-14 12:59:53.065285",Administrator,Administrator,0,1,F12110-113,"Michael Osei Konadu",Father,12110-113,guardians,Student
+F12110-120,"2024-11-12 17:56:20.694661","2024-11-14 12:51:31.621389",Administrator,Administrator,0,1,F12110-120,"GEORGE APPAH KWABENG",Father,12110-120,guardians,Student
+F12110-126,"2024-11-12 17:56:20.722860","2024-11-14 12:59:53.133646",Administrator,Administrator,0,1,F12110-126,"Collin Kwayisi-Dokyi",Father,12110-126,guardians,Student
+F12110-129,"2024-11-12 17:56:20.742643","2024-11-14 12:59:53.194353",Administrator,Administrator,0,1,F12110-129,"George Boateng Kyei",Father,12110-129,guardians,Student
+F12110-133,"2024-11-12 17:56:20.772350","2024-11-14 12:51:31.798372",Administrator,Administrator,0,1,F12110-133,"Israel Laryea",Father,12110-133,guardians,Student
+F12110-135,"2024-11-12 17:56:20.796592","2024-11-14 12:59:53.263418",Administrator,Administrator,0,1,F12110-135,"Fuseini Limann",Father,12110-135,guardians,Student
+F12110-138,"2024-11-12 17:56:20.828053","2024-11-14 12:59:53.323908",Administrator,Administrator,0,1,F12110-138,"Emmanuel Boadu Mantey",Father,12110-138,guardians,Student
+F12110-145,"2024-11-12 17:56:20.847938","2024-11-14 12:59:53.383666",Administrator,Administrator,0,1,F12110-145,"Edward Tetteh Mensah",Father,12110-145,guardians,Student
+F12110-148,"2024-11-12 17:56:20.881371","2024-11-14 12:59:53.444386",Administrator,Administrator,0,1,F12110-148,"DANIEL MINGLE",Father,12110-148,guardians,Student
+F12110-156,"2024-11-12 17:56:20.916702","2024-11-14 12:59:53.508379",Administrator,Administrator,0,1,F12110-156,"Francis Komla Nyoagbe",Father,12110-156,guardians,Student
+F12110-161,"2024-11-12 17:56:20.941271","2024-11-14 12:59:53.568526",Administrator,Administrator,0,1,F12110-161,"Ebenezer Odoom",Father,12110-161,guardians,Student
+F12110-169,"2024-11-12 17:56:20.976566","2024-11-14 12:59:53.628943",Administrator,Administrator,0,1,F12110-169,"Emmanuel Kwesi Ofori-Dankwah",Father,12110-169,guardians,Student
+F12110-183,"2024-11-12 17:56:21.014267","2024-11-14 12:59:53.688763",Administrator,Administrator,0,1,F12110-183,"Kwame Owusu Antwi",Father,12110-183,guardians,Student
+F12110-185,"2024-11-12 17:56:21.039553","2024-11-14 12:59:53.748615",Administrator,Administrator,0,1,F12110-185,"Eugene Owusu-Koranteng",Father,12110-185,guardians,Student
+F12110-188,"2024-11-12 17:56:21.071397","2024-11-14 12:59:53.811777",Administrator,Administrator,0,1,F12110-188,"Yaw Perbi",Father,12110-188,guardians,Student
+F12110-189,"2024-11-12 17:56:21.094314","2024-11-14 12:59:53.871995",Administrator,Administrator,0,1,F12110-189,"Peter Sarbah",Father,12110-189,guardians,Student
+F12110-199,"2024-11-12 17:56:21.133176","2024-11-14 12:59:53.946013",Administrator,Administrator,0,1,F12110-199,"Frederick Tei-Nobi",Father,12110-199,guardians,Student
+F12110-202,"2024-11-12 17:56:21.169318","2024-11-14 12:51:32.628011",Administrator,Administrator,0,1,F12110-202,"MICHAEL TEYE",Father,12110-202,guardians,Student
+F12110-214,"2024-11-12 17:56:21.231972","2024-11-14 12:59:54.014692",Administrator,Administrator,0,1,F12110-214,"Frank Kofi-Opata",Father,12110-214,guardians,Student
+F12110-223,"2024-11-12 17:56:21.264681","2024-11-14 12:59:54.072587",Administrator,Administrator,0,1,F12110-223,"Michael Akyeampong",Father,12110-223,guardians,Student
+F12110-227,"2024-11-12 17:56:21.298975","2024-11-14 12:59:54.132370",Administrator,Administrator,0,1,F12110-227,"James Kwabla Agbedor",Father,12110-227,guardians,Student
+F12110-236,"2024-11-12 17:56:21.330059","2024-11-14 12:59:54.193266",Administrator,Administrator,0,1,F12110-236,"Nana Kokooto Owusu Ansah",Father,12110-236,guardians,Student
+F12110-244,"2024-11-12 17:56:21.387853","2024-11-14 12:59:54.258152",Administrator,Administrator,0,1,F12110-244,"Kelvin Komla Agbovi",Father,12110-244,guardians,Student
+F12110-248,"2024-11-12 17:56:21.423148","2024-11-14 12:59:54.319666",Administrator,Administrator,0,1,F12110-248,"Kadeh David",Father,12110-248,guardians,Student
+F12207-001,"2024-11-12 17:56:21.451433","2024-11-14 12:59:54.377864",Administrator,Administrator,0,1,F12207-001,"Roy Adjei",Father,12207-001,guardians,Student
+F12207-002,"2024-11-12 17:56:21.485896","2024-11-14 12:59:54.438590",Administrator,Administrator,0,1,F12207-002,"Kingsley George Adjei-Agyemang",Father,12207-002,guardians,Student
+F12207-003,"2024-11-12 17:56:21.521550","2024-11-14 12:59:54.498966",Administrator,Administrator,0,1,F12207-003,"Charles Adobaw-Graham",Father,12207-003,guardians,Student
+F12207-004,"2024-11-12 17:56:21.566103","2024-11-14 12:59:54.557204",Administrator,Administrator,0,1,F12207-004,"James Kwesi Akwettey",Father,12207-004,guardians,Student
+F12207-005,"2024-11-12 17:56:21.605495","2024-11-14 12:59:54.614860",Administrator,Administrator,0,1,F12207-005,"George Oppong Afo",Father,12207-005,guardians,Student
+F12207-007,"2024-11-12 17:56:21.650677","2024-11-14 12:59:54.675734",Administrator,Administrator,0,1,F12207-007,"Andrews Ampomah",Father,12207-007,guardians,Student
+F12207-008,"2024-11-12 17:56:21.693712","2024-11-14 12:59:54.738128",Administrator,Administrator,0,1,F12207-008,Dickens,Father,12207-008,guardians,Student
+F12207-009,"2024-11-12 17:56:21.727565","2024-11-14 12:59:54.799469",Administrator,Administrator,0,1,F12207-009,"Richard Apietu",Father,12207-009,guardians,Student
+F12207-010,"2024-11-12 17:56:21.753573","2024-11-14 12:59:54.858614",Administrator,Administrator,0,1,F12207-010,"Ramson Appah",Father,12207-010,guardians,Student
+F12207-012,"2024-11-12 17:56:21.783979","2024-11-14 12:59:54.918753",Administrator,Administrator,0,1,F12207-012,"Joshua Nana Yaw Appiah",Father,12207-012,guardians,Student
+F12207-013,"2024-11-12 17:56:21.817959","2024-11-14 12:59:54.979779",Administrator,Administrator,0,1,F12207-013,"Emmanuel Appiah-Poku",Father,12207-013,guardians,Student
+F12207-014,"2024-11-12 17:56:21.840268","2024-11-14 12:59:55.040308",Administrator,Administrator,0,1,F12207-014,"Francis Arthur",Father,12207-014,guardians,Student
+F12207-016,"2024-11-12 17:56:21.869666","2024-11-14 12:59:55.098602",Administrator,Administrator,0,1,F12207-016,"Emmanuel Ashley",Father,12207-016,guardians,Student
+F12207-019,"2024-11-12 17:56:21.926255","2024-11-14 12:59:55.158552",Administrator,Administrator,0,1,F12207-019,"Fitzroy Brown",Father,12207-019,guardians,Student
+F12207-020,"2024-11-12 17:56:21.956701","2024-11-14 12:59:55.220306",Administrator,Administrator,0,1,F12207-020,"Ebenezer Kyere-Buabeng",Father,12207-020,guardians,Student
+F12207-021,"2024-11-12 17:56:21.999828","2024-11-14 12:59:55.279333",Administrator,Administrator,0,1,F12207-021,"David Coleman",Father,12207-021,guardians,Student
+F12207-023,"2024-11-12 17:56:22.051764","2024-11-14 12:59:55.339469",Administrator,Administrator,0,1,F12207-023,"Anthony Kofi De Graft-Johnson",Father,12207-023,guardians,Student
+F12207-024,"2024-11-12 17:56:22.098744","2024-11-14 12:59:55.400051",Administrator,Administrator,0,1,F12207-024,"Richard Densu",Father,12207-024,guardians,Student
+F12207-025,"2024-11-12 17:56:22.133998","2024-11-14 12:59:55.462086",Administrator,Administrator,0,1,F12207-025,"Djan Jeffrey Julius",Father,12207-025,guardians,Student
+F12207-026,"2024-11-12 17:56:22.170088","2024-11-14 12:59:55.525814",Administrator,Administrator,0,1,F12207-026,"Andrew Kobina Etwire",Father,12207-026,guardians,Student
+F12207-027,"2024-11-12 17:56:22.199910","2024-11-14 12:59:55.587073",Administrator,Administrator,0,1,F12207-027,"Fynn Jojo",Father,12207-027,guardians,Student
+F12207-028,"2024-11-12 17:56:22.229176","2024-11-14 12:59:55.649146",Administrator,Administrator,0,1,F12207-028,Kwadwo,Father,12207-028,guardians,Student
+F12207-029,"2024-11-12 17:56:22.262530","2024-11-14 12:59:55.713658",Administrator,Administrator,0,1,F12207-029,"Charles Habiah",Father,12207-029,guardians,Student
+F12207-030,"2024-11-12 17:56:22.290447","2024-11-14 12:51:34.715023",Administrator,Administrator,0,1,F12207-030,"Kobina Idun-Arkhurst",Father,12207-030,guardians,Student
+F12207-031,"2024-11-12 17:56:22.325011","2024-11-14 12:59:55.784603",Administrator,Administrator,0,1,F12207-031,"Charles Kipo",Father,12207-031,guardians,Student
+F12207-032,"2024-11-12 17:56:22.345376","2024-11-14 12:59:55.844662",Administrator,Administrator,0,1,F12207-032,"Kingsley Konadu",Father,12207-032,guardians,Student
+F12207-034,"2024-11-12 17:56:22.375973","2024-11-14 12:59:55.905591",Administrator,Administrator,0,1,F12207-034,"Michael Adu-Afful",Father,12207-034,guardians,Student
+F12207-036,"2024-11-12 17:56:22.395032","2024-11-14 12:59:55.964641",Administrator,Administrator,0,1,F12207-036,"Cyril Nai",Father,12207-036,guardians,Student
+F12207-038,"2024-11-12 17:56:22.426690","2024-11-14 12:59:56.024485",Administrator,Administrator,0,1,F12207-038,"Tetteh Nettey",Father,12207-038,guardians,Student
+F12207-039,"2024-11-12 17:56:22.455595","2024-11-14 12:59:56.082196",Administrator,Administrator,0,1,F12207-039,"Vide Komla Ofori",Father,12207-039,guardians,Student
+F12207-040,"2024-11-12 17:56:22.500018","2024-11-14 12:59:56.142855",Administrator,Administrator,0,1,F12207-040,"Samuel Nii Armah Okai",Father,12207-040,guardians,Student
+F12207-041,"2024-11-12 17:56:22.534668","2024-11-14 12:59:56.202694",Administrator,Administrator,0,1,F12207-041,"Francis Kwasi Oware",Father,12207-041,guardians,Student
+F12207-043,"2024-11-12 17:56:22.570187","2024-11-14 12:59:56.261011",Administrator,Administrator,0,1,F12207-043,"Kwabena Owusu Akyaw",Father,12207-043,guardians,Student
+F12207-044,"2024-11-12 17:56:22.594045","2024-11-14 12:51:35.467082",Administrator,Administrator,0,1,F12207-044,"Mark Owusu-Ntow",Father,12207-044,guardians,Student
+F12207-045,"2024-11-12 17:56:22.633311","2024-11-14 12:59:56.330532",Administrator,Administrator,0,1,F12207-045,"Daniel Robert Phillips",Father,12207-045,guardians,Student
+F12207-046,"2024-11-12 17:56:22.675503","2024-11-14 12:59:56.392261",Administrator,Administrator,0,1,F12207-046,"Kwame Sackey-Acquah",Father,12207-046,guardians,Student
+F12207-047,"2024-11-12 17:56:22.724980","2024-11-14 12:59:56.451085",Administrator,Administrator,0,1,F12207-047,"Reggie Scot-Perry",Father,12207-047,guardians,Student
+F12207-048,"2024-11-12 17:56:22.771034","2024-11-14 12:59:56.510424",Administrator,Administrator,0,1,F12207-048,"Festus Mawuli Kluvitsey",Father,12207-048,guardians,Student
+F12207-049,"2024-11-12 17:56:22.794437","2024-11-14 12:59:56.567455",Administrator,Administrator,0,1,F12207-049,"Dr Innocent Adzamli",Father,12207-049,guardians,Student
+F12207-050,"2024-11-12 17:56:22.829402","2024-11-14 12:59:56.625247",Administrator,Administrator,0,1,F12207-050,"Eric Omani-Mensah",Father,12207-050,guardians,Student
+F12207-052,"2024-11-12 17:56:22.872316","2024-11-14 12:59:56.686085",Administrator,Administrator,0,1,F12207-052,"Kwasi Safo Boakye",Father,12207-052,guardians,Student
+F12207-053,"2024-11-12 17:56:22.909521","2024-11-14 12:59:56.745235",Administrator,Administrator,0,1,F12207-053,"Daniel Chayie Sogbodjor",Father,12207-053,guardians,Student
+F12207-055,"2024-11-12 17:56:23.005400","2024-11-14 12:59:56.806787",Administrator,Administrator,0,1,F12207-055,"Akwasi Kwarteng Adjei",Father,12207-055,guardians,Student
+F12207-056,"2024-11-12 17:56:23.035238","2024-11-14 12:59:56.867089",Administrator,Administrator,0,1,F12207-056,"Samuel Kodwo Ackah Koffie",Father,12207-056,guardians,Student
+F12207-058,"2024-11-12 17:56:23.082941","2024-11-14 12:59:56.930844",Administrator,Administrator,0,1,F12207-058,"Richard Kosi Elluh",Father,12207-058,guardians,Student
+F12207-059,"2024-11-12 17:56:23.131094","2024-11-14 12:59:56.991078",Administrator,Administrator,0,1,F12207-059,"Winfred Kwesi Dodzih",Father,12207-059,guardians,Student
+F12207-061,"2024-11-12 17:56:23.168087","2024-11-14 12:59:57.050467",Administrator,Administrator,0,1,F12207-061,"Martin Sarkodie Yeboah",Father,12207-061,guardians,Student
+F12207-062,"2024-11-12 17:56:23.203565","2024-11-14 12:59:57.109593",Administrator,Administrator,0,1,F12207-062,"Isaac Oppong-Yeboah",Father,12207-062,guardians,Student
+F12207-063,"2024-11-12 17:56:23.239093","2024-11-14 12:59:57.166939",Administrator,Administrator,0,1,F12207-063,"Idan Ato Abban",Father,12207-063,guardians,Student
+F12207-064,"2024-11-12 17:56:23.286642","2024-11-14 12:59:57.225433",Administrator,Administrator,0,1,F12207-064,"Eric Owusu",Father,12207-064,guardians,Student
+F12207-065,"2024-11-12 17:56:23.325780","2024-11-14 12:59:57.283419",Administrator,Administrator,0,1,F12207-065,"Eric Okyere Osei",Father,12207-065,guardians,Student
+F12207-066,"2024-11-12 17:56:23.360878","2024-11-14 12:59:57.340181",Administrator,Administrator,0,1,F12207-066,"Bernard Kofi Owusu",Father,12207-066,guardians,Student
+F12207-067,"2024-11-12 17:56:23.411667","2024-11-14 12:59:57.396644",Administrator,Administrator,0,1,F12207-067,"Kingsley Sarpong",Father,12207-067,guardians,Student
+F12207-068,"2024-11-12 17:56:23.436224","2024-11-14 12:59:57.455674",Administrator,Administrator,0,1,F12207-068,"Francis Otoo",Father,12207-068,guardians,Student
+F12207-070,"2024-11-12 17:56:23.464528","2024-11-14 12:59:57.515723",Administrator,Administrator,0,1,F12207-070,"Selorm Avon-Gbeve",Father,12207-070,guardians,Student
+F12207-071,"2024-11-12 17:56:23.487812","2024-11-14 12:59:57.570722",Administrator,Administrator,0,1,F12207-071,"Jacob Abeka",Father,12207-071,guardians,Student
+F12207-072,"2024-11-12 17:56:23.518137","2024-11-14 12:59:57.626429",Administrator,Administrator,0,1,F12207-072,"Dr. John H. Amuasi",Father,12207-072,guardians,Student
+F12207-073,"2024-11-12 17:56:23.539985","2024-11-14 12:59:57.682045",Administrator,Administrator,0,1,F12207-073,"Mr. Tony Tom Kofi Nkrumah",Father,12207-073,guardians,Student
+F12207-074,"2024-11-12 17:56:23.569236","2024-11-14 12:59:57.740548",Administrator,Administrator,0,1,F12207-074,"Michael Addae Mensah",Father,12207-074,guardians,Student
+F12207-075,"2024-11-12 17:56:23.591990","2024-11-14 12:59:57.798684",Administrator,Administrator,0,1,F12207-075,"Kaycey Innocent Ogbonna",Father,12207-075,guardians,Student
+F12207-076,"2024-11-12 17:56:23.631232","2024-11-14 12:59:57.853472",Administrator,Administrator,0,1,F12207-076,"Audrey Andrews",Father,12207-076,guardians,Student
+F12208-002,"2024-11-12 17:56:23.662640","2024-11-14 12:59:57.907322",Administrator,Administrator,0,1,F12208-002,"Mr Isaac Amissah-Aidoo",Father,12208-002,guardians,Student
+F12208-004,"2024-11-12 17:56:23.684427","2024-11-14 12:59:57.960662",Administrator,Administrator,0,1,F12208-004,"Mr Emmanuel Appiah - Poku",Father,12208-004,guardians,Student
+F12208-005,"2024-11-12 17:56:23.715791","2024-11-14 12:59:58.014510",Administrator,Administrator,0,1,F12208-005,"Mr. Stephen Asante Yamoah",Father,12208-005,guardians,Student
+F12208-007,"2024-11-12 17:56:23.739386","2024-11-14 12:59:58.067586",Administrator,Administrator,0,1,F12208-007,"Mr. Seth Ativie",Father,12208-007,guardians,Student
+F12208-008,"2024-11-12 17:56:23.816782","2024-11-14 12:59:58.125918",Administrator,Administrator,0,1,F12208-008,"Mr Kwadwo Awuah Quarshie",Father,12208-008,guardians,Student
+F12208-009,"2024-11-12 17:56:23.860025","2024-11-14 12:59:58.184773",Administrator,Administrator,0,1,F12208-009,"Dr Emmanuel Bortey Borketey",Father,12208-009,guardians,Student
+F12208-011,"2024-11-12 17:56:23.891746","2024-11-14 12:59:58.247924",Administrator,Administrator,0,1,F12208-011,"Rev Samuel Dotse",Father,12208-011,guardians,Student
+F12208-012,"2024-11-12 17:56:23.928149","2024-11-14 12:59:58.308100",Administrator,Administrator,0,1,F12208-012,"Mr Peter Fiam-Coblavie",Father,12208-012,guardians,Student
+F12208-013,"2024-11-12 17:56:23.960852","2024-11-14 12:59:58.367455",Administrator,Administrator,0,1,F12208-013,"Counsel Charles Habiah",Father,12208-013,guardians,Student
+F12208-014,"2024-11-12 17:56:23.995937","2024-11-14 12:59:58.425189",Administrator,Administrator,0,1,F12208-014,"Elvis Kwashie",Father,12208-014,guardians,Student
+F12208-015,"2024-11-12 17:56:24.029857","2024-11-14 12:59:58.485555",Administrator,Administrator,0,1,F12208-015,"Mr. Nathan Lee-Winans Annobi",Father,12208-015,guardians,Student
+F12208-016,"2024-11-12 17:56:24.064616","2024-11-14 12:59:58.549068",Administrator,Administrator,0,1,F12208-016,"Mr. Samson Dee",Father,12208-016,guardians,Student
+F12208-017,"2024-11-12 17:56:24.097139","2024-11-14 12:59:58.606187",Administrator,Administrator,0,1,F12208-017,"Mr Gary Nimako Marfo",Father,12208-017,guardians,Student
+F12208-019,"2024-11-12 17:56:24.131460","2024-11-14 12:59:58.663977",Administrator,Administrator,0,1,F12208-019,"Andrews Osei-Okrah",Father,12208-019,guardians,Student
+F12208-021,"2024-11-12 17:56:24.173624","2024-11-14 12:59:58.720926",Administrator,Administrator,0,1,F12208-021,"Mr Benjamin Owusu Ansah",Father,12208-021,guardians,Student
+F12208-023,"2024-11-12 17:56:24.208264","2024-11-14 12:59:58.777946",Administrator,Administrator,0,1,F12208-023,"Mr. Samuel Seddoh",Father,12208-023,guardians,Student
+F12208-025,"2024-11-12 17:56:24.241901","2024-11-14 12:59:58.836700",Administrator,Administrator,0,1,F12208-025,"Mr. Richard Brown Seth-Appiah",Father,12208-025,guardians,Student
+F12208-026,"2024-11-12 17:56:24.279884","2024-11-14 12:59:58.896963",Administrator,Administrator,0,1,F12208-026,"Dr Joseph Wilson",Father,12208-026,guardians,Student
+F12208-027,"2024-11-12 17:56:24.325484","2024-11-14 12:59:58.954941",Administrator,Administrator,0,1,F12208-027,"Dr. Kwaku Antwi",Father,12208-027,guardians,Student
+F12208-029,"2024-11-12 17:56:24.414436","2024-11-14 12:59:59.019537",Administrator,Administrator,0,1,F12208-029,"Mr. Johnny Tarkpah",Father,12208-029,guardians,Student
+F12208-030,"2024-11-12 17:56:24.450287","2024-11-14 12:59:59.078736",Administrator,Administrator,0,1,F12208-030,"Mr Augustine Oduro",Father,12208-030,guardians,Student
+F12208-031,"2024-11-12 17:56:24.482972","2024-11-14 12:59:59.138732",Administrator,Administrator,0,1,F12208-031,"Mr Albert Kwasi Agyei",Father,12208-031,guardians,Student
+F12208-032,"2024-11-12 17:56:24.514349","2024-11-14 12:59:59.197733",Administrator,Administrator,0,1,F12208-032,"Mr Ebenezer Onyame",Father,12208-032,guardians,Student
+F12208-034,"2024-11-12 17:56:24.560517","2024-11-14 12:59:59.265174",Administrator,Administrator,0,1,F12208-034,"Mr Kwame Bell-Dzide",Father,12208-034,guardians,Student
+F12208-036,"2024-11-12 17:56:24.628160","2024-11-14 12:59:59.321322",Administrator,Administrator,0,1,F12208-036,"Mr David Yaw Ampong",Father,12208-036,guardians,Student
+F12208-037,"2024-11-12 17:56:24.730471","2024-11-14 12:59:59.379764",Administrator,Administrator,0,1,F12208-037,"Dr Joseph Oppong",Father,12208-037,guardians,Student
+F12208-039,"2024-11-12 17:56:25.016803","2024-11-14 12:59:59.437697",Administrator,Administrator,0,1,F12208-039,"Ing Dyson Jumpah",Father,12208-039,guardians,Student
+F12208-040,"2024-11-12 17:56:25.080307","2024-11-14 12:59:59.497761",Administrator,Administrator,0,1,F12208-040,"Mr Henry Nkrumah",Father,12208-040,guardians,Student
+F12208-041,"2024-11-12 17:56:25.127507","2024-11-14 12:51:39.316751",Administrator,Administrator,0,1,F12208-041,"Mr Owusu Boahen",Father,12208-041,guardians,Student
+F12208-043,"2024-11-12 17:56:25.180742","2024-11-14 12:59:59.571407",Administrator,Administrator,0,1,F12208-043,"Mr. Enoch Ampratwum",Father,12208-043,guardians,Student
+F12208-044,"2024-11-12 17:56:25.227842","2024-11-14 12:59:59.631984",Administrator,Administrator,0,1,F12208-044,"Mr Delvyn Sandison",Father,12208-044,guardians,Student
+F12208-045,"2024-11-12 17:56:25.271617","2024-11-14 12:59:59.690973",Administrator,Administrator,0,1,F12208-045,"Apostle Samuel Addai-Kusi",Father,12208-045,guardians,Student
+F12209-001,"2024-11-12 17:56:25.311017","2024-11-14 12:59:59.749148",Administrator,Administrator,0,1,F12209-001,"Frank Selali Abada",Father,12209-001,guardians,Student
+F12209-002,"2024-11-12 17:56:25.349656","2024-11-14 12:51:39.625961",Administrator,Administrator,0,1,F12209-002,"Jacob Abeka",Father,12209-002,guardians,Student
+F12209-003,"2024-11-12 17:56:25.417404","2024-11-14 12:59:59.817239",Administrator,Administrator,0,1,F12209-003,"Robert Yaw Acquah",Father,12209-003,guardians,Student
+F12209-005,"2024-11-12 17:56:25.465875","2024-11-14 12:59:59.874561",Administrator,Administrator,0,1,F12209-005,"Kwadwo Boahene Asante",Father,12209-005,guardians,Student
+F12209-008,"2024-11-12 17:56:25.512058","2024-11-14 12:59:59.932622",Administrator,Administrator,0,1,F12209-008,"Philip P. T. Blessman",Father,12209-008,guardians,Student
+F12209-009,"2024-11-12 17:56:25.545673","2024-11-14 12:59:59.992153",Administrator,Administrator,0,1,F12209-009,"William Nana Coleman",Father,12209-009,guardians,Student
+F12209-011,"2024-11-12 17:56:25.579843","2024-11-14 13:00:00.056272",Administrator,Administrator,0,1,F12209-011,"Anthony De Graft - Johnson",Father,12209-011,guardians,Student
+F12209-014,"2024-11-12 17:56:25.615306","2024-11-14 13:00:00.114719",Administrator,Administrator,0,1,F12209-014,"Claude Atta Poku Oppon",Father,12209-014,guardians,Student
+F12209-015,"2024-11-12 17:56:25.663547","2024-11-14 13:00:00.177390",Administrator,Administrator,0,1,F12209-015,"Samuel Seddoh Jr.",Father,12209-015,guardians,Student
+F12209-016,"2024-11-12 17:56:25.722016","2024-11-14 13:00:00.241006",Administrator,Administrator,0,1,F12209-016,"Alex Boateng Sekyere",Father,12209-016,guardians,Student
+F12209-018,"2024-11-12 17:56:25.769291","2024-11-14 13:00:00.308268",Administrator,Administrator,0,1,F12209-018,"Kingsford Yankson",Father,12209-018,guardians,Student
+F12209-019,"2024-11-12 17:56:25.807941","2024-11-14 13:00:00.370365",Administrator,Administrator,0,1,F12209-019,"Alex Agyei",Father,12209-019,guardians,Student
+F12209-020,"2024-11-12 17:56:25.846277","2024-11-14 13:00:00.430237",Administrator,Administrator,0,1,F12209-020,"Samuel Wiafe",Father,12209-020,guardians,Student
+F12209-022,"2024-11-12 17:56:25.883421","2024-11-14 13:00:00.488627",Administrator,Administrator,0,1,F12209-022,"Kwesi Amoah Siribow",Father,12209-022,guardians,Student
+F12209-023,"2024-11-12 17:56:25.925545","2024-11-14 13:00:00.551910",Administrator,Administrator,0,1,F12209-023,"X L Hierso",Father,12209-023,guardians,Student
+F12209-024,"2024-11-12 17:56:25.978364","2024-11-14 13:00:00.610126",Administrator,Administrator,0,1,F12209-024,"Paul Kofi Mante",Father,12209-024,guardians,Student
+F12209-025,"2024-11-12 17:56:26.028086","2024-11-14 13:00:00.669308",Administrator,Administrator,0,1,F12209-025,"George W. Odoom",Father,12209-025,guardians,Student
+F12209-026,"2024-11-12 17:56:26.075070","2024-11-14 13:00:00.730865",Administrator,Administrator,0,1,F12209-026,"Frederick Kwabena Twumasi",Father,12209-026,guardians,Student
+F12209-028,"2024-11-12 17:56:26.133661","2024-11-14 13:00:00.789988",Administrator,Administrator,0,1,F12209-028,"Michael Addo Osei",Father,12209-028,guardians,Student
+F12209-033,"2024-11-12 17:56:26.262079","2024-11-14 13:00:00.862607",Administrator,Administrator,0,1,F12209-033,"Emmanuel Mawuko Temda",Father,12209-033,guardians,Student
+F12209-034,"2024-11-12 17:56:26.333998","2024-11-14 13:00:00.933349",Administrator,Administrator,0,1,F12209-034,"Evans Kwebena Atuchem",Father,12209-034,guardians,Student
+F12209-037,"2024-11-12 17:56:26.417287","2024-11-14 12:51:40.794841",Administrator,Administrator,0,1,F12209-037,"Francis Otoo",Father,12209-037,guardians,Student
+F12209-038,"2024-11-12 17:56:26.472721","2024-11-14 12:51:40.855281",Administrator,Administrator,0,1,F12209-038,"Kaycey Innocent Ogbonna",Father,12209-038,guardians,Student
+F12209-039,"2024-11-12 17:56:26.523732","2024-11-14 13:00:01.012952",Administrator,Administrator,0,1,F12209-039,"Mr. George Vaughan-Codjoe",Father,12209-039,guardians,Student
+F12209-040,"2024-11-12 17:56:26.576857","2024-11-14 13:00:01.080880",Administrator,Administrator,0,1,F12209-040,"Mr. Reginald A. Dzikpor",Father,12209-040,guardians,Student
+F12210-001,"2024-11-12 17:56:26.760749","2024-11-14 13:00:01.142066",Administrator,Administrator,0,1,F12210-001,"Emmanuel Abeliwine",Father,12210-001,guardians,Student
+F12210-002,"2024-11-12 17:56:26.839862","2024-11-14 12:51:41.292648",Administrator,Administrator,0,1,F12210-002,"Emmanuel ABELIWINE",Father,12210-002,guardians,Student
+F12210-003,"2024-11-12 17:56:27.079060","2024-11-14 13:00:01.209301",Administrator,Administrator,0,1,F12210-003,"Samuel Ayesu Abrokwa",Father,12210-003,guardians,Student
+F12210-006,"2024-11-12 17:56:27.272535","2024-11-14 13:00:01.268853",Administrator,Administrator,0,1,F12210-006,"Isaac Acheampong",Father,12210-006,guardians,Student
+F12210-008,"2024-11-12 17:56:27.322919","2024-11-14 13:00:01.331280",Administrator,Administrator,0,1,F12210-008,"Bondzie Acquah",Father,12210-008,guardians,Student
+F12210-009,"2024-11-12 17:56:27.375132","2024-11-14 13:00:01.389730",Administrator,Administrator,0,1,F12210-009,"Isaac Acquaye",Father,12210-009,guardians,Student
+F12210-011,"2024-11-12 17:56:27.475615","2024-11-14 13:00:01.451726",Administrator,Administrator,0,1,F12210-011,"Julius Selasie Adadevoh",Father,12210-011,guardians,Student
+F12210-012,"2024-11-12 17:56:27.524569","2024-11-14 13:00:01.511530",Administrator,Administrator,0,1,F12210-012,"James Addai",Father,12210-012,guardians,Student
+F12210-013,"2024-11-12 17:56:27.618270","2024-11-14 13:00:01.565782",Administrator,Administrator,0,1,F12210-013,"Kwame Addo Mfoamfo",Father,12210-013,guardians,Student
+F12210-014,"2024-11-12 17:56:27.721463","2024-11-14 13:00:01.619859",Administrator,Administrator,0,1,F12210-014,"Ben Taiwo Adekanla",Father,12210-014,guardians,Student
+F12210-015,"2024-11-12 17:56:27.770375","2024-11-14 13:00:01.673353",Administrator,Administrator,0,1,F12210-015,"Mr. Michael Aidoo",Father,12210-015,guardians,Student
+F12210-016,"2024-11-12 17:56:27.830557","2024-11-14 13:00:01.727393",Administrator,Administrator,0,1,F12210-016,"Bishop Emmanuel Nana Adu Ofosuhene",Father,12210-016,guardians,Student
+F12210-017,"2024-11-12 17:56:27.911640","2024-11-14 13:00:01.780583",Administrator,Administrator,0,1,F12210-017,"Kwabena Adu-Kusi David",Father,12210-017,guardians,Student
+F12210-018,"2024-11-12 17:56:27.967825","2024-11-14 13:00:01.834451",Administrator,Administrator,0,1,F12210-018,"Abraham Adu-Kwarteng",Father,12210-018,guardians,Student
+F12210-019,"2024-11-12 17:56:28.020043","2024-11-14 13:00:01.889482",Administrator,Administrator,0,1,F12210-019,"Eric Afari Amoah",Father,12210-019,guardians,Student
+F12210-020,"2024-11-12 17:56:28.068092","2024-11-14 13:00:01.988094",Administrator,Administrator,0,1,F12210-020,"Emmanuel Kwafo Affum",Father,12210-020,guardians,Student
+F12210-021,"2024-11-12 17:56:28.114096","2024-11-14 13:00:02.051600",Administrator,Administrator,0,1,F12210-021,"Eric Afreh-Mensah",Father,12210-021,guardians,Student
+F12210-023,"2024-11-12 17:56:28.180367","2024-11-14 13:00:02.110681",Administrator,Administrator,0,1,F12210-023,"Mark Kofi Atsu Agbosu",Father,12210-023,guardians,Student
+F12210-025,"2024-11-12 17:56:28.231363","2024-11-14 13:00:02.172542",Administrator,Administrator,0,1,F12210-025,"Bright Kusi Agyemang",Father,12210-025,guardians,Student
+F12210-027,"2024-11-12 17:56:28.307647","2024-11-14 13:00:02.225173",Administrator,Administrator,0,1,F12210-027,"Jerry Kwame Ahadjie",Father,12210-027,guardians,Student
+F12210-029,"2024-11-12 17:56:28.347050","2024-11-14 13:00:02.282604",Administrator,Administrator,0,1,F12210-029,"Kojo Ahor-Essel",Father,12210-029,guardians,Student
+F12210-030,"2024-11-12 17:56:28.380176","2024-11-14 13:00:02.339384",Administrator,Administrator,0,1,F12210-030,"Stanley Kwame Akabua",Father,12210-030,guardians,Student
+F12210-031,"2024-11-12 17:56:28.415721","2024-11-14 13:00:02.398376",Administrator,Administrator,0,1,F12210-031,"Akeredolu Isaac Rotimi",Father,12210-031,guardians,Student
+F12210-032,"2024-11-12 17:56:28.457392","2024-11-14 12:51:42.628794",Administrator,Administrator,0,1,F12210-032,"James Kwasi Akwettey",Father,12210-032,guardians,Student
+F12210-033,"2024-11-12 17:56:28.486232","2024-11-14 13:00:02.466976",Administrator,Administrator,0,1,F12210-033,"Hon Alhassan Samari",Father,12210-033,guardians,Student
+F12210-034,"2024-11-12 17:56:28.526553","2024-11-14 13:00:02.524826",Administrator,Administrator,0,1,F12210-034,"Alhassan Awudu",Father,12210-034,guardians,Student
+F12210-035,"2024-11-12 17:56:28.572343","2024-11-14 13:00:02.583529",Administrator,Administrator,0,1,F12210-035,"Eric Yao Amakpa",Father,12210-035,guardians,Student
+F12210-036,"2024-11-12 17:56:28.615875","2024-11-14 13:00:02.659844",Administrator,Administrator,0,1,F12210-036,"Peter Amaleboba",Father,12210-036,guardians,Student
+F12210-037,"2024-11-12 17:56:28.663355","2024-11-14 13:00:02.722777",Administrator,Administrator,0,1,F12210-037,"Charles Yaw Amankwah",Father,12210-037,guardians,Student
+F12210-038,"2024-11-12 17:56:28.707598","2024-11-14 13:00:02.784408",Administrator,Administrator,0,1,F12210-038,"Charles Amoabeng Nkrumah",Father,12210-038,guardians,Student
+F12210-039,"2024-11-12 17:56:28.744124","2024-11-14 13:00:02.843454",Administrator,Administrator,0,1,F12210-039,"Samuel Kwasi Amoo",Father,12210-039,guardians,Student
+F12210-040,"2024-11-12 17:56:28.785216","2024-11-14 12:51:43.452546",Administrator,Administrator,0,1,F12210-040,"SAMUEL KWASI AMOO",Father,12210-040,guardians,Student
+F12210-041,"2024-11-12 17:56:28.825165","2024-11-14 13:00:02.913654",Administrator,Administrator,0,1,F12210-041,"Gabriel Amos-Abanyie",Father,12210-041,guardians,Student
+F12210-044,"2024-11-12 17:56:28.874299","2024-11-14 13:00:02.972011",Administrator,Administrator,0,1,F12210-044,"Felix Amponsah",Father,12210-044,guardians,Student
+F12210-045,"2024-11-12 17:56:28.924053","2024-11-14 13:00:03.032576",Administrator,Administrator,0,1,F12210-045,"Morrison Amponsah -Kyei",Father,12210-045,guardians,Student
+F12210-046,"2024-11-12 17:56:28.972519","2024-11-14 13:00:03.091453",Administrator,Administrator,0,1,F12210-046,"Dr Emmanuel Maurice Ankrah",Father,12210-046,guardians,Student
+F12210-047,"2024-11-12 17:56:29.029602","2024-11-14 13:00:03.149927",Administrator,Administrator,0,1,F12210-047,"Percy Sydney Tete Annan",Father,12210-047,guardians,Student
+F12210-049,"2024-11-12 17:56:29.076200","2024-11-14 13:00:03.208627",Administrator,Administrator,0,1,F12210-049,"Theophilus Osana Apedo",Father,12210-049,guardians,Student
+F12210-050,"2024-11-12 17:56:29.126290","2024-11-14 13:00:03.267616",Administrator,Administrator,0,1,F12210-050,"Cephas Kafui Apenuvor",Father,12210-050,guardians,Student
+F12210-053,"2024-11-12 17:56:29.204259","2024-11-14 12:51:44.001981",Administrator,Administrator,0,1,F12210-053,"Joshua Nana Yaw Appiah",Father,12210-053,guardians,Student
+F12210-055,"2024-11-12 17:56:29.262724","2024-11-14 12:51:44.059258",Administrator,Administrator,0,1,F12210-055,"Frederick Kojo Arhin",Father,12210-055,guardians,Student
+F12210-056,"2024-11-12 17:56:29.308956","2024-11-14 13:00:03.348031",Administrator,Administrator,0,1,F12210-056,"Samuel Arkhurst",Father,12210-056,guardians,Student
+F12210-057,"2024-11-12 17:56:29.357973","2024-11-14 13:00:03.408779",Administrator,Administrator,0,1,F12210-057,"Armarfio Chris Nii Amar",Father,12210-057,guardians,Student
+F12210-058,"2024-11-12 17:56:29.398083","2024-11-14 13:00:03.469377",Administrator,Administrator,0,1,F12210-058,"Joseph Biney Arthur",Father,12210-058,guardians,Student
+F12210-059,"2024-11-12 17:56:29.433010","2024-11-14 13:00:03.533498",Administrator,Administrator,0,1,F12210-059,"Otis Asante",Father,12210-059,guardians,Student
+F12210-061,"2024-11-12 17:56:29.471846","2024-11-14 13:00:03.593419",Administrator,Administrator,0,1,F12210-061,"Edwin Asante",Father,12210-061,guardians,Student
+F12210-062,"2024-11-12 17:56:29.511923","2024-11-14 13:00:03.656115",Administrator,Administrator,0,1,F12210-062,"Daniel Adjei Asante",Father,12210-062,guardians,Student
+F12210-063,"2024-11-12 17:56:29.548521","2024-11-14 13:00:03.718567",Administrator,Administrator,0,1,F12210-063,"Stephen Asante Yamoah",Father,12210-063,guardians,Student
+F12210-064,"2024-11-12 17:56:29.585185","2024-11-14 13:00:03.779486",Administrator,Administrator,0,1,F12210-064,"Aaron Asante-Addai",Father,12210-064,guardians,Student
+F12210-065,"2024-11-12 17:56:29.624945","2024-11-14 13:00:03.842387",Administrator,Administrator,0,1,F12210-065,"Samuel Ayitey Ashley",Father,12210-065,guardians,Student
+F12210-066,"2024-11-12 17:56:29.658295","2024-11-14 13:00:03.906804",Administrator,Administrator,0,1,F12210-066,"Samuel Opoku - Asiamah",Father,12210-066,guardians,Student
+F12210-067,"2024-11-12 17:56:29.685956","2024-11-14 13:00:03.966784",Administrator,Administrator,0,1,F12210-067,"David Kwabena Asiedu",Father,12210-067,guardians,Student
+F12210-069,"2024-11-12 17:56:29.728194","2024-11-14 13:00:04.028678",Administrator,Administrator,0,1,F12210-069,"Kwaku Effah Asuahene",Father,12210-069,guardians,Student
+F12210-070,"2024-11-12 17:56:29.822229","2024-11-14 13:00:04.089174",Administrator,Administrator,0,1,F12210-070,"Eric Kwame Atieku",Father,12210-070,guardians,Student
+F12210-071,"2024-11-12 17:56:29.873560","2024-11-14 13:00:04.149105",Administrator,Administrator,0,1,F12210-071,"Seth Kwabla Ativie",Father,12210-071,guardians,Student
+F12210-073,"2024-11-12 17:56:29.903138","2024-11-14 13:00:04.205994",Administrator,Administrator,0,1,F12210-073,"Dennis Atta-Peters",Father,12210-073,guardians,Student
+F12210-074,"2024-11-12 17:56:29.932196","2024-11-14 13:00:04.267692",Administrator,Administrator,0,1,F12210-074,"Aloysius Attiogbe",Father,12210-074,guardians,Student
+F12210-076,"2024-11-12 17:56:29.968056","2024-11-14 13:00:04.327093",Administrator,Administrator,0,1,F12210-076,"Rev Dr Charles Fosu-Ayarkwah",Father,12210-076,guardians,Student
+F12210-077,"2024-11-12 17:56:29.998842","2024-11-14 13:00:04.385058",Administrator,Administrator,0,1,F12210-077,"Nicholas K. Ayesu-Amedorme",Father,12210-077,guardians,Student
+F12210-078,"2024-11-12 17:56:30.034931","2024-11-14 13:00:04.442808",Administrator,Administrator,0,1,F12210-078,"Theophilus Ayitey-Adjin",Father,12210-078,guardians,Student
+F12210-079,"2024-11-12 17:56:30.070401","2024-11-14 13:00:04.504077",Administrator,Administrator,0,1,F12210-079,"Cherubim Kofi Azumah Mensah",Father,12210-079,guardians,Student
+F12210-080,"2024-11-12 17:56:30.103977","2024-11-14 13:00:04.563974",Administrator,Administrator,0,1,F12210-080,"Apatu Raphael",Father,12210-080,guardians,Student
+F12210-082,"2024-11-12 17:56:30.135758","2024-11-14 13:00:04.623916",Administrator,Administrator,0,1,F12210-082,"Kennedy Blege",Father,12210-082,guardians,Student
+F12210-083,"2024-11-12 17:56:30.171727","2024-11-14 13:00:04.686675",Administrator,Administrator,0,1,F12210-083,"Owusu Boahen",Father,12210-083,guardians,Student
+F12210-084,"2024-11-12 17:56:30.206376","2024-11-14 12:51:45.445153",Administrator,Administrator,0,1,F12210-084,"OWUSU BOAHEN",Father,12210-084,guardians,Student
+F12210-085,"2024-11-12 17:56:30.236829","2024-11-14 13:00:04.758515",Administrator,Administrator,0,1,F12210-085,"James Obeng Boateng",Father,12210-085,guardians,Student
+F12210-086,"2024-11-12 17:56:30.270015","2024-11-14 13:00:04.819625",Administrator,Administrator,0,1,F12210-086,"Isaac Bortey",Father,12210-086,guardians,Student
+F12210-087,"2024-11-12 17:56:30.298736","2024-11-14 13:00:04.879917",Administrator,Administrator,0,1,F12210-087,"Buah Kingsley Ekow",Father,12210-087,guardians,Student
+F12210-088,"2024-11-12 17:56:30.338833","2024-11-14 13:00:04.942885",Administrator,Administrator,0,1,F12210-088,"Clarence B. Coleman",Father,12210-088,guardians,Student
+F12210-089,"2024-11-12 17:56:30.376192","2024-11-14 13:00:05.006036",Administrator,Administrator,0,1,F12210-089,"Stanley Cowther",Father,12210-089,guardians,Student
+F12210-090,"2024-11-12 17:56:30.420089","2024-11-14 13:00:05.069102",Administrator,Administrator,0,1,F12210-090,"Prince Kwame Damptey",Father,12210-090,guardians,Student
+F12210-091,"2024-11-12 17:56:30.456277","2024-11-14 13:00:05.128846",Administrator,Administrator,0,1,F12210-091,"Prince Noel Danquah",Father,12210-091,guardians,Student
+F12210-092,"2024-11-12 17:56:30.485843","2024-11-14 13:00:05.189907",Administrator,Administrator,0,1,F12210-092,"Emmanuel Baah-Dans",Father,12210-092,guardians,Student
+F12210-093,"2024-11-12 17:56:30.521400","2024-11-14 13:00:05.253532",Administrator,Administrator,0,1,F12210-093,"Frederick Danso Baadu",Father,12210-093,guardians,Student
+F12210-094,"2024-11-12 17:56:30.556671","2024-11-14 13:00:05.316873",Administrator,Administrator,0,1,F12210-094,"Francis Darko Asare",Father,12210-094,guardians,Student
+F12210-096,"2024-11-12 17:56:30.586765","2024-11-14 12:51:46.043874",Administrator,Administrator,0,1,F12210-096,"Venance Dey",Father,12210-096,guardians,Student
+F12210-097,"2024-11-12 17:56:30.623373","2024-11-14 13:00:05.390817",Administrator,Administrator,0,1,F12210-097,"Ernest Donkor",Father,12210-097,guardians,Student
+F12210-098,"2024-11-12 17:56:30.658164","2024-11-14 13:00:05.452809",Administrator,Administrator,0,1,F12210-098,"Philip Quashigah Duagbor",Father,12210-098,guardians,Student
+F12210-099,"2024-11-12 17:56:30.690269","2024-11-14 12:51:46.221090",Administrator,Administrator,0,1,F12210-099,"Philip Quashigah Duagbor",Father,12210-099,guardians,Student
+F12210-100,"2024-11-12 17:56:30.725279","2024-11-14 13:00:05.524906",Administrator,Administrator,0,1,F12210-100,"Frederick Sena Dussey",Father,12210-100,guardians,Student
+F12210-101,"2024-11-12 17:56:30.763964","2024-11-14 13:00:05.583371",Administrator,Administrator,0,1,F12210-101,"Henry Dwumah",Father,12210-101,guardians,Student
+F12210-102,"2024-11-12 17:56:30.794080","2024-11-14 13:00:05.643399",Administrator,Administrator,0,1,F12210-102,"Fred M Dzanku",Father,12210-102,guardians,Student
+F12210-103,"2024-11-12 17:56:30.830729","2024-11-14 13:00:05.700873",Administrator,Administrator,0,1,F12210-103,"Franklin Eleblu",Father,12210-103,guardians,Student
+F12210-104,"2024-11-12 17:56:30.869499","2024-11-14 13:00:05.758909",Administrator,Administrator,0,1,F12210-104,"John B Eleeza",Father,12210-104,guardians,Student
+F12210-105,"2024-11-12 17:56:30.902794","2024-11-14 13:00:05.826354",Administrator,Administrator,0,1,F12210-105,"John Okoronkwo Elendu",Father,12210-105,guardians,Student
+F12210-106,"2024-11-12 17:56:30.930419","2024-11-14 12:51:46.686044",Administrator,Administrator,0,1,F12210-106,"William Kwaku Empeh",Father,12210-106,guardians,Student
+F12210-107,"2024-11-12 17:56:30.965063","2024-11-14 13:00:05.897243",Administrator,Administrator,0,1,F12210-107,"Oswald Essuah- Mensah",Father,12210-107,guardians,Student
+F12210-109,"2024-11-12 17:56:30.995203","2024-11-14 13:00:05.958396",Administrator,Administrator,0,1,F12210-109,"Fiagbedzi Daniel",Father,12210-109,guardians,Student
+F12210-111,"2024-11-12 17:56:31.027682","2024-11-14 13:00:06.019516",Administrator,Administrator,0,1,F12210-111,"Benjamin Frimpong",Father,12210-111,guardians,Student
+F12210-112,"2024-11-12 17:56:31.061562","2024-11-14 13:00:06.080611",Administrator,Administrator,0,1,F12210-112,"Abednego Gogo",Father,12210-112,guardians,Student
+F12210-114,"2024-11-12 17:56:31.095614","2024-11-14 13:00:06.143703",Administrator,Administrator,0,1,F12210-114,"Paul Nyamekye Gyedu",Father,12210-114,guardians,Student
+F12210-115,"2024-11-12 17:56:31.127123","2024-11-14 13:00:06.204590",Administrator,Administrator,0,1,F12210-115,"George Anthony Kofi Bentum Hagan",Father,12210-115,guardians,Student
+F12210-117,"2024-11-12 17:56:31.162137","2024-11-14 13:00:06.266743",Administrator,Administrator,0,1,F12210-117,"Chong Han",Father,12210-117,guardians,Student
+F12210-118,"2024-11-12 17:56:31.192365","2024-11-14 13:00:06.327844",Administrator,Administrator,0,1,F12210-118,"Henry Ebow Hayford",Father,12210-118,guardians,Student
+F12210-119,"2024-11-12 17:56:31.224261","2024-11-14 13:00:06.388916",Administrator,Administrator,0,1,F12210-119,"Vincent Kwaku Hewlett",Father,12210-119,guardians,Student
+F12210-121,"2024-11-12 17:56:31.256016","2024-11-14 13:00:06.449821",Administrator,Administrator,0,1,F12210-121,"Antoine Novi Hlomador",Father,12210-121,guardians,Student
+F12210-125,"2024-11-12 17:56:31.284992","2024-11-14 13:00:06.510163",Administrator,Administrator,0,1,F12210-125,"Kobla Kartey Corsey",Father,12210-125,guardians,Student
+F12210-126,"2024-11-12 17:56:31.322522","2024-11-14 13:00:06.570878",Administrator,Administrator,0,1,F12210-126,"Joseph Kofi Kekrebesi",Father,12210-126,guardians,Student
+F12210-127,"2024-11-12 17:56:31.357538","2024-11-14 13:00:06.630965",Administrator,Administrator,0,1,F12210-127,"Joseph Zefo Kere",Father,12210-127,guardians,Student
+F12210-128,"2024-11-12 17:56:31.385505","2024-11-14 13:00:06.688740",Administrator,Administrator,0,1,F12210-128,"Patrick Koduah",Father,12210-128,guardians,Student
+F12210-129,"2024-11-12 17:56:31.421385","2024-11-14 13:00:06.748829",Administrator,Administrator,0,1,F12210-129,"Kwesi Korboe",Father,12210-129,guardians,Student
+F12210-130,"2024-11-12 17:56:31.456927","2024-11-14 13:00:06.806917",Administrator,Administrator,0,1,F12210-130,"Charles Ebo Kraikue",Father,12210-130,guardians,Student
+F12210-132,"2024-11-12 17:56:31.503663","2024-11-14 13:00:06.861194",Administrator,Administrator,0,1,F12210-132,"Kwabena Kufuor",Father,12210-132,guardians,Student
+F12210-134,"2024-11-12 17:56:31.531983","2024-11-14 12:51:48.158596",Administrator,Administrator,0,1,F12210-134,"Elvis Kwashie",Father,12210-134,guardians,Student
+F12210-135,"2024-11-12 17:56:31.568465","2024-11-14 13:00:06.924277",Administrator,Administrator,0,1,F12210-135,"Benjamin Kwofie",Father,12210-135,guardians,Student
+F12210-136,"2024-11-12 17:56:31.604502","2024-11-14 13:00:06.979755",Administrator,Administrator,0,1,F12210-136,"Emmanuel Lamptey",Father,12210-136,guardians,Student
+F12210-137,"2024-11-12 17:56:31.634505","2024-11-14 13:00:07.037067",Administrator,Administrator,0,1,F12210-137,"Ronnie Klaypoe Lawrence Sr.",Father,12210-137,guardians,Student
+F12210-139,"2024-11-12 17:56:31.670817","2024-11-14 13:00:07.095732",Administrator,Administrator,0,1,F12210-139,"Anthony Mallen-Ntiador",Father,12210-139,guardians,Student
+F12210-140,"2024-11-12 17:56:31.704577","2024-11-14 13:00:07.155106",Administrator,Administrator,0,1,F12210-140,"Stanley Martey",Father,12210-140,guardians,Student
+F12210-141,"2024-11-12 17:56:31.731302","2024-11-14 13:00:07.217186",Administrator,Administrator,0,1,F12210-141,"Dr. Kofi Mbiah",Father,12210-141,guardians,Student
+F12210-142,"2024-11-12 17:56:31.768912","2024-11-14 12:51:48.648159",Administrator,Administrator,0,1,F12210-142,"Kwadwo Boateng Asante",Father,12210-142,guardians,Student
+F12210-143,"2024-11-12 17:56:31.805057","2024-11-14 13:00:07.288029",Administrator,Administrator,0,1,F12210-143,"George Ekow Mensah",Father,12210-143,guardians,Student
+F12210-144,"2024-11-12 17:56:31.830991","2024-11-14 13:00:07.347425",Administrator,Administrator,0,1,F12210-144,"Peter Lawrence Mensah",Father,12210-144,guardians,Student
+F12210-145,"2024-11-12 17:56:31.865029","2024-11-14 12:51:48.911672",Administrator,Administrator,0,1,F12210-145,"Daniel Mingle",Father,12210-145,guardians,Student
+F12210-146,"2024-11-12 17:56:31.897228","2024-11-14 13:00:07.417022",Administrator,Administrator,0,1,F12210-146,"Mohammed Umaro",Father,12210-146,guardians,Student
+F12210-147,"2024-11-12 17:56:31.926545","2024-11-14 13:00:07.474799",Administrator,Administrator,0,1,F12210-147,"Chunya Munga Christopher",Father,12210-147,guardians,Student
+F12210-149,"2024-11-12 17:56:32.009962","2024-11-14 13:00:07.536824",Administrator,Administrator,0,1,F12210-149,"Emmanuel Nagel",Father,12210-149,guardians,Student
+F12210-150,"2024-11-12 17:56:32.034532","2024-11-14 13:00:07.595880",Administrator,Administrator,0,1,F12210-150,"Roland Necku",Father,12210-150,guardians,Student
+F12210-151,"2024-11-12 17:56:32.095879","2024-11-14 13:00:07.655079",Administrator,Administrator,0,1,F12210-151,"Eric Kwasi Neizer",Father,12210-151,guardians,Student
+F12210-152,"2024-11-12 17:56:32.129236","2024-11-14 13:00:07.714492",Administrator,Administrator,0,1,F12210-152,"Daniel Kwabena Nkansah",Father,12210-152,guardians,Student
+F12210-153,"2024-11-12 17:56:32.162333","2024-11-14 13:00:07.775363",Administrator,Administrator,0,1,F12210-153,"Kingsley Nudo",Father,12210-153,guardians,Student
+F12210-154,"2024-11-12 17:56:32.188450","2024-11-14 13:00:07.836822",Administrator,Administrator,0,1,F12210-154,"Maurice Nyamekye",Father,12210-154,guardians,Student
+F12210-155,"2024-11-12 17:56:32.226100","2024-11-14 13:00:07.896822",Administrator,Administrator,0,1,F12210-155,"Percy Michael Obakumah",Father,12210-155,guardians,Student
+F12210-156,"2024-11-12 17:56:32.258592","2024-11-14 13:00:07.955187",Administrator,Administrator,0,1,F12210-156,"Atta Ofori",Father,12210-156,guardians,Student
+F12210-157,"2024-11-12 17:56:32.287445","2024-11-14 13:00:08.016104",Administrator,Administrator,0,1,F12210-157,"Peter C Ofori",Father,12210-157,guardians,Student
+F12210-158,"2024-11-12 17:56:32.319204","2024-11-14 13:00:08.074892",Administrator,Administrator,0,1,F12210-158,"Steve Ofori-Asamoah",Father,12210-158,guardians,Student
+F12210-159,"2024-11-12 17:56:32.352648","2024-11-14 13:00:08.134202",Administrator,Administrator,0,1,F12210-159,"Samuel Ofosu",Father,12210-159,guardians,Student
+F12210-160,"2024-11-12 17:56:32.378953","2024-11-14 13:00:08.192893",Administrator,Administrator,0,1,F12210-160,"Kwasi Okai-Mensah",Father,12210-160,guardians,Student
+F12210-161,"2024-11-12 17:56:32.413413","2024-11-14 13:00:08.250571",Administrator,Administrator,0,1,F12210-161,"Kwaku Oppong-Duah",Father,12210-161,guardians,Student
+F12210-162,"2024-11-12 17:56:32.441492","2024-11-14 13:00:08.309994",Administrator,Administrator,0,1,F12210-162,"Ernest Opuni Frempong",Father,12210-162,guardians,Student
+F12210-163,"2024-11-12 17:56:32.473848","2024-11-14 13:00:08.371654",Administrator,Administrator,0,1,F12210-163,"Jaezi Orleans-Lindsay",Father,12210-163,guardians,Student
+F12210-164,"2024-11-12 17:56:32.508343","2024-11-14 13:00:08.430564",Administrator,Administrator,0,1,F12210-164,"Richard Osei Appiah",Father,12210-164,guardians,Student
+F12210-166,"2024-11-12 17:56:32.536249","2024-11-14 13:00:08.489000",Administrator,Administrator,0,1,F12210-166,"Peter Osei-Adjei",Father,12210-166,guardians,Student
+F12210-167,"2024-11-12 17:56:32.571849","2024-11-14 13:00:08.551086",Administrator,Administrator,0,1,F12210-167,"Timothy Kobina Owiredu",Father,12210-167,guardians,Student
+F12210-168,"2024-11-12 17:56:32.605021","2024-11-14 13:00:08.609090",Administrator,Administrator,0,1,F12210-168,"George Kojo Owusu",Father,12210-168,guardians,Student
+F12210-169,"2024-11-12 17:56:32.635139","2024-11-14 13:00:08.668733",Administrator,Administrator,0,1,F12210-169,"Richard Owusu",Father,12210-169,guardians,Student
+F12210-170,"2024-11-12 17:56:32.669061","2024-11-14 13:00:08.729818",Administrator,Administrator,0,1,F12210-170,"Erasmus Henaku Owusu",Father,12210-170,guardians,Student
+F12210-171,"2024-11-12 17:56:32.699764","2024-11-14 13:00:08.788708",Administrator,Administrator,0,1,F12210-171,"Frank Owusu Sekyere",Father,12210-171,guardians,Student
+F12210-172,"2024-11-12 17:56:32.726530","2024-11-14 13:00:08.850745",Administrator,Administrator,0,1,F12210-172,"Joseph Payne",Father,12210-172,guardians,Student
+F12210-173,"2024-11-12 17:56:32.758980","2024-11-14 13:00:08.909051",Administrator,Administrator,0,1,F12210-173,"Roland Ato Quainoo",Father,12210-173,guardians,Student
+F12210-174,"2024-11-12 17:56:32.786731","2024-11-14 13:00:09.008670",Administrator,Administrator,0,1,F12210-174,"Ed Quarcoo",Father,12210-174,guardians,Student
+F12210-176,"2024-11-12 17:56:32.819100","2024-11-14 13:00:09.075494",Administrator,Administrator,0,1,F12210-176,"Jacob Quarmson",Father,12210-176,guardians,Student
+F12210-177,"2024-11-12 17:56:32.848381","2024-11-14 13:00:09.136288",Administrator,Administrator,0,1,F12210-177,"Gabriel Nii Kwatei Quartey",Father,12210-177,guardians,Student
+F12210-178,"2024-11-12 17:56:32.875811","2024-11-14 13:00:09.198867",Administrator,Administrator,0,1,F12210-178,"Benjamin Quartey",Father,12210-178,guardians,Student
+F12210-179,"2024-11-12 17:56:32.908560","2024-11-14 12:51:51.600349",Administrator,Administrator,0,1,F12210-179,"Oheneba Kojo Quartsin",Father,12210-179,guardians,Student
+F12210-180,"2024-11-12 17:56:32.936390","2024-11-14 13:00:09.269962",Administrator,Administrator,0,1,F12210-180,"Michael Nana Baafo Quartson",Father,12210-180,guardians,Student
+F12210-181,"2024-11-12 17:56:32.972092","2024-11-14 13:00:09.331006",Administrator,Administrator,0,1,F12210-181,"James Nii Klotey Quaye",Father,12210-181,guardians,Student
+F12210-183,"2024-11-12 17:56:33.007945","2024-11-14 13:00:09.391460",Administrator,Administrator,0,1,F12210-183,"Daniel Kweku Sam",Father,12210-183,guardians,Student
+F12210-185,"2024-11-12 17:56:33.039382","2024-11-14 13:00:09.450062",Administrator,Administrator,0,1,F12210-185,"Kofi Senyo Siabi",Father,12210-185,guardians,Student
+F12210-186,"2024-11-12 17:56:33.070198","2024-11-14 13:00:09.508254",Administrator,Administrator,0,1,F12210-186,"Rev. Christopher Kwame Sokpor",Father,12210-186,guardians,Student
+F12210-187,"2024-11-12 17:56:33.101536","2024-11-14 13:00:09.568576",Administrator,Administrator,0,1,F12210-187,"Justice Odei Som",Father,12210-187,guardians,Student
+F12210-188,"2024-11-12 17:56:33.128497","2024-11-14 13:00:09.626087",Administrator,Administrator,0,1,F12210-188,"Oscar Cudjoe Sosu",Father,12210-188,guardians,Student
+F12210-189,"2024-11-12 17:56:33.165108","2024-11-14 13:00:09.686770",Administrator,Administrator,0,1,F12210-189,"Kwame Annoh",Father,12210-189,guardians,Student
+F12210-190,"2024-11-12 17:56:33.201425","2024-11-14 13:00:09.755690",Administrator,Administrator,0,1,F12210-190,"John Edward Tambi",Father,12210-190,guardians,Student
+F12210-191,"2024-11-12 17:56:33.227516","2024-11-14 13:00:09.817269",Administrator,Administrator,0,1,F12210-191,"William Tetteh",Father,12210-191,guardians,Student
+F12210-192,"2024-11-12 17:56:33.263292","2024-11-14 13:00:09.877733",Administrator,Administrator,0,1,F12210-192,"Abel Benjamin Tunni",Father,12210-192,guardians,Student
+F12210-193,"2024-11-12 17:56:33.291798","2024-11-14 13:00:09.938461",Administrator,Administrator,0,1,F12210-193,"George Arthur Turkson",Father,12210-193,guardians,Student
+F12210-194,"2024-11-12 17:56:33.322728","2024-11-14 13:00:10.001333",Administrator,Administrator,0,1,F12210-194,"Ndubisi Ugboma",Father,12210-194,guardians,Student
+F12210-195,"2024-11-12 17:56:33.357455","2024-11-14 13:00:10.059710",Administrator,Administrator,0,1,F12210-195,"Paul Winwae-Benyah",Father,12210-195,guardians,Student
+F12210-197,"2024-11-12 17:56:33.383327","2024-11-14 13:00:10.119652",Administrator,Administrator,0,1,F12210-197,"Kwadjo Yeboah",Father,12210-197,guardians,Student
+F12210-198,"2024-11-12 17:56:33.415367","2024-11-14 13:00:10.178471",Administrator,Administrator,0,1,F12210-198,"Fiifi Kakraba Mensa Yenyi",Father,12210-198,guardians,Student
+F12210-199,"2024-11-12 17:56:33.450733","2024-11-14 13:00:10.240813",Administrator,Administrator,0,1,F12210-199,"William Yirenkyi",Father,12210-199,guardians,Student
+F12210-200,"2024-11-12 17:56:33.476479","2024-11-14 13:00:10.299277",Administrator,Administrator,0,1,F12210-200,"Ian Adebi Ziddah",Father,12210-200,guardians,Student
+F12210-202,"2024-11-12 17:56:33.512266","2024-11-14 13:00:10.358351",Administrator,Administrator,0,1,F12210-202,"Asare Kyei-Baffour",Father,12210-202,guardians,Student
+F12210-203,"2024-11-12 17:56:33.539034","2024-11-14 13:00:10.420005",Administrator,Administrator,0,1,F12210-203,"Kwadwo Darko-Mensah",Father,12210-203,guardians,Student
+F12210-204,"2024-11-12 17:56:33.569251","2024-11-14 13:00:10.481602",Administrator,Administrator,0,1,F12210-204,"Foster Gyimah",Father,12210-204,guardians,Student
+F12210-205,"2024-11-12 17:56:33.596072","2024-11-14 13:00:10.543483",Administrator,Administrator,0,1,F12210-205,"Samuel Theophilus Anakwa",Father,12210-205,guardians,Student
+F12210-207,"2024-11-12 17:56:33.622612","2024-11-14 13:00:10.602368",Administrator,Administrator,0,1,F12210-207,"Michael Agbesi",Father,12210-207,guardians,Student
+F12210-209,"2024-11-12 17:56:33.652333","2024-11-14 13:00:10.663852",Administrator,Administrator,0,1,F12210-209,"David Ofori-Atta",Father,12210-209,guardians,Student
+F12210-210,"2024-11-12 17:56:33.678939","2024-11-14 13:00:10.723040",Administrator,Administrator,0,1,F12210-210,"Nelson Adjei Manyah",Father,12210-210,guardians,Student
+F12210-212,"2024-11-12 17:56:33.708396","2024-11-14 12:51:53.041511",Administrator,Administrator,0,1,F12210-212,"Eric Owusu",Father,12210-212,guardians,Student
+F12210-213,"2024-11-12 17:56:33.734884","2024-11-14 13:00:10.791888",Administrator,Administrator,0,1,F12210-213,"Edward Mawwutor",Father,12210-213,guardians,Student
+F12210-214,"2024-11-12 17:56:33.766270","2024-11-14 13:00:10.854453",Administrator,Administrator,0,1,F12210-214,"Hamidu Timbilla",Father,12210-214,guardians,Student
+F12210-215,"2024-11-12 17:56:33.792873","2024-11-14 13:00:10.912174",Administrator,Administrator,0,1,F12210-215,"Nicholas Marteye Tetteh",Father,12210-215,guardians,Student
+F12210-216,"2024-11-12 17:56:33.821066","2024-11-14 13:00:10.968383",Administrator,Administrator,0,1,F12210-216,"Ernest Anthony Osei",Father,12210-216,guardians,Student
+F12210-217,"2024-11-12 17:56:33.852352","2024-11-14 13:00:11.026934",Administrator,Administrator,0,1,F12210-217,"Ken Donkoh",Father,12210-217,guardians,Student
+F12210-218,"2024-11-12 17:56:33.879603","2024-11-14 13:00:11.087500",Administrator,Administrator,0,1,F12210-218,"George Ayarick",Father,12210-218,guardians,Student
+F12210-219,"2024-11-12 17:56:33.917024","2024-11-14 13:00:11.148365",Administrator,Administrator,0,1,F12210-219,"Kwame Kwakye",Father,12210-219,guardians,Student
+F12210-220,"2024-11-12 17:56:33.942036","2024-11-14 13:00:11.220804",Administrator,Administrator,0,1,F12210-220,"Emmanuel Darko Ankrah",Father,12210-220,guardians,Student
+F12210-221,"2024-11-12 17:56:33.970602","2024-11-14 13:00:11.296375",Administrator,Administrator,0,1,F12210-221,"Daniel Kwaku Adjavon",Father,12210-221,guardians,Student
+F12210-223,"2024-11-12 17:56:34.002384","2024-11-14 13:00:11.378130",Administrator,Administrator,0,1,F12210-223,"Yayra Kofi Wotortsi",Father,12210-223,guardians,Student
+F12210-225,"2024-11-12 17:56:34.027881","2024-11-14 13:00:11.449830",Administrator,Administrator,0,1,F12210-225,"Amos Kevin-Annan",Father,12210-225,guardians,Student
+F12210-226,"2024-11-12 17:56:34.059031","2024-11-14 13:00:11.519888",Administrator,Administrator,0,1,F12210-226,"Seidu A. Sarunah",Father,12210-226,guardians,Student
+F12307-001,"2024-11-12 17:56:34.087213","2024-11-14 13:00:11.579647",Administrator,Administrator,0,1,F12307-001,"Togbui Kodzoga V",Father,12307-001,guardians,Student
+F12307-002,"2024-11-12 17:56:34.117323","2024-11-14 13:00:11.636664",Administrator,Administrator,0,1,F12307-002,"Mr Collins Owusu Gyasi",Father,12307-002,guardians,Student
+F12307-003,"2024-11-12 17:56:34.144521","2024-11-14 13:00:11.694526",Administrator,Administrator,0,1,F12307-003,"Mr Cleland Tevie",Father,12307-003,guardians,Student
+F12307-004,"2024-11-12 17:56:34.174853","2024-11-14 13:00:11.753970",Administrator,Administrator,0,1,F12307-004,"Mr. David Tetteh",Father,12307-004,guardians,Student
+F12307-005,"2024-11-12 17:56:34.204469","2024-11-14 13:00:11.814902",Administrator,Administrator,0,1,F12307-005,"Ing Richard Densu",Father,12307-005,guardians,Student
+F12307-006,"2024-11-12 17:56:34.229169","2024-11-14 13:00:11.874887",Administrator,Administrator,0,1,F12307-006,"Mr Kingsford Amoako",Father,12307-006,guardians,Student
+F12307-007,"2024-11-12 17:56:34.259132","2024-11-14 12:51:54.055866",Administrator,Administrator,0,1,F12307-007,"Lawyer Emmanuel Adumua-Bossman",Father,12307-007,guardians,Student
+F12307-008,"2024-11-12 17:56:34.289061","2024-11-14 13:00:11.946670",Administrator,Administrator,0,1,F12307-008,"Dr Eric Yao Amakpa",Father,12307-008,guardians,Student
+F12307-009,"2024-11-12 17:56:34.320091","2024-11-14 13:00:12.012929",Administrator,Administrator,0,1,F12307-009,"Mr. Ishmael Aggrey",Father,12307-009,guardians,Student
+F12307-010,"2024-11-12 17:56:34.350179","2024-11-14 13:00:12.074043",Administrator,Administrator,0,1,F12307-010,"Mr John Kwesi Ampah",Father,12307-010,guardians,Student
+F12307-011,"2024-11-12 17:56:34.374859","2024-11-14 13:00:12.136801",Administrator,Administrator,0,1,F12307-011,"Mr. Jamal Inkoom",Father,12307-011,guardians,Student
+F12307-012,"2024-11-12 17:56:34.402443","2024-11-14 13:00:12.202402",Administrator,Administrator,0,1,F12307-012,"Mr Frank Agyare",Father,12307-012,guardians,Student
+F12307-014,"2024-11-12 17:56:34.427878","2024-11-14 12:51:54.382901",Administrator,Administrator,0,1,F12307-014,"Mr Nii Ankrah Hyde",Father,12307-014,guardians,Student
+F12307-015,"2024-11-12 17:56:34.457772","2024-11-14 13:00:12.282858",Administrator,Administrator,0,1,F12307-015,"Mr Emmanuel Amponsah",Father,12307-015,guardians,Student
+F12307-016,"2024-11-12 17:56:34.480658","2024-11-14 13:00:12.342456",Administrator,Administrator,0,1,F12307-016,"Mr Roy Adjei",Father,12307-016,guardians,Student
+F12307-017,"2024-11-12 17:56:34.509304","2024-11-14 13:00:12.404034",Administrator,Administrator,0,1,F12307-017,"Dr. Patrick Kuma-Aboagye",Father,12307-017,guardians,Student
+F12307-018,"2024-11-12 17:56:34.532962","2024-11-14 13:00:12.464954",Administrator,Administrator,0,1,F12307-018,"Dr John Amuasi",Father,12307-018,guardians,Student
+F12307-019,"2024-11-12 17:56:34.561095","2024-11-14 13:00:12.530647",Administrator,Administrator,0,1,F12307-019,"Mr Daniel Baidoo",Father,12307-019,guardians,Student
+F12307-020,"2024-11-12 17:56:34.583509","2024-11-14 13:00:12.592900",Administrator,Administrator,0,1,F12307-020,"Mr Victor Kafui Agbenu",Father,12307-020,guardians,Student
+F12307-021,"2024-11-12 17:56:34.611102","2024-11-14 13:00:12.654239",Administrator,Administrator,0,1,F12307-021,"Mr Solomon Okonkwo",Father,12307-021,guardians,Student
+F12307-022,"2024-11-12 17:56:34.635435","2024-11-14 13:00:12.716036",Administrator,Administrator,0,1,F12307-022,"Dr Jackson Brobbey",Father,12307-022,guardians,Student
+F12307-023,"2024-11-12 17:56:34.666148","2024-11-14 13:00:12.776189",Administrator,Administrator,0,1,F12307-023,"Mr Nana Kwesi Akomanyi",Father,12307-023,guardians,Student
+F12307-024,"2024-11-12 17:56:34.692119","2024-11-14 13:00:12.839541",Administrator,Administrator,0,1,F12307-024,"Mr Emos Ansah",Father,12307-024,guardians,Student
+F12307-025,"2024-11-12 17:56:34.719876","2024-11-14 13:00:12.900140",Administrator,Administrator,0,1,F12307-025,"Mr Oscar Moore",Father,12307-025,guardians,Student
+F12307-026,"2024-11-12 17:56:34.746862","2024-11-14 13:00:12.960011",Administrator,Administrator,0,1,F12307-026,"Mr Ephraim Tunu",Father,12307-026,guardians,Student
+F12307-027,"2024-11-12 17:56:34.792456","2024-11-14 13:00:13.017744",Administrator,Administrator,0,1,F12307-027,"Kofi Addai-Boabeng Busia",Father,12307-027,guardians,Student
+F12307-028,"2024-11-12 17:56:34.818381","2024-11-14 13:00:13.077477",Administrator,Administrator,0,1,F12307-028,"Mr. Ramson Appah",Father,12307-028,guardians,Student
+F12307-031,"2024-11-12 17:56:34.880925","2024-11-14 13:00:13.137429",Administrator,Administrator,0,1,F12307-031,"Mr Daniel Phillips",Father,12307-031,guardians,Student
+F12307-032,"2024-11-12 17:56:34.908624","2024-11-14 13:00:13.202445",Administrator,Administrator,0,1,F12307-032,"Mr Augustus Kwesi Gaisie",Father,12307-032,guardians,Student
+F12307-033,"2024-11-12 17:56:34.967537","2024-11-14 12:51:55.304155",Administrator,Administrator,0,1,F12307-033,"Mr. William Empeh",Father,12307-033,guardians,Student
+F12307-034,"2024-11-12 17:56:34.993493","2024-11-14 12:51:55.358382",Administrator,Administrator,0,1,F12307-034,"Dr Joseph Wilson",Father,12307-034,guardians,Student
+F12307-035,"2024-11-12 17:56:35.020929","2024-11-14 13:00:13.283335",Administrator,Administrator,0,1,F12307-035,"Mr. Michael Asiedu-Buabeng",Father,12307-035,guardians,Student
+F12307-036,"2024-11-12 17:56:35.049777","2024-11-14 13:00:13.342196",Administrator,Administrator,0,1,F12307-036,"Mr. Edward Egboagbe",Father,12307-036,guardians,Student
+F12307-037,"2024-11-12 17:56:35.073003","2024-11-14 13:00:13.406512",Administrator,Administrator,0,1,F12307-037,"Mr Ludwig Hlodze",Father,12307-037,guardians,Student
+F12307-038,"2024-11-12 17:56:35.103289","2024-11-14 12:51:55.586314",Administrator,Administrator,0,1,F12307-038,"Pastor Samuel Kodwo Ackah Koffie",Father,12307-038,guardians,Student
+F12307-039,"2024-11-12 17:56:35.126681","2024-11-14 12:51:55.641417",Administrator,Administrator,0,1,F12307-039,"Mr Oheneba Quartsin",Father,12307-039,guardians,Student
+F12307-040,"2024-11-12 17:56:35.157743","2024-11-14 12:51:55.697043",Administrator,Administrator,0,1,F12307-040,"Dr. Agyemang Frimpong",Father,12307-040,guardians,Student
+F12307-041,"2024-11-12 17:56:35.192561","2024-11-14 12:51:55.751784",Administrator,Administrator,0,1,F12307-041,"Mr Oheneba Quartsin",Father,12307-041,guardians,Student
+F12307-042,"2024-11-12 17:56:35.222102","2024-11-14 13:00:13.510373",Administrator,Administrator,0,1,F12307-042,"Mr Patrick Nsiah-Yeboah",Father,12307-042,guardians,Student
+F12307-043,"2024-11-12 17:56:35.251435","2024-11-14 13:00:13.572058",Administrator,Administrator,0,1,F12307-043,"Mr. Paul Mante",Father,12307-043,guardians,Student
+F12307-044,"2024-11-12 17:56:35.275351","2024-11-14 13:00:13.634981",Administrator,Administrator,0,1,F12307-044,"Commander Wisdom Nyasembi",Father,12307-044,guardians,Student
+F12307-045,"2024-11-12 17:56:35.306821","2024-11-14 13:00:13.699288",Administrator,Administrator,0,1,F12307-045,"Mr. Edward Mawutor",Father,12307-045,guardians,Student
+F12307-047,"2024-11-12 17:56:35.330323","2024-11-14 13:00:13.763557",Administrator,Administrator,0,1,F12307-047,"Mr. Edwin Asante",Father,12307-047,guardians,Student
+F12307-048,"2024-11-12 17:56:35.359626","2024-11-14 13:00:13.827814",Administrator,Administrator,0,1,F12307-048,"Mr Stephen Matey",Father,12307-048,guardians,Student
+F12307-049,"2024-11-12 17:56:35.391331","2024-11-14 12:51:56.147796",Administrator,Administrator,0,1,F12307-049,"Capt Frank Osei-Boakye",Father,12307-049,guardians,Student
+F12307-050,"2024-11-12 17:56:35.424412","2024-11-14 12:51:56.203587",Administrator,Administrator,0,1,F12307-050,"Mr. Kwesi Attobrah",Father,12307-050,guardians,Student
+F12307-051,"2024-11-12 17:56:35.456361","2024-11-14 13:00:13.912224",Administrator,Administrator,0,1,F12307-051,"Mr Khalid Salifu",Father,12307-051,guardians,Student
+F12307-052,"2024-11-12 17:56:35.482439","2024-11-14 13:00:13.975801",Administrator,Administrator,0,1,F12307-052,"Mr Percy Dickson Boamah",Father,12307-052,guardians,Student
+F12307-053,"2024-11-12 17:56:35.515367","2024-11-14 13:00:14.040222",Administrator,Administrator,0,1,F12307-053,"Mr Gabriel Afotey Mensah",Father,12307-053,guardians,Student
+F12307-054,"2024-11-12 17:56:35.537085","2024-11-14 13:00:14.103894",Administrator,Administrator,0,1,F12307-054,"Mr Ignace Kudu",Father,12307-054,guardians,Student
+F12307-055,"2024-11-12 17:56:35.563171","2024-11-14 13:00:14.165717",Administrator,Administrator,0,1,F12307-055,"Mr Frederick Ayirebi Acquah",Father,12307-055,guardians,Student
+F12307-057,"2024-11-12 17:56:35.584195","2024-11-14 13:00:14.227574",Administrator,Administrator,0,1,F12307-057,"Mr Brown Richard",Father,12307-057,guardians,Student
+F12307-058,"2024-11-12 17:56:35.614806","2024-11-14 13:00:14.288157",Administrator,Administrator,0,1,F12307-058,"Mr Reindorf Mensah-Matsdorf",Father,12307-058,guardians,Student
+F12307-059,"2024-11-12 17:56:35.640168","2024-11-14 13:00:14.351063",Administrator,Administrator,0,1,F12307-059,"Dr. David Acheampong",Father,12307-059,guardians,Student
+F12307-060,"2024-11-12 17:56:35.672289","2024-11-14 12:51:56.703204",Administrator,Administrator,0,1,F12307-060,"Mr Taofeek Sulley",Father,12307-060,guardians,Student
+F12307-061,"2024-11-12 17:56:35.701694","2024-11-14 13:00:14.422822",Administrator,Administrator,0,1,F12307-061,"Mr. Emmanuel Opandoh",Father,12307-061,guardians,Student
+F12307-062,"2024-11-12 17:56:35.726163","2024-11-14 12:51:56.810493",Administrator,Administrator,0,1,F12307-062,"Mr. Johnny Tarkpah",Father,12307-062,guardians,Student
+F12307-063,"2024-11-12 17:56:35.758200","2024-11-14 13:00:14.494201",Administrator,Administrator,0,1,F12307-063,"Mr Kingsley Adjei-Agyemang",Father,12307-063,guardians,Student
+F12307-064,"2024-11-12 17:56:35.783733","2024-11-14 13:00:14.554979",Administrator,Administrator,0,1,F12307-064,"Mr Joel Boateng",Father,12307-064,guardians,Student
+F12307-066,"2024-11-12 17:56:35.815348","2024-11-14 13:00:14.616806",Administrator,Administrator,0,1,F12307-066,"Mr Thomas Kosfeld",Father,12307-066,guardians,Student
+F12307-067,"2024-11-12 17:56:35.840940","2024-11-14 12:51:57.037231",Administrator,Administrator,0,1,F12307-067,"Mr Thomas Kosfeld",Father,12307-067,guardians,Student
+F12307-068,"2024-11-12 17:56:35.871611","2024-11-14 13:00:14.687096",Administrator,Administrator,0,1,F12307-068,"Mr. Samuel Wiafe",Father,12307-068,guardians,Student
+F12307-069,"2024-11-12 17:56:35.902565","2024-11-14 13:00:14.749269",Administrator,Administrator,0,1,F12307-069,"Dr. Emmanuel Borketey",Father,12307-069,guardians,Student
+F12307-070,"2024-11-12 17:56:35.926894","2024-11-14 13:00:14.810781",Administrator,Administrator,0,1,F12307-070,"Rev Paul Daniels",Father,12307-070,guardians,Student
+F12307-071,"2024-11-12 17:56:35.957021","2024-11-14 13:00:14.877891",Administrator,Administrator,0,1,F12307-071,"Eric Adjei Mr",Father,12307-071,guardians,Student
+F12307-072,"2024-11-12 17:56:35.982882","2024-11-14 13:00:14.932499",Administrator,Administrator,0,1,F12307-072,"Mr George Oppong",Father,12307-072,guardians,Student
+F12307-073,"2024-11-12 17:56:36.016349","2024-11-14 13:00:14.993340",Administrator,Administrator,0,1,F12307-073,"Mr. Frank Owusu Ansah",Father,12307-073,guardians,Student
+F12307-074,"2024-11-12 17:56:36.040300","2024-11-14 13:00:15.055782",Administrator,Administrator,0,1,F12307-074,"Mr Hayford Borbi",Father,12307-074,guardians,Student
+F12308-002,"2024-11-12 17:56:36.069930","2024-11-14 13:00:15.115881",Administrator,Administrator,0,1,F12308-002,"Mr Samuel Buah",Father,12308-002,guardians,Student
+F12308-003,"2024-11-12 17:56:36.095564","2024-11-14 12:51:57.544123",Administrator,Administrator,0,1,F12308-003,"MR SAMUEL BUAH",Father,12308-003,guardians,Student
+F12308-004,"2024-11-12 17:56:36.126001","2024-11-14 13:00:15.186113",Administrator,Administrator,0,1,F12308-004,"Mr Solomon A. Ampah",Father,12308-004,guardians,Student
+F12308-005,"2024-11-12 17:56:36.153341","2024-11-14 13:00:15.245822",Administrator,Administrator,0,1,F12308-005,"Mr. Mark Smith Andoh",Father,12308-005,guardians,Student
+F12308-006,"2024-11-12 17:56:36.178233","2024-11-14 13:00:15.305151",Administrator,Administrator,0,1,F12308-006,"Mr Michael Hanson-Selormey",Father,12308-006,guardians,Student
+F12308-007,"2024-11-12 17:56:36.215540","2024-11-14 13:00:15.368064",Administrator,Administrator,0,1,F12308-007,"Mr Peter Opoku-Duro",Father,12308-007,guardians,Student
+F12308-008,"2024-11-12 17:56:36.239346","2024-11-14 13:00:15.430211",Administrator,Administrator,0,1,F12308-008,"Mr Korku Agbedor",Father,12308-008,guardians,Student
+F12308-009,"2024-11-12 17:56:36.268393","2024-11-14 12:51:57.874036",Administrator,Administrator,0,1,F12308-009,"Mr Frank Agyare",Father,12308-009,guardians,Student
+F12308-010,"2024-11-12 17:56:36.293638","2024-11-14 13:00:15.502219",Administrator,Administrator,0,1,F12308-010,"Mr Benjamin Anorbaah",Father,12308-010,guardians,Student
+F12308-011,"2024-11-12 17:56:36.322864","2024-11-14 13:00:15.564619",Administrator,Administrator,0,1,F12308-011,"Mr. Kwabena Owusu-Boadu",Father,12308-011,guardians,Student
+F12308-012,"2024-11-12 17:56:36.350891","2024-11-14 13:00:15.628057",Administrator,Administrator,0,1,F12308-012,"Mr Henriquez Similien",Father,12308-012,guardians,Student
+F12308-013,"2024-11-12 17:56:36.378862","2024-11-14 13:00:15.688515",Administrator,Administrator,0,1,F12308-013,"Ing Sylvester Inkoom",Father,12308-013,guardians,Student
+F12308-014,"2024-11-12 17:56:36.408579","2024-11-14 13:00:15.748824",Administrator,Administrator,0,1,F12308-014,"Mr Vincent Aryee",Father,12308-014,guardians,Student
+F12308-015,"2024-11-12 17:56:36.432380","2024-11-14 13:00:15.807302",Administrator,Administrator,0,1,F12308-015,"Mr Samuel Akakpo",Father,12308-015,guardians,Student
+F12308-016,"2024-11-12 17:56:36.461998","2024-11-14 13:00:15.867276",Administrator,Administrator,0,1,F12308-016,"Mr. Franklyn Nyampong",Father,12308-016,guardians,Student
+F12308-017,"2024-11-12 17:56:36.485989","2024-11-14 13:00:15.928220",Administrator,Administrator,0,1,F12308-017,"Mr Desmond Boahen",Father,12308-017,guardians,Student
+F12308-018,"2024-11-12 17:56:36.514900","2024-11-14 13:00:15.987803",Administrator,Administrator,0,1,F12308-018,"Akwasi Yeboah",Father,12308-018,guardians,Student
+F12308-019,"2024-11-12 17:56:36.540425","2024-11-14 13:00:16.050159",Administrator,Administrator,0,1,F12308-019,"Apostle Daniel Danny Danquah",Father,12308-019,guardians,Student
+F12308-020,"2024-11-12 17:56:36.570313","2024-11-14 13:00:16.111389",Administrator,Administrator,0,1,F12308-020,"Mr. Isaac Owusu-Ansah",Father,12308-020,guardians,Student
+F12308-021,"2024-11-12 17:56:36.595652","2024-11-14 13:00:16.172575",Administrator,Administrator,0,1,F12308-021,"Mr Emmanuel Justus Briandt",Father,12308-021,guardians,Student
+F12308-022,"2024-11-12 17:56:36.622888","2024-11-14 12:51:58.580081",Administrator,Administrator,0,1,F12308-022,"Mr Emmanuel Justus Briandt",Father,12308-022,guardians,Student
+F12308-024,"2024-11-12 17:56:36.649713","2024-11-14 13:00:16.246069",Administrator,Administrator,0,1,F12308-024,"Ing. Solomon Twum Barima",Father,12308-024,guardians,Student
+F12308-025,"2024-11-12 17:56:36.676969","2024-11-14 13:00:16.306063",Administrator,Administrator,0,1,F12308-025,"Mr Charles Sika Ne Boafo",Father,12308-025,guardians,Student
+F12308-026,"2024-11-12 17:56:36.708483","2024-11-14 13:00:16.373638",Administrator,Administrator,0,1,F12308-026,"Mr Dominic Nitiwul",Father,12308-026,guardians,Student
+F12308-027,"2024-11-12 17:56:36.733529","2024-11-14 13:00:16.433433",Administrator,Administrator,0,1,F12308-027,"Mr Emmanuel Boakye",Father,12308-027,guardians,Student
+F12308-028,"2024-11-12 17:56:36.767390","2024-11-14 13:00:16.493161",Administrator,Administrator,0,1,F12308-028,"Mr Bright Adofo",Father,12308-028,guardians,Student
+F12308-029,"2024-11-12 17:56:36.790933","2024-11-14 13:00:16.553418",Administrator,Administrator,0,1,F12308-029,"Mr George Achina",Father,12308-029,guardians,Student
+F12308-030,"2024-11-12 17:56:36.817767","2024-11-14 13:00:16.612463",Administrator,Administrator,0,1,F12308-030,"Mr Leslie TAMAKLOE",Father,12308-030,guardians,Student
+F12308-032,"2024-11-12 17:56:36.844348","2024-11-14 13:00:16.674161",Administrator,Administrator,0,1,F12308-032,"Mr. Bethuel Boadi-Mensah",Father,12308-032,guardians,Student
+F12308-033,"2024-11-12 17:56:36.877822","2024-11-14 13:00:16.734331",Administrator,Administrator,0,1,F12308-033,"Stephen Howard Mr",Father,12308-033,guardians,Student
+F12308-034,"2024-11-12 17:56:36.905503","2024-11-14 13:00:16.795772",Administrator,Administrator,0,1,F12308-034,"Paul Ninson",Father,12308-034,guardians,Student
+F12308-035,"2024-11-12 17:56:36.929039","2024-11-14 13:00:16.856741",Administrator,Administrator,0,1,F12308-035,"Mr Bernard Owusu-Twumasi",Father,12308-035,guardians,Student
+F12308-036,"2024-11-12 17:56:36.958763","2024-11-14 13:00:16.916475",Administrator,Administrator,0,1,F12308-036,"Mr Micheal Amanatey",Father,12308-036,guardians,Student
+F12308-037,"2024-11-12 17:56:36.983783","2024-11-14 13:00:16.976133",Administrator,Administrator,0,1,F12308-037,"Father Eric Asiri Ayelsuma",Father,12308-037,guardians,Student
+F12309_027,"2024-11-12 17:56:37.012870","2024-11-14 13:00:17.036735",Administrator,Administrator,0,1,F12309_027,"Mr Peter Gyabaah Kumi",Father,12309_027,guardians,Student
+F12309-001,"2024-11-12 17:56:37.039641","2024-11-14 13:00:17.096932",Administrator,Administrator,0,1,F12309-001,"Mr. Benjamin Amoah",Father,12309-001,guardians,Student
+F12309-002,"2024-11-12 17:56:37.063499","2024-11-14 13:00:17.156575",Administrator,Administrator,0,1,F12309-002,"Mr. Emmanuel Kwansa Anderson",Father,12309-002,guardians,Student
+F12309-003,"2024-11-12 17:56:37.091275","2024-11-14 13:00:17.226767",Administrator,Administrator,0,1,F12309-003,"Mr Yayra Agbeko",Father,12309-003,guardians,Student
+F12309-004,"2024-11-12 17:56:37.115512","2024-11-14 13:00:17.287176",Administrator,Administrator,0,1,F12309-004,"Mr Alex Osei Marfo",Father,12309-004,guardians,Student
+F12309-005,"2024-11-12 17:56:37.141389","2024-11-14 13:00:17.348641",Administrator,Administrator,0,1,F12309-005,"Mr Jonas Agbottah",Father,12309-005,guardians,Student
+F12309-006,"2024-11-12 17:56:37.165368","2024-11-14 13:00:17.412056",Administrator,Administrator,0,1,F12309-006,"Mr. Daniel Baidoo",Father,12309-006,guardians,Student
+F12309-008,"2024-11-12 17:56:37.188419","2024-11-14 12:51:59.798825",Administrator,Administrator,0,1,F12309-008,"Mr Solomon Okonkwo",Father,12309-008,guardians,Student
+F12309-010,"2024-11-12 17:56:37.215270","2024-11-14 13:00:17.490108",Administrator,Administrator,0,1,F12309-010,"Mr Eric Ansah",Father,12309-010,guardians,Student
+F12309-011,"2024-11-12 17:56:37.241241","2024-11-14 13:00:17.551037",Administrator,Administrator,0,1,F12309-011,"Mr. Bondzie Acquah",Father,12309-011,guardians,Student
+F12309-012,"2024-11-12 17:56:37.271474","2024-11-14 13:00:17.611134",Administrator,Administrator,0,1,F12309-012,"Dr Kwabena Owusu-Boadu",Father,12309-012,guardians,Student
+F12309-013,"2024-11-12 17:56:37.296135","2024-11-14 13:00:17.669492",Administrator,Administrator,0,1,F12309-013,"Mr Apeagyei Frempong",Father,12309-013,guardians,Student
+F12309-014,"2024-11-12 17:56:37.322947","2024-11-14 13:00:17.730680",Administrator,Administrator,0,1,F12309-014,"Mr Anthony Cornelius",Father,12309-014,guardians,Student
+F12309-015,"2024-11-12 17:56:37.347957","2024-11-14 13:00:17.789983",Administrator,Administrator,0,1,F12309-015,"Mr Laud Mensah",Father,12309-015,guardians,Student
+F12309-017,"2024-11-12 17:56:37.378839","2024-11-14 13:00:17.851564",Administrator,Administrator,0,1,F12309-017,"Mr Benjamin Offei",Father,12309-017,guardians,Student
+F12309-019,"2024-11-12 17:56:37.432313","2024-11-14 12:52:00.298997",Administrator,Administrator,0,1,F12309-019,"Mr Kwame Asare",Father,12309-019,guardians,Student
+F12309-020,"2024-11-12 17:56:37.460073","2024-11-14 12:52:00.361220",Administrator,Administrator,0,1,F12309-020,"Mr Samuel Kwaku Akakpo",Father,12309-020,guardians,Student
+F12309-021,"2024-11-12 17:56:37.484094","2024-11-14 13:00:17.928169",Administrator,Administrator,0,1,F12309-021,"Mr. Godfred Odoom",Father,12309-021,guardians,Student
+F12309-022,"2024-11-12 17:56:37.515726","2024-11-14 13:00:17.985465",Administrator,Administrator,0,1,F12309-022,"Rtd Commander Wisodm Nyasembi",Father,12309-022,guardians,Student
+F12309-024,"2024-11-12 17:56:37.570411","2024-11-14 13:00:18.044830",Administrator,Administrator,0,1,F12309-024,"Dr Ernest Osei",Father,12309-024,guardians,Student
+F12309-025,"2024-11-12 17:56:37.595371","2024-11-14 13:00:18.108108",Administrator,Administrator,0,1,F12309-025,"Mr Elliot Quaye-Masoperh",Father,12309-025,guardians,Student
+F12309-026,"2024-11-12 17:56:37.622704","2024-11-14 13:00:18.167611",Administrator,Administrator,0,1,F12309-026,"Mr. Godwin Cofie",Father,12309-026,guardians,Student
+F12309-028,"2024-11-12 17:56:37.651474","2024-11-14 13:00:18.226339",Administrator,Administrator,0,1,F12309-028,"Mr Robert Appiah",Father,12309-028,guardians,Student
+F12309-029,"2024-11-12 17:56:37.676834","2024-11-14 13:00:18.283359",Administrator,Administrator,0,1,F12309-029,"Apostle Samuel Amponsah-Frimpong",Father,12309-029,guardians,Student
+F12309-030,"2024-11-12 17:56:37.706937","2024-11-14 13:00:18.343167",Administrator,Administrator,0,1,F12309-030,"Mr Frank Selali Abada",Father,12309-030,guardians,Student
+F12309-031,"2024-11-12 17:56:37.731674","2024-11-14 13:00:18.401038",Administrator,Administrator,0,1,F12309-031,"Mr Gabriel Acquaah-Arhin",Father,12309-031,guardians,Student
+F12309-032,"2024-11-12 17:56:37.759823","2024-11-14 13:00:18.461861",Administrator,Administrator,0,1,F12309-032,"Mr Alex Aboagye",Father,12309-032,guardians,Student
+F12309-033,"2024-11-12 17:56:37.788361","2024-11-14 13:00:18.520480",Administrator,Administrator,0,1,F12309-033,"Mr. Albert Nettey",Father,12309-033,guardians,Student
+F12309-034,"2024-11-12 17:56:37.818541","2024-11-14 13:00:18.582219",Administrator,Administrator,0,1,F12309-034,"Mr Ransford Ansong",Father,12309-034,guardians,Student
+F12309-035,"2024-11-12 17:56:37.847070","2024-11-14 13:00:18.643697",Administrator,Administrator,0,1,F12309-035,"Mr. Mark Adu - Prempeh",Father,12309-035,guardians,Student
+F12309-036,"2024-11-12 17:56:37.882874","2024-11-14 13:00:18.706159",Administrator,Administrator,0,1,F12309-036,"Dr. James Boachie",Father,12309-036,guardians,Student
+F12309-037,"2024-11-12 17:56:37.912826","2024-11-14 13:00:18.764532",Administrator,Administrator,0,1,F12309-037,"Mr Ronald Adukure",Father,12309-037,guardians,Student
+F12309-039,"2024-11-12 17:56:38.023988","2024-11-14 13:00:18.833965",Administrator,Administrator,0,1,F12309-039,"Mr Ransford Ekor",Father,12309-039,guardians,Student
+F12309-040,"2024-11-12 17:56:38.054493","2024-11-14 13:00:18.894087",Administrator,Administrator,0,1,F12309-040,"Adjetey Sowah",Father,12309-040,guardians,Student
+F12309-041,"2024-11-12 17:56:38.083159","2024-11-14 13:00:18.953224",Administrator,Administrator,0,1,F12309-041,"Reverend Patrick Nimako-Mensah",Father,12309-041,guardians,Student
+F12309-042,"2024-11-12 17:56:38.127657","2024-11-14 13:00:19.012031",Administrator,Administrator,0,1,F12309-042,"Mr Hope Smith Lomotey",Father,12309-042,guardians,Student
+F12309-044,"2024-11-12 17:56:38.151968","2024-11-14 13:00:19.071843",Administrator,Administrator,0,1,F12309-044,"Mr. Kwabena Osei Bonsu",Father,12309-044,guardians,Student
+F12310-001,"2024-11-12 17:56:38.178815","2024-11-14 13:00:19.130714",Administrator,Administrator,0,1,F12310-001,"Mr. Peter Obiri",Father,12310-001,guardians,Student
+F12310-002,"2024-11-12 17:56:38.219425","2024-11-14 13:00:19.193403",Administrator,Administrator,0,1,F12310-002,"Mr Adams Zakaria",Father,12310-002,guardians,Student
+F12310-003,"2024-11-12 17:56:38.246156","2024-11-14 13:00:19.255538",Administrator,Administrator,0,1,F12310-003,"Dr. Kwame Anim-Boamah",Father,12310-003,guardians,Student
+F12310-004,"2024-11-12 17:56:38.281047","2024-11-14 13:00:19.315736",Administrator,Administrator,0,1,F12310-004,"Mr Samuel Mensah",Father,12310-004,guardians,Student
+F12310-005,"2024-11-12 17:56:38.310220","2024-11-14 13:00:19.377632",Administrator,Administrator,0,1,F12310-005,"Mr. Lionel Kwofie",Father,12310-005,guardians,Student
+F12310-006,"2024-11-12 17:56:38.332302","2024-11-14 12:52:01.929255",Administrator,Administrator,0,1,F12310-006,"Mr. Mark Smith Andoh",Father,12310-006,guardians,Student
+F12310-007,"2024-11-12 17:56:38.365167","2024-11-14 13:00:19.470372",Administrator,Administrator,0,1,F12310-007,"Mr Joseph Zefo Kere",Father,12310-007,guardians,Student
+F12310-008,"2024-11-12 17:56:38.411011","2024-11-14 13:00:19.537498",Administrator,Administrator,0,1,F12310-008,"Mr Victor Owusu-Asante",Father,12310-008,guardians,Student
+F12310-009,"2024-11-12 17:56:38.435841","2024-11-14 13:00:19.611095",Administrator,Administrator,0,1,F12310-009,"Mr Daniel Ashley",Father,12310-009,guardians,Student
+F12310-010,"2024-11-12 17:56:38.466406","2024-11-14 13:00:19.678584",Administrator,Administrator,0,1,F12310-010,"Mr. Kofi Asante",Father,12310-010,guardians,Student
+F12310-011,"2024-11-12 17:56:38.490609","2024-11-14 13:00:19.741247",Administrator,Administrator,0,1,F12310-011,"Mr Ernest Edusei",Father,12310-011,guardians,Student
+F12310-012,"2024-11-12 17:56:38.520386","2024-11-14 13:00:19.801255",Administrator,Administrator,0,1,F12310-012,"Mr Sampson Nimako",Father,12310-012,guardians,Student
+F12310-013,"2024-11-12 17:56:38.546839","2024-11-14 13:00:19.862514",Administrator,Administrator,0,1,F12310-013,"Mr William Assem",Father,12310-013,guardians,Student
+F12310-014,"2024-11-12 17:56:38.575660","2024-11-14 13:00:19.924374",Administrator,Administrator,0,1,F12310-014,"Mr. Romanus Gyang",Father,12310-014,guardians,Student
+F12310-015,"2024-11-12 17:56:38.598550","2024-11-14 13:00:19.986669",Administrator,Administrator,0,1,F12310-015,"Mr Albert Kwansa-Adjei",Father,12310-015,guardians,Student
+F12310-016,"2024-11-12 17:56:38.627055","2024-11-14 13:00:20.048540",Administrator,Administrator,0,1,F12310-016,"Mr Charles Gyan",Father,12310-016,guardians,Student
+F12310-017,"2024-11-12 17:56:38.658465","2024-11-14 13:00:20.108883",Administrator,Administrator,0,1,F12310-017,"Dr Sodzi Sodzi-Tettey",Father,12310-017,guardians,Student
+F12310-018,"2024-11-12 17:56:38.740409","2024-11-14 13:00:20.172502",Administrator,Administrator,0,1,F12310-018,"Mr. Delali Kumaga",Father,12310-018,guardians,Student
+F12310-019,"2024-11-12 17:56:38.773928","2024-11-14 13:00:20.231713",Administrator,Administrator,0,1,F12310-019,"Mr Christopher Osigwe",Father,12310-019,guardians,Student
+F12310-020,"2024-11-12 17:56:38.799843","2024-11-14 13:00:20.292577",Administrator,Administrator,0,1,F12310-020,"Mr Richard Gyawu-Mensah",Father,12310-020,guardians,Student
+F12310-022,"2024-11-12 17:56:38.860030","2024-11-14 13:00:20.353922",Administrator,Administrator,0,1,F12310-022,"Mr Malrubius Tsidi Tamakloe",Father,12310-022,guardians,Student
+F12310-023,"2024-11-12 17:56:38.886970","2024-11-14 13:00:20.417318",Administrator,Administrator,0,1,F12310-023,"Mr. Gaddiel Ashun",Father,12310-023,guardians,Student
+F12310-024,"2024-11-12 17:56:38.920546","2024-11-14 13:00:20.477952",Administrator,Administrator,0,1,F12310-024,"Mr. Gordon Adisenu-Doe",Father,12310-024,guardians,Student
+F12310-025,"2024-11-12 17:56:38.951889","2024-11-14 13:00:20.536226",Administrator,Administrator,0,1,F12310-025,"Mr Stephen Tour",Father,12310-025,guardians,Student
+F12310-026,"2024-11-12 17:56:38.979418","2024-11-14 13:00:20.598839",Administrator,Administrator,0,1,F12310-026,"Mr Wilfred Addo",Father,12310-026,guardians,Student
+F12310-027,"2024-11-12 17:56:39.010767","2024-11-14 13:00:20.661372",Administrator,Administrator,0,1,F12310-027,"Mr Daniel Adanu",Father,12310-027,guardians,Student
+F12310-029,"2024-11-12 17:56:39.038919","2024-11-14 13:00:20.723128",Administrator,Administrator,0,1,F12310-029,"Mr Wilhelm, Alphonse Swaniker",Father,12310-029,guardians,Student
+F12310-030,"2024-11-12 17:56:39.070773","2024-11-14 13:00:20.784315",Administrator,Administrator,0,1,F12310-030,"Mr. Martin Odei",Father,12310-030,guardians,Student
+F12310-032,"2024-11-12 17:56:39.099352","2024-11-14 13:00:20.845939",Administrator,Administrator,0,1,F12310-032,"Mr Solomon Woolley",Father,12310-032,guardians,Student
+F12310-033,"2024-11-12 17:56:39.127615","2024-11-14 13:00:20.907354",Administrator,Administrator,0,1,F12310-033,"Dr. Ernest Nagali",Father,12310-033,guardians,Student
+F12310-034,"2024-11-12 17:56:39.152217","2024-11-14 13:00:20.967755",Administrator,Administrator,0,1,F12310-034,"Mr Enoch Currie Tetteh",Father,12310-034,guardians,Student
+F12310-035,"2024-11-12 17:56:39.185877","2024-11-14 13:00:21.028626",Administrator,Administrator,0,1,F12310-035,"Mr. Gideon Draku",Father,12310-035,guardians,Student
+F12310-036,"2024-11-12 17:56:39.212474","2024-11-14 13:00:21.087489",Administrator,Administrator,0,1,F12310-036,"Mr. Isaac Otu Ayeboafo",Father,12310-036,guardians,Student
+F12310-037,"2024-11-12 17:56:39.249553","2024-11-14 13:00:21.148599",Administrator,Administrator,0,1,F12310-037,"Mr Ernest Ofosu",Father,12310-037,guardians,Student
+F12310-038,"2024-11-12 17:56:39.297435","2024-11-14 13:00:21.211028",Administrator,Administrator,0,1,F12310-038,"Mr David Andreas Hesse",Father,12310-038,guardians,Student
+F12310-039,"2024-11-12 17:56:39.344574","2024-11-14 13:00:21.269162",Administrator,Administrator,0,1,F12310-039,"Engr. Aloysius Attiogbe",Father,12310-039,guardians,Student
+F12310-040,"2024-11-12 17:56:39.390060","2024-11-14 13:00:21.329208",Administrator,Administrator,0,1,F12310-040,"Mr. Emmanuel Benning",Father,12310-040,guardians,Student
+F12310-041,"2024-11-12 17:56:39.419112","2024-11-14 13:00:21.392299",Administrator,Administrator,0,1,F12310-041,"Mr. Raphael Dzimabi",Father,12310-041,guardians,Student
+F12310-042,"2024-11-12 17:56:39.446654","2024-11-14 13:00:21.455204",Administrator,Administrator,0,1,F12310-042,"Mr Ernest Owusu Aboagye",Father,12310-042,guardians,Student
+F12310-044,"2024-11-12 17:56:39.477797","2024-11-14 13:00:21.516928",Administrator,Administrator,0,1,F12310-044,"Mr Clement Nwoke",Father,12310-044,guardians,Student
+F12310-045,"2024-11-12 17:56:39.500318","2024-11-14 13:00:21.581597",Administrator,Administrator,0,1,F12310-045,"Mr Seraphin Lusala",Father,12310-045,guardians,Student
+F12310-046,"2024-11-12 17:56:39.533511","2024-11-14 13:00:21.643938",Administrator,Administrator,0,1,F12310-046,"Dr. David Azupogo",Father,12310-046,guardians,Student
+F12310-047,"2024-11-12 17:56:39.564639","2024-11-14 13:00:21.704507",Administrator,Administrator,0,1,F12310-047,"Ebenezer Akyeampong",Father,12310-047,guardians,Student
+F12310-048,"2024-11-12 17:56:39.596588","2024-11-14 13:00:21.767605",Administrator,Administrator,0,1,F12310-048,"Mr William Asamoah Otoo",Father,12310-048,guardians,Student
+F12310-049,"2024-11-12 17:56:39.622912","2024-11-14 13:00:21.828032",Administrator,Administrator,0,1,F12310-049,"Mr. Bernard Gyimah",Father,12310-049,guardians,Student
+F12310-050,"2024-11-12 17:56:39.668447","2024-11-14 13:00:21.890931",Administrator,Administrator,0,1,F12310-050,"Mr Clement Adjei",Father,12310-050,guardians,Student
+F12310-051,"2024-11-12 17:56:39.714326","2024-11-14 12:52:04.379161",Administrator,Administrator,0,1,F12310-051,"Dr Atta Ofori",Father,12310-051,guardians,Student
+F12310-053,"2024-11-12 17:56:39.788635","2024-11-14 13:00:21.959302",Administrator,Administrator,0,1,F12310-053,"Mr Ebenezer Kuwornu-Adjaottor",Father,12310-053,guardians,Student
+F12310-054,"2024-11-12 17:56:39.859939","2024-11-14 13:00:22.020963",Administrator,Administrator,0,1,F12310-054,"Mr Jacob Essilfie",Father,12310-054,guardians,Student
+F12310-055,"2024-11-12 17:56:39.943971","2024-11-14 13:00:22.082425",Administrator,Administrator,0,1,F12310-055,"Mr Daniel Adjei Asante",Father,12310-055,guardians,Student
+F12310-056,"2024-11-12 17:56:40.015208","2024-11-14 13:00:22.145075",Administrator,Administrator,0,1,F12310-056,"Mr. Julius Attipoe",Father,12310-056,guardians,Student
+F12310-057,"2024-11-12 17:56:40.080885","2024-11-14 13:00:22.213296",Administrator,Administrator,0,1,F12310-057,"Mr Raphael Yussif Amankwa",Father,12310-057,guardians,Student
+F12310-058,"2024-11-12 17:56:40.132167","2024-11-14 13:00:22.277105",Administrator,Administrator,0,1,F12310-058,"Mr Frederick Owusu Mensah",Father,12310-058,guardians,Student
+F12310-059,"2024-11-12 17:56:40.204469","2024-11-14 13:00:22.337568",Administrator,Administrator,0,1,F12310-059,"Mr. Roger Oteng Baah",Father,12310-059,guardians,Student
+F12310-061,"2024-11-12 17:56:40.256442","2024-11-14 13:00:22.401116",Administrator,Administrator,0,1,F12310-061,"Mr. Philip Odei Asare",Father,12310-061,guardians,Student
+F12310-062,"2024-11-12 17:56:40.316091","2024-11-14 13:00:22.464244",Administrator,Administrator,0,1,F12310-062,"Mr Azubuike Elumelu",Father,12310-062,guardians,Student
+F12310-063,"2024-11-12 17:56:40.373667","2024-11-14 13:00:22.522929",Administrator,Administrator,0,1,F12310-063,"Wo1 Richard Mensah",Father,12310-063,guardians,Student
+F12310-064,"2024-11-12 17:56:40.407160","2024-11-14 13:00:22.581749",Administrator,Administrator,0,1,F12310-064,"Mr Alphonse Abraham Spencer",Father,12310-064,guardians,Student
+F12310-065,"2024-11-12 17:56:40.441737","2024-11-14 13:00:22.642660",Administrator,Administrator,0,1,F12310-065,"Mr Daniel Asiam",Father,12310-065,guardians,Student
+F12310-066,"2024-11-12 17:56:40.483667","2024-11-14 13:00:22.704671",Administrator,Administrator,0,1,F12310-066,"Mr Fredrick Amoako Ampong",Father,12310-066,guardians,Student
+F12310-067,"2024-11-12 17:56:40.534171","2024-11-14 13:00:22.769069",Administrator,Administrator,0,1,F12310-067,"Dr. Kofi Osei-Kusi",Father,12310-067,guardians,Student
+F12310-069,"2024-11-12 17:56:40.565380","2024-11-14 12:52:05.244711",Administrator,Administrator,0,1,F12310-069,"MR PETER OPOKU-DURO",Father,12310-069,guardians,Student
+F12310-070,"2024-11-12 17:56:40.600331","2024-11-14 13:00:22.840469",Administrator,Administrator,0,1,F12310-070,"Mr Patrick Koduah",Father,12310-070,guardians,Student
+F12310-071,"2024-11-12 17:56:40.630818","2024-11-14 13:00:22.904937",Administrator,Administrator,0,1,F12310-071,"Mr Kwasi Afreh Biney",Father,12310-071,guardians,Student
+F12310-072,"2024-11-12 17:56:40.677577","2024-11-14 13:00:22.965289",Administrator,Administrator,0,1,F12310-072,"Mr Kwame Wiafe",Father,12310-072,guardians,Student
+F12310-073,"2024-11-12 17:56:40.717129","2024-11-14 13:00:23.028622",Administrator,Administrator,0,1,F12310-073,"Mr Peter Abassah",Father,12310-073,guardians,Student
+F12310-074,"2024-11-12 17:56:40.744110","2024-11-14 13:00:23.089435",Administrator,Administrator,0,1,F12310-074,"Mr. Richard Owusu-Poku",Father,12310-074,guardians,Student
+F12310-076,"2024-11-12 17:56:40.771496","2024-11-14 13:00:23.149738",Administrator,Administrator,0,1,F12310-076,"Mr Frederick Mensah",Father,12310-076,guardians,Student
+F12310-077,"2024-11-12 17:56:40.807300","2024-11-14 12:52:05.646617",Administrator,Administrator,0,1,F12310-077,"Dr. Kofi Osei-Kusi",Father,12310-077,guardians,Student
+F12310-078,"2024-11-12 17:56:40.847634","2024-11-14 13:00:23.221176",Administrator,Administrator,0,1,F12310-078,"Dr John Kwesi Marfoh",Father,12310-078,guardians,Student
+F12310-079,"2024-11-12 17:56:40.878861","2024-11-14 13:00:23.280361",Administrator,Administrator,0,1,F12310-079,"Mr Wisdom Addo",Father,12310-079,guardians,Student
+F12310-080,"2024-11-12 17:56:40.918520","2024-11-14 13:00:23.343013",Administrator,Administrator,0,1,F12310-080,"Mr Felix Sosu",Father,12310-080,guardians,Student
+F12310-081,"2024-11-12 17:56:40.948829","2024-11-14 12:52:05.882223",Administrator,Administrator,0,1,F12310-081,"Mr Felix Adama Sosu",Father,12310-081,guardians,Student
+F12310-082,"2024-11-12 17:56:40.981902","2024-11-14 13:00:23.415418",Administrator,Administrator,0,1,F12310-082,"Mr. Kwasi Addae Abebrese",Father,12310-082,guardians,Student
+F12310-083,"2024-11-12 17:56:41.022168","2024-11-14 13:00:23.476332",Administrator,Administrator,0,1,F12310-083,"Mr. Francis Hughes",Father,12310-083,guardians,Student
+F12310-084,"2024-11-12 17:56:41.055479","2024-11-14 13:00:23.538931",Administrator,Administrator,0,1,F12310-084,"Mr James Lawson",Father,12310-084,guardians,Student
+F12310-085,"2024-11-12 17:56:41.106990","2024-11-14 13:00:23.597712",Administrator,Administrator,0,1,F12310-085,"Mr Kwadwo Ntim",Father,12310-085,guardians,Student
+F12310-086,"2024-11-12 17:56:41.165675","2024-11-14 13:00:23.660491",Administrator,Administrator,0,1,F12310-086,"Mr Albert Kwasi Osei-Mensah",Father,12310-086,guardians,Student
+F12310-087,"2024-11-12 17:56:41.208528","2024-11-14 13:00:23.721856",Administrator,Administrator,0,1,F12310-087,"Mr Ezekiel Kwesi Dickson",Father,12310-087,guardians,Student
+F12310-088,"2024-11-12 17:56:41.242792","2024-11-14 13:00:23.780574",Administrator,Administrator,0,1,F12310-088,"Mr. Kofi Appiah-Kwakye",Father,12310-088,guardians,Student
+F12310-089,"2024-11-12 17:56:41.284366","2024-11-14 13:00:23.840614",Administrator,Administrator,0,1,F12310-089,"Mr Ekow Amua-Sekyi",Father,12310-089,guardians,Student
+F12310-090,"2024-11-12 17:56:41.326366","2024-11-14 13:00:23.899828",Administrator,Administrator,0,1,F12310-090,"Mr. Kofi Selby Agyekum",Father,12310-090,guardians,Student
+F12310-092,"2024-11-12 17:56:41.368333","2024-11-14 13:00:23.959422",Administrator,Administrator,0,1,F12310-092,"Mr Charles Parker",Father,12310-092,guardians,Student
+F12310-093,"2024-11-12 17:56:41.421672","2024-11-14 13:00:24.020694",Administrator,Administrator,0,1,F12310-093,"Dr Emmanuel Owusu-Afriyie",Father,12310-093,guardians,Student
+F12310-094,"2024-11-12 17:56:41.455315","2024-11-14 13:00:24.080384",Administrator,Administrator,0,1,F12310-094,"Mr Sumaila Abdul-Rahman",Father,12310-094,guardians,Student
+F12310-095,"2024-11-12 17:56:41.493145","2024-11-14 13:00:24.142650",Administrator,Administrator,0,1,F12310-095,"Mr. Alfred Isaac Tsiboe",Father,12310-095,guardians,Student
+F12310-096,"2024-11-12 17:56:41.540068","2024-11-14 13:00:24.203303",Administrator,Administrator,0,1,F12310-096,"Ing. Benjamin Narh",Father,12310-096,guardians,Student
+F12310-097,"2024-11-12 17:56:41.585732","2024-11-14 13:00:24.264597",Administrator,Administrator,0,1,F12310-097,"Mr Yaw Amass Ofori",Father,12310-097,guardians,Student
+F12310-098,"2024-11-12 17:56:41.623287","2024-11-14 13:00:24.325324",Administrator,Administrator,0,1,F12310-098,"Captain Roland Necku",Father,12310-098,guardians,Student
+F12310-099,"2024-11-12 17:56:41.686858","2024-11-14 13:00:24.386625",Administrator,Administrator,0,1,F12310-099,"Mr Isaac Akosah Brempong",Father,12310-099,guardians,Student
+F12310-100,"2024-11-12 17:56:41.749256","2024-11-14 13:00:24.444676",Administrator,Administrator,0,1,F12310-100,"Paul Tweneboah",Father,12310-100,guardians,Student
+F12310-101,"2024-11-12 17:56:41.788879","2024-11-14 13:00:24.501989",Administrator,Administrator,0,1,F12310-101,"Esq Eric Ofori Amanfo",Father,12310-101,guardians,Student
+F12310-102,"2024-11-12 17:56:41.834856","2024-11-14 13:00:24.559815",Administrator,Administrator,0,1,F12310-102,"Mr Eric Ofori",Father,12310-102,guardians,Student
+F12310-103,"2024-11-12 17:56:41.866691","2024-11-14 13:00:24.620367",Administrator,Administrator,0,1,F12310-103,"Mr Emmanuel Attefah",Father,12310-103,guardians,Student
+F12310-107,"2024-11-12 17:56:41.929508","2024-11-14 13:00:24.686943",Administrator,Administrator,0,1,F12310-107,"Dr. Prosper Nii Nortey Addo",Father,12310-107,guardians,Student
+F12310-108,"2024-11-12 17:56:41.955874","2024-11-14 13:00:24.761684",Administrator,Administrator,0,1,F12310-108,"Dr Charles Miezah",Father,12310-108,guardians,Student
+F12310-109,"2024-11-12 17:56:41.984482","2024-11-14 13:00:24.828225",Administrator,Administrator,0,1,F12310-109,"Mr Jonathan Nyaku",Father,12310-109,guardians,Student
+F12310-110,"2024-11-12 17:56:42.009904","2024-11-14 13:00:24.898513",Administrator,Administrator,0,1,F12310-110,"Mr. Wisdom Kodzi",Father,12310-110,guardians,Student
+F12310-111,"2024-11-12 17:56:42.036080","2024-11-14 13:00:24.960912",Administrator,Administrator,0,1,F12310-111,"Mr. Sylvester Zoe",Father,12310-111,guardians,Student
+F12310-112,"2024-11-12 17:56:42.060128","2024-11-14 13:00:25.019917",Administrator,Administrator,0,1,F12310-112,"Mr. Samuel Sakyi-Hyde",Father,12310-112,guardians,Student
+F12310-115,"2024-11-12 17:56:42.096944","2024-11-14 13:00:25.080874",Administrator,Administrator,0,1,F12310-115,"Nana Adu-Yeboah Dankwah",Father,12310-115,guardians,Student
+F12310-116,"2024-11-12 17:56:42.132158","2024-11-14 13:00:25.143614",Administrator,Administrator,0,1,F12310-116,"Mr Francis Nyoagbe",Father,12310-116,guardians,Student
+F12310-118,"2024-11-12 17:56:42.159390","2024-11-14 13:00:25.205745",Administrator,Administrator,0,1,F12310-118,"Mr. Yaw Kyei",Father,12310-118,guardians,Student
+F12310-119,"2024-11-12 17:56:42.187742","2024-11-14 13:00:25.265726",Administrator,Administrator,0,1,F12310-119,"Mr Anthony Attu",Father,12310-119,guardians,Student
+F12310-120,"2024-11-12 17:56:42.234371","2024-11-14 13:00:25.328218",Administrator,Administrator,0,1,F12310-120,"Mr. Yao Letsa",Father,12310-120,guardians,Student
+F12310-121,"2024-11-12 17:56:42.277473","2024-11-14 13:00:25.392775",Administrator,Administrator,0,1,F12310-121,"Mr. Kingsley Kwofie",Father,12310-121,guardians,Student
+F12310-122,"2024-11-12 17:56:42.323236","2024-11-14 13:00:25.456035",Administrator,Administrator,0,1,F12310-122,"Rev. Dr. Chris Sokpor",Father,12310-122,guardians,Student
+F12310-123,"2024-11-12 17:56:42.376205","2024-11-14 13:00:25.521811",Administrator,Administrator,0,1,F12310-123,"Mr. Kwame Netteshiem Damoah",Father,12310-123,guardians,Student
+F12310-124,"2024-11-12 17:56:42.422366","2024-11-14 13:00:25.589194",Administrator,Administrator,0,1,F12310-124,"Mr. Michael Amoatemg",Father,12310-124,guardians,Student
+F12310-125,"2024-11-12 17:56:42.449217","2024-11-14 13:00:25.654148",Administrator,Administrator,0,1,F12310-125,"Mr. Isaac Asare",Father,12310-125,guardians,Student
+F12310-126,"2024-11-12 17:56:42.478893","2024-11-14 13:00:25.719703",Administrator,Administrator,0,1,F12310-126,"Dr. Benjamin Osei-Tutu",Father,12310-126,guardians,Student
+F12310-127,"2024-11-12 17:56:42.507306","2024-11-14 13:00:25.786969",Administrator,Administrator,0,1,F12310-127,"Dr Kwabena Aidoo",Father,12310-127,guardians,Student
+F12310-128,"2024-11-12 17:56:42.557340","2024-11-14 12:52:08.132095",Administrator,Administrator,0,1,F12310-128,"AKWASI YEBOAH",Father,12310-128,guardians,Student
+F12310-129,"2024-11-12 17:56:42.592464","2024-11-14 13:00:25.861052",Administrator,Administrator,0,1,F12310-129,"S. Okyere-Boateng",Father,12310-129,guardians,Student
+F12310-130,"2024-11-12 17:56:42.624552","2024-11-14 13:00:25.922770",Administrator,Administrator,0,1,F12310-130,"Colonel Geraud Constant Ahokpossi",Father,12310-130,guardians,Student
+F12310-131,"2024-11-12 17:56:42.651645","2024-11-14 13:00:25.982633",Administrator,Administrator,0,1,F12310-131,"Mr Edmund Batcha",Father,12310-131,guardians,Student
+F12310-134,"2024-11-12 17:56:42.682470","2024-11-14 13:00:26.047514",Administrator,Administrator,0,1,F12310-134,"Mr Richard Owusu",Father,12310-134,guardians,Student
+F12310-135,"2024-11-12 17:56:42.711319","2024-11-14 13:00:26.111272",Administrator,Administrator,0,1,F12310-135,"Mr. Alex Kofi Osei-Owusu",Father,12310-135,guardians,Student
+F12310-136,"2024-11-12 17:56:42.743631","2024-11-14 13:00:26.179873",Administrator,Administrator,0,1,F12310-136,"Mr Prince Kumordzie",Father,12310-136,guardians,Student
+F12310-137,"2024-11-12 17:56:42.773086","2024-11-14 13:00:26.244579",Administrator,Administrator,0,1,F12310-137,"Mr David Dogbe",Father,12310-137,guardians,Student
+F12310-139,"2024-11-12 17:56:42.793758","2024-11-14 13:00:26.311509",Administrator,Administrator,0,1,F12310-139,"Ayingura Nsobila",Father,12310-139,guardians,Student
+F12310-140,"2024-11-12 17:56:42.823102","2024-11-14 13:00:26.374178",Administrator,Administrator,0,1,F12310-140,"Victor Akwasi Effah",Father,12310-140,guardians,Student
+F12310-141,"2024-11-12 17:56:42.847824","2024-11-14 13:00:26.434701",Administrator,Administrator,0,1,F12310-141,"Mr. Emmanuel Narh Nartey",Father,12310-141,guardians,Student
+F12310-143,"2024-11-12 17:56:42.876624","2024-11-14 13:00:26.500167",Administrator,Administrator,0,1,F12310-143,"Mr. Michael Amoako-Atta",Father,12310-143,guardians,Student
+F12310-144,"2024-11-12 17:56:42.912032","2024-11-14 13:00:26.562523",Administrator,Administrator,0,1,F12310-144,"Mr Charles Amoabeng Nkrumah",Father,12310-144,guardians,Student
+F12310-145,"2024-11-12 17:56:42.942505","2024-11-14 13:00:26.623207",Administrator,Administrator,0,1,F12310-145,"Mr George Yaw Manso",Father,12310-145,guardians,Student
+F12310-146,"2024-11-12 17:56:42.986202","2024-11-14 13:00:26.685301",Administrator,Administrator,0,1,F12310-146,"Mr. Ebenezer Obeng-Baffoe",Father,12310-146,guardians,Student
+F12310-147,"2024-11-12 17:56:43.036348","2024-11-14 13:00:26.748166",Administrator,Administrator,0,1,F12310-147,"Bishop Francis Tsikata-Akatto",Father,12310-147,guardians,Student
+F12310-148,"2024-11-12 17:56:43.239081","2024-11-14 13:00:26.812645",Administrator,Administrator,0,1,F12310-148,"Doctor Bryan Cox",Father,12310-148,guardians,Student
+F12310-149,"2024-11-12 17:56:43.273205","2024-11-14 13:00:26.877316",Administrator,Administrator,0,1,F12310-149,"Mr John Yorson",Father,12310-149,guardians,Student
+F12310-150,"2024-11-12 17:56:43.310872","2024-11-14 13:00:26.944867",Administrator,Administrator,0,1,F12310-150,"Mr Claude Agyen-Asamoah",Father,12310-150,guardians,Student
+F12310-151,"2024-11-12 17:56:43.344471","2024-11-14 13:00:27.011714",Administrator,Administrator,0,1,F12310-151,"Rev. Arnold Nyadi",Father,12310-151,guardians,Student
+F12310-153,"2024-11-12 17:56:43.395013","2024-11-14 13:00:27.085062",Administrator,Administrator,0,1,F12310-153,"Mr Kwame Aduansere",Father,12310-153,guardians,Student
+F12310-156,"2024-11-12 17:56:43.449207","2024-11-14 13:00:27.155724",Administrator,Administrator,0,1,F12310-156,"Mr William Addo",Father,12310-156,guardians,Student
+F12310-157,"2024-11-12 17:56:43.478742","2024-11-14 13:00:27.218495",Administrator,Administrator,0,1,F12310-157,"Rev. Dr Joseph Buertey",Father,12310-157,guardians,Student
+F12310-158,"2024-11-12 17:56:43.520224","2024-11-14 13:00:27.293578",Administrator,Administrator,0,1,F12310-158,"Mr. Emmanuel Nkrumah",Father,12310-158,guardians,Student
+F12310-159,"2024-11-12 17:56:43.547120","2024-11-14 13:00:27.363566",Administrator,Administrator,0,1,F12310-159,"Mr. Gideon Carlos Ackwerh",Father,12310-159,guardians,Student
+F12310-160,"2024-11-12 17:56:43.574771","2024-11-14 13:00:27.430040",Administrator,Administrator,0,1,F12310-160,"Mr. Enoch Wontumi",Father,12310-160,guardians,Student
+F12310-161,"2024-11-12 17:56:43.602422","2024-11-14 13:00:27.494123",Administrator,Administrator,0,1,F12310-161,"Mr Gordon Nuurbaare",Father,12310-161,guardians,Student
+F12310-162,"2024-11-12 17:56:43.633964","2024-11-14 13:00:27.557706",Administrator,Administrator,0,1,F12310-162,"Mr Victor Aggrey-Fynn",Father,12310-162,guardians,Student
+F12310-163,"2024-11-12 17:56:43.659933","2024-11-14 13:00:27.622262",Administrator,Administrator,0,1,F12310-163,"Mr. Wisdom Kortia",Father,12310-163,guardians,Student
+F12310-164,"2024-11-12 17:56:43.689935","2024-11-14 13:00:27.687229",Administrator,Administrator,0,1,F12310-164,"Mr Nana Ofosu-Appiah Baidoo",Father,12310-164,guardians,Student
+F12310-165,"2024-11-12 17:56:43.719791","2024-11-14 13:00:27.752387",Administrator,Administrator,0,1,F12310-165,"Pastor Philip Soale",Father,12310-165,guardians,Student
+F12310-167,"2024-11-12 17:56:43.745768","2024-11-14 13:00:27.817969",Administrator,Administrator,0,1,F12310-167,"Mr Ebenezer Mfoafo",Father,12310-167,guardians,Student
+F12310-168,"2024-11-12 17:56:43.779920","2024-11-14 13:00:27.880125",Administrator,Administrator,0,1,F12310-168,"Mr Bennette Hanson",Father,12310-168,guardians,Student
+F12310-169,"2024-11-12 17:56:43.808394","2024-11-14 13:00:27.944600",Administrator,Administrator,0,1,F12310-169,"Mr Samuel Agyekum",Father,12310-169,guardians,Student
+F12310-170,"2024-11-12 17:56:43.839394","2024-11-14 13:00:28.008349",Administrator,Administrator,0,1,F12310-170,"Mr. Thomas Acquah",Father,12310-170,guardians,Student
+F12310-173,"2024-11-12 17:56:43.870089","2024-11-14 13:00:28.070230",Administrator,Administrator,0,1,F12310-173,"Reverend Benjamin Ghansah",Father,12310-173,guardians,Student
+F12310-174,"2024-11-12 17:56:43.900695","2024-11-14 13:00:28.129609",Administrator,Administrator,0,1,F12310-174,"Mr Richard Osafo Ampaw",Father,12310-174,guardians,Student
+F12310-175,"2024-11-12 17:56:43.937243","2024-11-14 13:00:28.191619",Administrator,Administrator,0,1,F12310-175,"Dr Kennedy Addo",Father,12310-175,guardians,Student
+F12310-176,"2024-11-12 17:56:43.964479","2024-11-14 13:00:28.253857",Administrator,Administrator,0,1,F12310-176,"Mr. Gabriel Ajediwe Alatiah",Father,12310-176,guardians,Student
+F12310-178,"2024-11-12 17:56:43.994673","2024-11-14 13:00:28.317545",Administrator,Administrator,0,1,F12310-178,"Alexander Mensa Hagan",Father,12310-178,guardians,Student
+F12310-179,"2024-11-12 17:56:44.031367","2024-11-14 13:00:28.381074",Administrator,Administrator,0,1,F12310-179,"Mr Charles Pinkrah",Father,12310-179,guardians,Student
+F12310-182,"2024-11-12 17:56:44.090603","2024-11-14 13:00:28.452566",Administrator,Administrator,0,1,F12310-182,"Dr. Stephen Babson",Father,12310-182,guardians,Student
+F12310-184,"2024-11-12 17:56:44.148827","2024-11-14 12:52:10.489488",Administrator,Administrator,0,1,F12310-184,"DR CHARLES MIEZAH",Father,12310-184,guardians,Student
+F12310-185,"2024-11-12 17:56:44.179379","2024-11-14 13:00:28.528968",Administrator,Administrator,0,1,F12310-185,"Mr Samuel Wiafe-Siaw",Father,12310-185,guardians,Student
+F12310-188,"2024-11-12 17:56:44.243754","2024-11-14 13:00:28.588114",Administrator,Administrator,0,1,F12310-188,"Rev Divine Omoregie",Father,12310-188,guardians,Student
+F12310-189,"2024-11-12 17:56:44.279567","2024-11-14 13:00:28.644942",Administrator,Administrator,0,1,F12310-189,"Mr George Ankorah Koranteng",Father,12310-189,guardians,Student
+F12310-190,"2024-11-12 17:56:44.309499","2024-11-14 13:00:28.699273",Administrator,Administrator,0,1,F12310-190,"Mr Joshua Quansah",Father,12310-190,guardians,Student
+F12310-191,"2024-11-12 17:56:44.340132","2024-11-14 13:00:28.758584",Administrator,Administrator,0,1,F12310-191,"Mr Siaw Nartey",Father,12310-191,guardians,Student
+F12310-193,"2024-11-12 17:56:44.374105","2024-11-14 13:00:28.815736",Administrator,Administrator,0,1,F12310-193,"Samuel Essilfie",Father,12310-193,guardians,Student
+F12310-195,"2024-11-12 17:56:44.401193","2024-11-14 13:00:28.871414",Administrator,Administrator,0,1,F12310-195,"Mr Edward Magnus-George",Father,12310-195,guardians,Student
+F12310-196,"2024-11-12 17:56:44.430684","2024-11-14 13:00:28.930125",Administrator,Administrator,0,1,F12310-196,"Mr Isaac Kwaku Forson",Father,12310-196,guardians,Student
+F12310-197,"2024-11-12 17:56:44.459491","2024-11-14 13:00:28.992516",Administrator,Administrator,0,1,F12310-197,"Mr David Okasa Laryea",Father,12310-197,guardians,Student
+F12310-199,"2024-11-12 17:56:44.491605","2024-11-14 13:00:29.061256",Administrator,Administrator,0,1,F12310-199,"Mr Justice Amoh",Father,12310-199,guardians,Student
+F12310-200,"2024-11-12 17:56:44.525215","2024-11-14 13:00:29.127787",Administrator,Administrator,0,1,F12310-200,"Mr Gabriel Adu-Gyamfi",Father,12310-200,guardians,Student
+F12310-201,"2024-11-12 17:56:44.552346","2024-11-14 13:00:29.190297",Administrator,Administrator,0,1,F12310-201,"Mr Michael Asiamah",Father,12310-201,guardians,Student
+F12310-202,"2024-11-12 17:56:44.587428","2024-11-14 13:00:29.249783",Administrator,Administrator,0,1,F12310-202,"Mr Andrew Michael Ackah",Father,12310-202,guardians,Student
+F12310-203,"2024-11-12 17:56:44.615416","2024-11-14 13:00:29.308423",Administrator,Administrator,0,1,F12310-203,"Mr Kwasi Osei-Bobie",Father,12310-203,guardians,Student
+F12310-204,"2024-11-12 17:56:44.655636","2024-11-14 13:00:29.365570",Administrator,Administrator,0,1,F12310-204,"Mr Eric Nii Noye Norteye",Father,12310-204,guardians,Student
+F12310-205,"2024-11-12 17:56:44.689329","2024-11-14 13:00:29.444567",Administrator,Administrator,0,1,F12310-205,"Mr Amos Chiatey",Father,12310-205,guardians,Student
+F12310-206,"2024-11-12 17:56:44.715886","2024-11-14 12:52:11.413458",Administrator,Administrator,0,1,F12310-206,"MR JUSTICE AMOH",Father,12310-206,guardians,Student
+F12310-208,"2024-11-12 17:56:44.747505","2024-11-14 13:00:29.511614",Administrator,Administrator,0,1,F12310-208,"Reverend / Commander Prosper Cudjoe Korto",Father,12310-208,guardians,Student
+F12310-210,"2024-11-12 17:56:44.781023","2024-11-14 13:00:29.568581",Administrator,Administrator,0,1,F12310-210,"Mr Peter Paul Akugri",Father,12310-210,guardians,Student
+F12310-211,"2024-11-12 17:56:44.822032","2024-11-14 13:00:29.627858",Administrator,Administrator,0,1,F12310-211,"Aaron Addo-Bekoe",Father,12310-211,guardians,Student
+F12310-213,"2024-11-12 17:56:44.851192","2024-11-14 13:00:29.686730",Administrator,Administrator,0,1,F12310-213,"Mr Augustine Annan",Father,12310-213,guardians,Student
+F12310-215,"2024-11-12 17:56:44.879680","2024-11-14 13:00:29.751437",Administrator,Administrator,0,1,F12310-215,"Mister Frederick Asante",Father,12310-215,guardians,Student
+F12310-216,"2024-11-12 17:56:44.904218","2024-11-14 13:00:29.816644",Administrator,Administrator,0,1,F12310-216,"Mr. Michael Mark Armah - Kuevi",Father,12310-216,guardians,Student
+F12310-217,"2024-11-12 17:56:44.936871","2024-11-14 13:00:29.878752",Administrator,Administrator,0,1,F12310-217,"Mr Shaibu Abuba",Father,12310-217,guardians,Student
+F12310-218,"2024-11-12 17:56:44.960337","2024-11-14 12:52:11.868935",Administrator,Administrator,0,1,F12310-218,"Mr Frederick Ayirebi Acquah",Father,12310-218,guardians,Student
+F12310-219,"2024-11-12 17:56:44.990259","2024-11-14 13:00:29.951871",Administrator,Administrator,0,1,F12310-219,"Father Ebenezer Twum Asante",Father,12310-219,guardians,Student
+F12310-220,"2024-11-12 17:56:45.013184","2024-11-14 12:52:11.979553",Administrator,Administrator,0,1,F12310-220,"Rev Ben Taiwo Adekanla",Father,12310-220,guardians,Student
+F12310-221,"2024-11-12 17:56:45.040178","2024-11-14 13:00:30.028947",Administrator,Administrator,0,1,F12310-221,"Mr. Emmanuel Asare",Father,12310-221,guardians,Student
+F12310-222,"2024-11-12 17:56:45.063210","2024-11-14 13:00:30.088060",Administrator,Administrator,0,1,F12310-222,"Mr Ebenezer Oppong",Father,12310-222,guardians,Student
+F12310-223,"2024-11-12 17:56:45.094968","2024-11-14 13:00:30.146457",Administrator,Administrator,0,1,F12310-223,"Mr. Lawrence Essien",Father,12310-223,guardians,Student
+F12310-224,"2024-11-12 17:56:45.125380","2024-11-14 13:00:30.204148",Administrator,Administrator,0,1,F12310-224,"Mr William Ansah",Father,12310-224,guardians,Student
+F12310-225,"2024-11-12 17:56:45.153119","2024-11-14 13:00:30.288149",Administrator,Administrator,0,1,F12310-225,"Kazeem Ibrahim",Father,12310-225,guardians,Student
+F12310-226,"2024-11-12 17:56:45.179421","2024-11-14 13:00:30.387474",Administrator,Administrator,0,1,F12310-226,"Mr. Alexander Akwasi Acquah",Father,12310-226,guardians,Student
+F12310-227,"2024-11-12 17:56:45.203526","2024-11-14 13:00:30.529739",Administrator,Administrator,0,1,F12310-227,"Mr. David Agyefi-Mensah",Father,12310-227,guardians,Student
+F12310-228,"2024-11-12 17:56:45.228941","2024-11-14 13:00:30.675422",Administrator,Administrator,0,1,F12310-228,"Mr Kuuku Spencer",Father,12310-228,guardians,Student
+F12310-229,"2024-11-12 17:56:45.255783","2024-11-14 13:00:30.803722",Administrator,Administrator,0,1,F12310-229,"Mr Emmanuel Johnson",Father,12310-229,guardians,Student
+F12310-232,"2024-11-12 17:56:45.311789","2024-11-14 13:00:30.907403",Administrator,Administrator,0,1,F12310-232,"Mr Lewis Otoo",Father,12310-232,guardians,Student
+F12310-233,"2024-11-12 17:56:45.337094","2024-11-14 13:00:31.028129",Administrator,Administrator,0,1,F12310-233,"Dr John Ekow Otoo",Father,12310-233,guardians,Student
+F12310-234,"2024-11-12 17:56:45.365345","2024-11-14 13:00:31.136565",Administrator,Administrator,0,1,F12310-234,"Mr Clifford Nyakutsey",Father,12310-234,guardians,Student
+F12310-235,"2024-11-12 17:56:45.395301","2024-11-14 13:00:31.260994",Administrator,Administrator,0,1,F12310-235,"Dr Vincent Nartey Kyere",Father,12310-235,guardians,Student
+F12310-236,"2024-11-12 17:56:45.424541","2024-11-14 13:00:31.366624",Administrator,Administrator,0,1,F12310-236,"Mr Francis Parker",Father,12310-236,guardians,Student
+F12310-237,"2024-11-12 17:56:45.449256","2024-11-14 13:00:31.455561",Administrator,Administrator,0,1,F12310-237,"Mr Samuel Dinko",Father,12310-237,guardians,Student
+F12310-238,"2024-11-12 17:56:45.481220","2024-11-14 13:00:31.579622",Administrator,Administrator,0,1,F12310-238,"Mr Mohammed Abubakar",Father,12310-238,guardians,Student
+F12310-239,"2024-11-12 17:56:45.504187","2024-11-14 13:00:31.714216",Administrator,Administrator,0,1,F12310-239,"Dr Sampson Atiemo",Father,12310-239,guardians,Student
+F12310-240,"2024-11-12 17:56:45.538717","2024-11-14 13:00:31.819653",Administrator,Administrator,0,1,F12310-240,"Mr. Stanley Owusu-Asamoah",Father,12310-240,guardians,Student
+F12310-241,"2024-11-12 17:56:45.563773","2024-11-14 13:00:31.934055",Administrator,Administrator,0,1,F12310-241,"Mr. Kingsley Blukoo",Father,12310-241,guardians,Student
+F12310-243,"2024-11-12 17:56:45.598466","2024-11-14 13:00:32.042250",Administrator,Administrator,0,1,F12310-243,"Mr Christian Kwarteng",Father,12310-243,guardians,Student
+F12310-244,"2024-11-12 17:56:45.632383","2024-11-14 13:00:32.129210",Administrator,Administrator,0,1,F12310-244,"Mr Joseph Boison",Father,12310-244,guardians,Student
+F12310-245,"2024-11-12 17:56:45.656888","2024-11-14 13:00:32.256659",Administrator,Administrator,0,1,F12310-245,"Mr. Michael Asiedu",Father,12310-245,guardians,Student
+F12310-246,"2024-11-12 17:56:45.692088","2024-11-14 13:00:32.370714",Administrator,Administrator,0,1,F12310-246,"Mr Isaac Baidoo",Father,12310-246,guardians,Student
+F12310-247,"2024-11-12 17:56:45.722158","2024-11-14 13:00:32.464301",Administrator,Administrator,0,1,F12310-247,"Mr. Eugene Laryea",Father,12310-247,guardians,Student
+F12310-248,"2024-11-12 17:56:45.751622","2024-11-14 13:00:32.552934",Administrator,Administrator,0,1,F12310-248,"Mr. James Kwoku Ahiadome",Father,12310-248,guardians,Student
+F12310-249,"2024-11-12 17:56:45.787333","2024-11-14 13:00:32.680596",Administrator,Administrator,0,1,F12310-249,"Mr. Thomas Owusu Manu",Father,12310-249,guardians,Student
+F12310-250,"2024-11-12 17:56:45.823885","2024-11-14 13:00:32.779335",Administrator,Administrator,0,1,F12310-250,"Mr Eric Twerefor Farkye",Father,12310-250,guardians,Student
+F12310-251,"2024-11-12 17:56:45.848550","2024-11-14 13:00:32.894467",Administrator,Administrator,0,1,F12310-251,"Mr Ofosu Addo-Danquah",Father,12310-251,guardians,Student
+F12310-252,"2024-11-12 17:56:45.882922","2024-11-14 13:00:33.021238",Administrator,Administrator,0,1,F12310-252,"Mr Albert Amoako Achiaw",Father,12310-252,guardians,Student
+F12312-001,"2024-11-12 17:56:45.911343","2024-11-14 13:00:33.174956",Administrator,Administrator,0,1,F12312-001,"Mr Vincent Nuhu",Father,12312-001,guardians,Student
+F12312-002,"2024-11-12 17:56:45.944540","2024-11-14 13:00:33.318640",Administrator,Administrator,0,1,F12312-002,"Mr Frank Boadi",Father,12312-002,guardians,Student
+F12312-003,"2024-11-12 17:56:45.977297","2024-11-14 12:52:13.768886",Administrator,Administrator,0,1,F12312-003,"Mr. Solomon Amihere Ampah",Father,12312-003,guardians,Student
+F12312-004,"2024-11-12 17:56:46.001380","2024-11-14 12:52:13.824375",Administrator,Administrator,0,1,F12312-004,"Mr James Lawson",Father,12312-004,guardians,Student
+F12312-005,"2024-11-12 17:56:46.037297","2024-11-14 13:00:33.489567",Administrator,Administrator,0,1,F12312-005,"Mr Bright Attah",Father,12312-005,guardians,Student
+F12312-006,"2024-11-12 17:56:46.063040","2024-11-14 12:52:13.940625",Administrator,Administrator,0,1,F12312-006,"Dr Ernest Osei",Father,12312-006,guardians,Student
+F12312-008,"2024-11-12 17:56:46.099398","2024-11-14 13:00:33.662011",Administrator,Administrator,0,1,F12312-008,"Mr Christopher Aryeetey",Father,12312-008,guardians,Student
+F12312-009,"2024-11-12 17:56:46.155355","2024-11-14 13:00:33.887264",Administrator,Administrator,0,1,F12312-009,"Mr Guy-Thomas Gnanko",Father,12312-009,guardians,Student
+F12312-011,"2024-11-12 17:56:46.187862","2024-11-14 13:00:33.996106",Administrator,Administrator,0,1,F12312-011,"Mr Yaw Frimpong",Father,12312-011,guardians,Student
+F12407-001,"2024-11-12 17:56:46.211970","2024-11-14 13:00:34.119419",Administrator,Administrator,0,1,F12407-001,"Mr. Francis Arthur",Father,12407-001,guardians,Student
+F12407-002,"2024-11-12 17:56:46.247015","2024-11-14 12:52:14.229898",Administrator,Administrator,0,1,F12407-002,"Mr. Stephen Asante Yamoah",Father,12407-002,guardians,Student
+F12407-003,"2024-11-12 17:56:46.279673","2024-11-14 12:52:14.290864",Administrator,Administrator,0,1,F12407-003,"Mr. Stephen Asante Yamoah",Father,12407-003,guardians,Student
+F12407-004,"2024-11-12 17:56:46.300702","2024-11-14 13:00:34.270000",Administrator,Administrator,0,1,F12407-004,"Mr. Simon Agbanyo",Father,12407-004,guardians,Student
+F12407-005,"2024-11-12 17:56:46.333801","2024-11-14 12:52:14.408427",Administrator,Administrator,0,1,F12407-005,"Dr. Kwaku Antwi",Father,12407-005,guardians,Student
+F12407-006,"2024-11-12 17:56:46.362258","2024-11-14 13:00:34.412486",Administrator,Administrator,0,1,F12407-006,"Mr. Henry Tachie-Menson",Father,12407-006,guardians,Student
+F12407-007,"2024-11-12 17:56:46.395629","2024-11-14 13:00:34.553198",Administrator,Administrator,0,1,F12407-007,"Mr. Ricahrd Oduro Newman",Father,12407-007,guardians,Student
+F12407-008,"2024-11-12 17:56:46.429165","2024-11-14 13:00:34.690264",Administrator,Administrator,0,1,F12407-008,"Mr. Peter Mate Crabbe",Father,12407-008,guardians,Student
+F12407-009,"2024-11-12 17:56:46.454806","2024-11-14 13:00:34.836203",Administrator,Administrator,0,1,F12407-009,"Ismael Kwadwo Ayivi",Father,12407-009,guardians,Student
+F12407-010,"2024-11-12 17:56:46.488716","2024-11-14 13:00:34.988061",Administrator,Administrator,0,1,F12407-010,"Surv Maxwell Mensah",Father,12407-010,guardians,Student
+F12407-011,"2024-11-12 17:56:46.513316","2024-11-14 13:00:35.112717",Administrator,Administrator,0,1,F12407-011,"Mr Ransford Nyarko",Father,12407-011,guardians,Student
+F12407-012,"2024-11-12 17:56:46.550617","2024-11-14 13:00:35.239263",Administrator,Administrator,0,1,F12407-012,"Mr Isaac Oppong-Yeboah",Father,12407-012,guardians,Student
+F12407-013,"2024-11-12 17:56:46.589248","2024-11-14 13:00:35.399934",Administrator,Administrator,0,1,F12407-013,"Mr Gideon Carlos Ackwerh",Father,12407-013,guardians,Student
+F12407-014,"2024-11-12 17:56:46.613036","2024-11-14 13:00:35.504257",Administrator,Administrator,0,1,F12407-014,"Mr Nelson Emmanuel",Father,12407-014,guardians,Student
+F12407-015,"2024-11-12 17:56:46.643486","2024-11-14 13:00:35.602875",Administrator,Administrator,0,1,F12407-015,"His Lordship Justice John-Mark Nuku Alifo",Father,12407-015,guardians,Student
+F12407-016,"2024-11-12 17:56:46.671020","2024-11-14 13:00:35.704305",Administrator,Administrator,0,1,F12407-016,"Mr Cyril Nai",Father,12407-016,guardians,Student
+F12407-017,"2024-11-12 17:56:46.697947","2024-11-14 13:00:35.799012",Administrator,Administrator,0,1,F12407-017,"Mr. Prince Charles Sai",Father,12407-017,guardians,Student
+F12407-018,"2024-11-12 17:56:46.730045","2024-11-14 12:52:15.142467",Administrator,Administrator,0,1,F12407-018,"Mr David Essandoh",Father,12407-018,guardians,Student
+F12407-019,"2024-11-12 17:56:46.761048","2024-11-14 13:00:35.913806",Administrator,Administrator,0,1,F12407-019,"Samuel Benjamin Amoah",Father,12407-019,guardians,Student
+F12407-020,"2024-11-12 17:56:46.791811","2024-11-14 13:00:36.002561",Administrator,Administrator,0,1,F12407-020,"Dr Patrick Kuma Aboagye",Father,12407-020,guardians,Student
+F12407-021,"2024-11-12 17:56:46.815979","2024-11-14 13:00:36.126451",Administrator,Administrator,0,1,F12407-021,"Mr Samuel Asamoah",Father,12407-021,guardians,Student
+F12407-022,"2024-11-12 17:56:46.841986","2024-11-14 12:52:15.369031",Administrator,Administrator,0,1,F12407-022,"Mr Ronald Angelo Adukure",Father,12407-022,guardians,Student
+F12407-023,"2024-11-12 17:56:46.865565","2024-11-14 13:00:36.244189",Administrator,Administrator,0,1,F12407-023,"Mr Kwame Asante",Father,12407-023,guardians,Student
+F12407-024,"2024-11-12 17:56:46.896206","2024-11-14 12:52:15.484000",Administrator,Administrator,0,1,F12407-024,"Mr Emos Ansah",Father,12407-024,guardians,Student
+F12407-025,"2024-11-12 17:56:46.931695","2024-11-14 13:00:36.359660",Administrator,Administrator,0,1,F12407-025,"Mr James Asare",Father,12407-025,guardians,Student
+F12407-026,"2024-11-12 17:56:46.956187","2024-11-14 13:00:36.445350",Administrator,Administrator,0,1,F12407-026,"Mr Moses Yidana",Father,12407-026,guardians,Student
+F12407-027,"2024-11-12 17:56:46.983808","2024-11-14 13:00:36.544149",Administrator,Administrator,0,1,F12407-027,"Mr. William Narh Adjabeng",Father,12407-027,guardians,Student
+F12407-028,"2024-11-12 17:56:47.011173","2024-11-14 13:00:36.633953",Administrator,Administrator,0,1,F12407-028,"Mr Eric Osei",Father,12407-028,guardians,Student
+F12407-029,"2024-11-12 17:56:47.042036","2024-11-14 13:00:36.719060",Administrator,Administrator,0,1,F12407-029,"Mr Ernest Adomako",Father,12407-029,guardians,Student
+F12407-030,"2024-11-12 17:56:47.073306","2024-11-14 12:52:15.816620",Administrator,Administrator,0,1,F12407-030,"Mr Kingsley Konadu",Father,12407-030,guardians,Student
+F12407-031,"2024-11-12 17:56:47.128534","2024-11-14 13:00:36.833047",Administrator,Administrator,0,1,F12407-031,"Oscar Moore Mr",Father,12407-031,guardians,Student
+F12407-032,"2024-11-12 17:56:47.157606","2024-11-14 13:00:36.923971",Administrator,Administrator,0,1,F12407-032,"Mr John Mark Bonse",Father,12407-032,guardians,Student
+F12407-033,"2024-11-12 17:56:47.185286","2024-11-14 13:00:37.025739",Administrator,Administrator,0,1,F12407-033,"Mr Nutifafa Attah",Father,12407-033,guardians,Student
+F12407-034,"2024-11-12 17:56:47.210078","2024-11-14 13:00:37.122168",Administrator,Administrator,0,1,F12407-034,"Dr. Stephen Boateng",Father,12407-034,guardians,Student
+F12407-035,"2024-11-12 17:56:47.235477","2024-11-14 12:52:16.100766",Administrator,Administrator,0,1,F12407-035,"Mr Reggie Scot-Perry",Father,12407-035,guardians,Student
+F12407-036,"2024-11-12 17:56:47.262839","2024-11-14 13:00:37.286529",Administrator,Administrator,0,1,F12407-036,"Mr Adio Afolabi Oyeleyeb",Father,12407-036,guardians,Student
+F12407-037,"2024-11-12 17:56:47.289299","2024-11-14 12:52:16.215122",Administrator,Administrator,0,1,F12407-037,"Mr Ignace Kudu",Father,12407-037,guardians,Student
+F12407-038,"2024-11-12 17:56:47.311905","2024-11-14 13:00:37.470696",Administrator,Administrator,0,1,F12407-038,"Shefiwu Abubakari Suleman",Father,12407-038,guardians,Student
+F12407-039,"2024-11-12 17:56:47.335187","2024-11-14 13:00:37.582143",Administrator,Administrator,0,1,F12407-039,"Father Thomas Amewu Duglu",Father,12407-039,guardians,Student
+F12407-042,"2024-11-12 17:56:47.406540","2024-11-14 13:00:37.698996",Administrator,Administrator,0,1,F12407-042,"Mr Kwaku Agyei - Henaku",Father,12407-042,guardians,Student
+F12407-043,"2024-11-12 17:56:47.434701","2024-11-14 13:00:37.801585",Administrator,Administrator,0,1,F12407-043,"Mr. Barrholomew Yellah",Father,12407-043,guardians,Student
+F12407-044,"2024-11-12 17:56:47.458917","2024-11-14 12:52:16.504936",Administrator,Administrator,0,1,F12407-044,"Mr Isaac Owusu-Ansah",Father,12407-044,guardians,Student
+F12407-045,"2024-11-12 17:56:47.485007","2024-11-14 13:00:37.912133",Administrator,Administrator,0,1,F12407-045,"Mr Michael Atta Agyei",Father,12407-045,guardians,Student
+F12407-046,"2024-11-12 17:56:47.510165","2024-11-14 13:00:37.992912",Administrator,Administrator,0,1,F12407-046,"Mr Daniel Osei Boateng",Father,12407-046,guardians,Student
+F12407-047,"2024-11-12 17:56:47.535434","2024-11-14 13:00:38.061530",Administrator,Administrator,0,1,F12407-047,"Pastor Eugene Zuta",Father,12407-047,guardians,Student
+F12408-001,"2024-11-12 17:56:47.563472","2024-11-14 13:00:38.148350",Administrator,Administrator,0,1,F12408-001,"Mr. Samuel Kofi Baah Asante Ampadu",Father,12408-001,guardians,Student
+F12408-002,"2024-11-12 17:56:47.591574","2024-11-14 13:00:38.236213",Administrator,Administrator,0,1,F12408-002,"Mr Kwame Ackah",Father,12408-002,guardians,Student
+F12408-003,"2024-11-12 17:56:47.615287","2024-11-14 13:00:38.325697",Administrator,Administrator,0,1,F12408-003,"Mr Olawale Akinkoye",Father,12408-003,guardians,Student
+F12408-004,"2024-11-12 17:56:47.640105","2024-11-14 13:00:38.406148",Administrator,Administrator,0,1,F12408-004,"Mr Noah Otuteye",Father,12408-004,guardians,Student
+F12408-005,"2024-11-12 17:56:47.663581","2024-11-14 13:00:38.483175",Administrator,Administrator,0,1,F12408-005,"Mr Augustine Amoah",Father,12408-005,guardians,Student
+F12408-006,"2024-11-12 17:56:47.690336","2024-11-14 13:00:38.576926",Administrator,Administrator,0,1,F12408-006,"Mr Francis Kelvin Opei",Father,12408-006,guardians,Student
+F12408-007,"2024-11-12 17:56:47.712849","2024-11-14 13:00:38.667231",Administrator,Administrator,0,1,F12408-007,"Mr Kwaku Opoku-Sarpong",Father,12408-007,guardians,Student
+F12408-008,"2024-11-12 17:56:47.739794","2024-11-14 13:00:38.746964",Administrator,Administrator,0,1,F12408-008,"Mr Kossi Mawuko Gligbe",Father,12408-008,guardians,Student
+F12408-009,"2024-11-12 17:56:47.771423","2024-11-14 13:00:38.823495",Administrator,Administrator,0,1,F12408-009,"Rear Admiral Issah Yakubu",Father,12408-009,guardians,Student
+F12408-010,"2024-11-12 17:56:47.797746","2024-11-14 13:00:38.935271",Administrator,Administrator,0,1,F12408-010,"Mr Nicholas Alihonu",Father,12408-010,guardians,Student
+F12408-011,"2024-11-12 17:56:47.822399","2024-11-14 12:52:17.293583",Administrator,Administrator,0,1,F12408-011,"Mr Leslie Tamakloe",Father,12408-011,guardians,Student
+F12408-012,"2024-11-12 17:56:47.847577","2024-11-14 13:00:39.050337",Administrator,Administrator,0,1,F12408-012,"Mr Emmanuel Kollie",Father,12408-012,guardians,Student
+F12408-013,"2024-11-12 17:56:47.874031","2024-11-14 13:00:39.132603",Administrator,Administrator,0,1,F12408-013,"Arc Kofi Asihene",Father,12408-013,guardians,Student
+F12408-014,"2024-11-12 17:56:47.901797","2024-11-14 13:00:39.213700",Administrator,Administrator,0,1,F12408-014,"Mr Sampson Nortey",Father,12408-014,guardians,Student
+F12408-015,"2024-11-12 17:56:47.938534","2024-11-14 13:00:39.296086",Administrator,Administrator,0,1,F12408-015,"Mr. Samuel Ofori",Father,12408-015,guardians,Student
+F12408-017,"2024-11-12 17:56:47.995964","2024-11-14 13:00:39.375055",Administrator,Administrator,0,1,F12408-017,"Mr Alex Kwasi Awuah",Father,12408-017,guardians,Student
+F12408-018,"2024-11-12 17:56:48.020304","2024-11-14 13:00:39.458761",Administrator,Administrator,0,1,F12408-018,"Mr Samuel Kyeremeh",Father,12408-018,guardians,Student
+F12408-019,"2024-11-12 17:56:48.046452","2024-11-14 13:00:39.548859",Administrator,Administrator,0,1,F12408-019,"Leon Edmund Auguste",Father,12408-019,guardians,Student
+F12409-001,"2024-11-12 17:56:48.073774","2024-11-14 13:00:39.638340",Administrator,Administrator,0,1,F12409-001,"Mr. Victor Tweneboa",Father,12409-001,guardians,Student
+F12409-002,"2024-11-12 17:56:48.166298","2024-11-14 12:52:17.787312",Administrator,Administrator,0,1,F12409-002,"Mr Eric Osei",Father,12409-002,guardians,Student
+F12409-003,"2024-11-12 17:56:48.195263","2024-11-14 13:00:39.737070",Administrator,Administrator,0,1,F12409-003,"Hon David Vondee",Father,12409-003,guardians,Student
+F12409-004,"2024-11-12 17:56:48.221096","2024-11-14 13:00:39.828499",Administrator,Administrator,0,1,F12409-004,"Mr Delali Blekpe",Father,12409-004,guardians,Student
+F12409-005,"2024-11-12 17:56:48.247573","2024-11-14 13:00:39.908945",Administrator,Administrator,0,1,F12409-005,"Mr Eric Afari Amoah",Father,12409-005,guardians,Student
+F12409-006,"2024-11-12 17:56:48.275573","2024-11-14 13:00:39.997330",Administrator,Administrator,0,1,F12409-006,"Mr Abraham Gogo",Father,12409-006,guardians,Student
+F12409-007,"2024-11-12 17:56:48.300827","2024-11-14 12:52:18.070469",Administrator,Administrator,0,1,F12409-007,"Mr Samuel Asamoah",Father,12409-007,guardians,Student
+F12409-008,"2024-11-12 17:56:48.328174","2024-11-14 13:00:40.094002",Administrator,Administrator,0,1,F12409-008,"Mr. Doanld Candy",Father,12409-008,guardians,Student
+F12409-009,"2024-11-12 17:56:48.352320","2024-11-14 13:00:40.171674",Administrator,Administrator,0,1,F12409-009,"Mr Isaac Asamoah-Manu",Father,12409-009,guardians,Student
+F12409-010,"2024-11-12 17:56:48.380794","2024-11-14 13:00:40.251580",Administrator,Administrator,0,1,F12409-010,"Dr Francis Loloh",Father,12409-010,guardians,Student
+F12409-011,"2024-11-12 17:56:48.406787","2024-11-14 13:00:40.337561",Administrator,Administrator,0,1,F12409-011,"Mr George Kwasi Boateng Addo",Father,12409-011,guardians,Student
+F12409-012,"2024-11-12 17:56:48.435455","2024-11-14 13:00:40.418358",Administrator,Administrator,0,1,F12409-012,"Mr. Ivan Adzawoloo Andersson",Father,12409-012,guardians,Student
+F12409-013,"2024-11-12 17:56:48.462133","2024-11-14 13:00:40.502856",Administrator,Administrator,0,1,F12409-013,"Mr Wilfried Ramde",Father,12409-013,guardians,Student
+F12409-014,"2024-11-12 17:56:48.490441","2024-11-14 13:00:40.584214",Administrator,Administrator,0,1,F12409-014,"Mr Prince Manu",Father,12409-014,guardians,Student
+F12409-015,"2024-11-12 17:56:48.514212","2024-11-14 13:00:40.663075",Administrator,Administrator,0,1,F12409-015,"Mr. Ransford Nyarko",Father,12409-015,guardians,Student
+F12409-017,"2024-11-12 17:56:48.542076","2024-11-14 13:00:40.753132",Administrator,Administrator,0,1,F12409-017,"Mr. Cecil Candy",Father,12409-017,guardians,Student
+F12409-018,"2024-11-12 17:56:48.566448","2024-11-14 13:00:40.839028",Administrator,Administrator,0,1,F12409-018,"Mr Munyaradzi Chisvo",Father,12409-018,guardians,Student
+F12409-019,"2024-11-12 17:56:48.597082","2024-11-14 13:00:40.912672",Administrator,Administrator,0,1,F12409-019,"Mr Percival Ampomah",Father,12409-019,guardians,Student
+F12409-020,"2024-11-12 17:56:48.626528","2024-11-14 13:00:40.993785",Administrator,Administrator,0,1,F12409-020,"Mr Maxwell Kally",Father,12409-020,guardians,Student
+F12409-021,"2024-11-12 17:56:48.650642","2024-11-14 13:00:41.076073",Administrator,Administrator,0,1,F12409-021,"Mr Samuel Noi",Father,12409-021,guardians,Student
+F12409-023,"2024-11-12 17:56:48.703145","2024-11-14 13:00:41.173348",Administrator,Administrator,0,1,F12409-023,"Mr. Julius Amanku",Father,12409-023,guardians,Student
+F12409-024,"2024-11-12 17:56:48.731196","2024-11-14 12:52:18.885076",Administrator,Administrator,0,1,F12409-024,"Mr Peter Mate Crabbe",Father,12409-024,guardians,Student
+F12409-025,"2024-11-12 17:56:48.759548","2024-11-14 13:00:41.284981",Administrator,Administrator,0,1,F12409-025,"Samuel Otu Lartey",Father,12409-025,guardians,Student
+F12409-026,"2024-11-12 17:56:48.785717","2024-11-14 13:00:41.371190",Administrator,Administrator,0,1,F12409-026,"Mr. Richmond Kwabena Aboagye",Father,12409-026,guardians,Student
+F12409-027,"2024-11-12 17:56:48.811424","2024-11-14 13:00:41.462271",Administrator,Administrator,0,1,F12409-027,"Dr Alfred Doku",Father,12409-027,guardians,Student
+F12409-028,"2024-11-12 17:56:48.835173","2024-11-14 13:00:41.565083",Administrator,Administrator,0,1,F12409-028,"Mr Rotimi Assani",Father,12409-028,guardians,Student
+F12409-029,"2024-11-12 17:56:48.858103","2024-11-14 13:00:41.678684",Administrator,Administrator,0,1,F12409-029,"Mr. Kwabena Nkansah",Father,12409-029,guardians,Student
+F12409-030,"2024-11-12 17:56:48.884187","2024-11-14 13:00:41.795540",Administrator,Administrator,0,1,F12409-030,"Mr Wisdom Klu",Father,12409-030,guardians,Student
+F12409-031,"2024-11-12 17:56:48.909822","2024-11-14 13:00:41.932360",Administrator,Administrator,0,1,F12409-031,"Mr Mustapha Amadu",Father,12409-031,guardians,Student
+F12409-033,"2024-11-12 17:56:48.960949","2024-11-14 13:00:42.057382",Administrator,Administrator,0,1,F12409-033,"Esquire Dominic Brenya-Otchere",Father,12409-033,guardians,Student
+F12409-034,"2024-11-12 17:56:48.991642","2024-11-14 12:52:19.394620",Administrator,Administrator,0,1,F12409-034,"Mr. David Agyefi-Mensah",Father,12409-034,guardians,Student
+F12409-035,"2024-11-12 17:56:49.015587","2024-11-14 13:00:42.183516",Administrator,Administrator,0,1,F12409-035,"Mr Albert Asamoah-Brown",Father,12409-035,guardians,Student
+F12410-001,"2024-11-12 17:56:49.065322","2024-11-14 13:00:42.283119",Administrator,Administrator,0,1,F12410-001,"Mr Ebenezer Echiri-Mensah",Father,12410-001,guardians,Student
+F12410-002,"2024-11-12 17:56:49.235039","2024-11-14 13:00:42.404770",Administrator,Administrator,0,1,F12410-002,"Mr Omar Majdoub",Father,12410-002,guardians,Student
+F12410-003,"2024-11-12 17:56:49.280375","2024-11-14 13:00:42.522036",Administrator,Administrator,0,1,F12410-003,"Mr. James Mills",Father,12410-003,guardians,Student
+F12410-004,"2024-11-12 17:56:49.325353","2024-11-14 12:52:19.676694",Administrator,Administrator,0,1,F12410-004,"Mr Patrick Koduah",Father,12410-004,guardians,Student
+F12410-005,"2024-11-12 17:56:49.353246","2024-11-14 13:00:42.651242",Administrator,Administrator,0,1,F12410-005,"Mr Alex Appiah",Father,12410-005,guardians,Student
+F12410-006,"2024-11-12 17:56:49.385646","2024-11-14 13:00:42.748253",Administrator,Administrator,0,1,F12410-006,"Mr. Frank Okraku",Father,12410-006,guardians,Student
+F12410-007,"2024-11-12 17:56:49.410938","2024-11-14 13:00:42.846019",Administrator,Administrator,0,1,F12410-007,"Mr Mark Myrie",Father,12410-007,guardians,Student
+F12410-008,"2024-11-12 17:56:49.441309","2024-11-14 13:00:42.944620",Administrator,Administrator,0,1,F12410-008,"Ing. George Asiedu",Father,12410-008,guardians,Student
+F12410-009,"2024-11-12 17:56:49.467208","2024-11-14 13:00:43.038104",Administrator,Administrator,0,1,F12410-009,"Mr. Daniel Tagoe",Father,12410-009,guardians,Student
+F12410-010,"2024-11-12 17:56:49.497039","2024-11-14 13:00:43.134406",Administrator,Administrator,0,1,F12410-010,"Mr Yaw Asenso Ampofo",Father,12410-010,guardians,Student
+F12410-012,"2024-11-12 17:56:49.551111","2024-11-14 12:52:20.066333",Administrator,Administrator,0,1,F12410-012,"MR VINCENT ARYEE",Father,12410-012,guardians,Student
+F12410-013,"2024-11-12 17:56:49.582684","2024-11-14 13:00:43.278657",Administrator,Administrator,0,1,F12410-013,"Dr. Wilfred Asman",Father,12410-013,guardians,Student
+F12410-014,"2024-11-12 17:56:49.637888","2024-11-14 12:52:20.175805",Administrator,Administrator,0,1,F12410-014,"Mr Isaac Baidoo",Father,12410-014,guardians,Student
+F12410-015,"2024-11-12 17:56:49.669701","2024-11-14 13:00:43.392458",Administrator,Administrator,0,1,F12410-015,"Mr Kofi Opoku Asante",Father,12410-015,guardians,Student
+F12410-016,"2024-11-12 17:56:49.723427","2024-11-14 13:00:43.494948",Administrator,Administrator,0,1,F12410-016,"Thompson Donkor Kojo",Father,12410-016,guardians,Student
+F12410-017,"2024-11-12 17:56:49.755602","2024-11-14 13:00:43.604429",Administrator,Administrator,0,1,F12410-017,"Mr Kwadwo Akomeah Boti",Father,12410-017,guardians,Student
+F12410-018,"2024-11-12 17:56:49.807233","2024-11-14 12:52:20.469675",Administrator,Administrator,0,1,F12410-018,"Dr. Richard Owusu-Poku",Father,12410-018,guardians,Student
+F12410-019,"2024-11-12 17:56:49.842398","2024-11-14 13:00:43.720666",Administrator,Administrator,0,1,F12410-019,"Mr. Chris Asare-Djan",Father,12410-019,guardians,Student
+F12410-020,"2024-11-12 17:56:49.868758","2024-11-14 12:52:20.610647",Administrator,Administrator,0,1,F12410-020,"Rear Admiral Issah Yakubu",Father,12410-020,guardians,Student
+F12410-021,"2024-11-12 17:56:49.899036","2024-11-14 13:00:43.846147",Administrator,Administrator,0,1,F12410-021,"Mr Richard Bobison",Father,12410-021,guardians,Student
+F12410-022,"2024-11-12 17:56:49.930178","2024-11-14 13:00:43.951043",Administrator,Administrator,0,1,F12410-022,"Mr. Moses Mpae",Father,12410-022,guardians,Student
+F12410-023,"2024-11-12 17:56:49.959716","2024-11-14 13:00:44.034869",Administrator,Administrator,0,1,F12410-023,"Mr Benjamin Frimpong",Father,12410-023,guardians,Student
+F12410-024,"2024-11-12 17:56:49.995715","2024-11-14 13:00:44.115544",Administrator,Administrator,0,1,F12410-024,"Mr David Amporful",Father,12410-024,guardians,Student
+F12410-025,"2024-11-12 17:56:50.031060","2024-11-14 13:00:44.276753",Administrator,Administrator,0,1,F12410-025,"Mr Jonathan Amofa",Father,12410-025,guardians,Student
+F12410-026,"2024-11-12 17:56:50.062863","2024-11-14 13:00:44.478185",Administrator,Administrator,0,1,F12410-026,"Mr. Francis Kwakye",Father,12410-026,guardians,Student
+F12410-027,"2024-11-12 17:56:50.102650","2024-11-14 13:00:44.568808",Administrator,Administrator,0,1,F12410-027,"Mr Edward Allotey",Father,12410-027,guardians,Student
+F12410-028,"2024-11-12 17:56:50.140390","2024-11-14 13:00:44.637388",Administrator,Administrator,0,1,F12410-028,"Ing Eric Afreh-Mensah",Father,12410-028,guardians,Student
+F12410-029,"2024-11-12 17:56:50.165006","2024-11-14 12:52:21.227927",Administrator,Administrator,0,1,F12410-029,"Mr. William Ansah",Father,12410-029,guardians,Student
+F12410-030,"2024-11-12 17:56:50.197185","2024-11-14 13:00:44.720849",Administrator,Administrator,0,1,F12410-030,"Mr. Alfred Korlie Matey",Father,12410-030,guardians,Student
+F12410-031,"2024-11-12 17:56:50.228275","2024-11-14 13:00:44.789613",Administrator,Administrator,0,1,F12410-031,"Mr. Makus Annin",Father,12410-031,guardians,Student
+F12410-032,"2024-11-12 17:56:50.252371","2024-11-14 13:00:44.865148",Administrator,Administrator,0,1,F12410-032,"Dr. Lucas Damoah",Father,12410-032,guardians,Student
+F12410-033,"2024-11-12 17:56:50.289143","2024-11-14 13:00:44.938685",Administrator,Administrator,0,1,F12410-033,"Dr Kwame Boateng-Osei",Father,12410-033,guardians,Student
+F12410-034,"2024-11-12 17:56:50.314914","2024-11-14 12:52:21.563654",Administrator,Administrator,0,1,F12410-034,"HON DAVID VONDEE",Father,12410-034,guardians,Student
+F12410-035,"2024-11-12 17:56:50.347599","2024-11-14 13:00:45.011449",Administrator,Administrator,0,1,F12410-035,"Dr David Bindan",Father,12410-035,guardians,Student
+F12410-036,"2024-11-12 17:56:50.382681","2024-11-14 13:00:45.068571",Administrator,Administrator,0,1,F12410-036,"Mr. Ernest Tsatsu Nyanie",Father,12410-036,guardians,Student
+F12410-037,"2024-11-12 17:56:50.408249","2024-11-14 12:52:21.781584",Administrator,Administrator,0,1,F12410-037,"Mr. Olawale Akinkoye",Father,12410-037,guardians,Student
+F12410-038,"2024-11-12 17:56:50.444359","2024-11-14 13:00:45.138472",Administrator,Administrator,0,1,F12410-038,"Pope John Appiah",Father,12410-038,guardians,Student
+F12410-039,"2024-11-12 17:56:50.470327","2024-11-14 13:00:45.197654",Administrator,Administrator,0,1,F12410-039,"Dr Vincent Acorlor",Father,12410-039,guardians,Student
+F12410-041,"2024-11-12 17:56:50.530494","2024-11-14 13:00:45.257914",Administrator,Administrator,0,1,F12410-041,"Mr Paul Aboagye",Father,12410-041,guardians,Student
+F12410-042,"2024-11-12 17:56:50.554263","2024-11-14 13:00:45.315461",Administrator,Administrator,0,1,F12410-042,"Mr. Martin Owusu Afram",Father,12410-042,guardians,Student
+F12410-043,"2024-11-12 17:56:50.587391","2024-11-14 13:00:45.374584",Administrator,Administrator,0,1,F12410-043,"Mr Victor Gbordzi",Father,12410-043,guardians,Student
+F12410-044,"2024-11-12 17:56:50.614156","2024-11-14 13:00:45.432812",Administrator,Administrator,0,1,F12410-044,"Mr Steiner Wallested",Father,12410-044,guardians,Student
+F12410-045,"2024-11-12 17:56:50.644488","2024-11-14 13:00:45.490618",Administrator,Administrator,0,1,F12410-045,"Mr. Bruce Korbla Awu",Father,12410-045,guardians,Student
+F12410-046,"2024-11-12 17:56:50.670345","2024-11-14 13:00:45.551901",Administrator,Administrator,0,1,F12410-046,"Mr Albert Amonoo-Mensah",Father,12410-046,guardians,Student
+F12410-047,"2024-11-12 17:56:50.699905","2024-11-14 12:52:22.393648",Administrator,Administrator,0,1,F12410-047,"Mr James Asare",Father,12410-047,guardians,Student
+F12410-048,"2024-11-12 17:56:50.728155","2024-11-14 13:00:45.622660",Administrator,Administrator,0,1,F12410-048,"Mr Eric Agble",Father,12410-048,guardians,Student
+F12410-049,"2024-11-12 17:56:50.754337","2024-11-14 13:00:45.683919",Administrator,Administrator,0,1,F12410-049,"Mr Martin Enninful",Father,12410-049,guardians,Student
+F12410-050,"2024-11-12 17:56:50.792235","2024-11-14 13:00:45.744739",Administrator,Administrator,0,1,F12410-050,"Mr. Philip Kwaku Iwu",Father,12410-050,guardians,Student
+F12410-051,"2024-11-12 17:56:50.815139","2024-11-14 13:00:45.809170",Administrator,Administrator,0,1,F12410-051,"Mr Lawrence Tawiah",Father,12410-051,guardians,Student
+F12410-052,"2024-11-12 17:56:50.849344","2024-11-14 13:00:45.872652",Administrator,Administrator,0,1,F12410-052,"Mr Josiah Kwamina Attah-Yalley",Father,12410-052,guardians,Student
+F12410-053,"2024-11-12 17:56:50.893962","2024-11-14 13:00:45.935844",Administrator,Administrator,0,1,F12410-053,"Pastor Divine Omoregie",Father,12410-053,guardians,Student
+F12410-054,"2024-11-12 17:56:50.938208","2024-11-14 12:52:22.793449",Administrator,Administrator,0,1,F12410-054,"Dr. Stephen Boateng",Father,12410-054,guardians,Student
+F12410-055,"2024-11-12 17:56:50.968451","2024-11-14 13:00:46.008457",Administrator,Administrator,0,1,F12410-055,"Dr Stephen Laryea",Father,12410-055,guardians,Student

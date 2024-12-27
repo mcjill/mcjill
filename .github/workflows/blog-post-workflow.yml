@@ -1,0 +1,35 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every 10 minutes
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          fetch-depth: 1
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://dev.to/feed/elliot_brenya"
+          max_post_count: 12
+          gh_token: ${{ secrets.GH_TOKEN }}
+          commit_message: "Updated README with latest blog posts"
+          committer_username: "blog-post-bot"
+          committer_email: "blog-post-bot@example.com"
+          readme_path: ./README.md
+          retry_count: 1
+          sort: "date"
