@@ -221,6 +221,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [What Are the Symptoms of Bad Software?](https://dev.to/elliot_brenya/what-are-the-symptoms-of-bad-software-1oe6)
 - [IT WORKS](https://dev.to/elliot_brenya/it-works-3cdb)
 - [Fixing Vercel 404 Errors: A Simple Solution for Node.js Projects](https://dev.to/elliot_brenya/fixing-vercel-404-errors-a-simple-solution-for-nodejs-projects-1jbf)
 - [How To Use Zapcap API &lpar;API for Subtitles&rpar;](https://dev.to/elliot_brenya/how-to-use-zapcap-api-api-for-subtitles-4ln7)
@@ -232,7 +233,6 @@ I'm a passionate developer who loves building innovative solutions and contribut
 - [Best Software Tools for Remote Teams](https://dev.to/elliot_brenya/best-software-tools-for-remote-teams-3a1a)
 - [Unleashing the Power⚡ of Tokenization in JavaScript](https://dev.to/elliot_brenya/genesis-of-tokenization-in-javascript-3p0j)
 - [Machine Learning 🤖 Concepts Every Developer Should Know](https://dev.to/elliot_brenya/machine-learning-concepts-every-developer-should-know-3ck9)
-- [How to Build Email Lookup Extension for Chrome using Hazelbase APIs](https://dev.to/elliot_brenya/how-to-build-email-lookup-extension-for-chrome-using-hazelbase-apis-3lil)
 <!-- BLOG-POST-LIST:END -->
 
 [➡️ More blog posts](https://dev.to/elliot_brenya)
