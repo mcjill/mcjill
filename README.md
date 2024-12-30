@@ -116,39 +116,47 @@ I'm a passionate developer who loves building innovative solutions and contribut
   </table>
 </div>
 
-### 🛠️ ERPNext Expertise Highlights:
-- **Custom Module Development**: Building tailored solutions for specific business needs
-- **Complex Workflows**: Implementing sophisticated business processes and automation
-- **Integration Specialist**: Connecting ERPNext with external systems and APIs
-- **Performance Optimization**: Enhancing system performance for large-scale deployments
-- **Technical Consulting**: Providing expert guidance on ERPNext architecture and customization
-
 ## 📚 Technical Articles
 
 As a technical writer with 6 years of experience, I've written numerous in-depth articles about software development, AI, and technical best practices. Here are some of my recent articles:
 
 ### Latest Articles
 
-1. [Text-to-PowerPoint Application](https://github.com/mcjill/technical-articles/blob/main/article_one.md)
-   Building a modern application using LangChain, OpenAI, CopilotKit & Next.js
+#### AI and Development
+- [Can AI Really Replace Dev Jobs?](articles/ai-dev-jobs.md)
+  A balanced analysis of AI's impact on software development careers
+- [Text-to-PowerPoint with AI](articles/text-to-ppt.md)
+  Building a modern application using LangChain, OpenAI, CopilotKit & Next.js
 
-2. [Creating Custom Frappe Apps](https://github.com/mcjill/technical-articles/blob/main/article_two.md)
-   A comprehensive guide to developing custom applications in Frappe
+#### Software Development
+- [What Are the Symptoms of Bad Software?](articles/bad-software-symptoms.md)
+  A comprehensive guide to identifying and fixing problematic code
+- [Creating Custom Frappe Apps](articles/custom-frappe-apps.md)
+  Complete guide to developing custom applications in Frappe
 
-3. [AI's Impact on Dev Jobs](https://github.com/mcjill/technical-articles/blob/main/article_three.md)
-   An in-depth analysis of AI's role in software development
-
-4. [Symptoms of Bad Software](https://github.com/mcjill/technical-articles/blob/main/article_5.md)
-   A comprehensive guide to identifying and fixing problematic code
-
-5. [Technical Writing in 2025](https://github.com/mcjill/technical-articles/blob/main/article_6.md)
-   Insights and strategies for technical writing in the AI era
+#### Technical Writing
+- [Technical Writing in 2025](articles/tech-writing-2025.md)
+  Insights and strategies for technical writing in the AI era
+- [Technical Writing Process Guide](articles/tech-writing-process.md)
+  Step-by-step guide to writing effective technical content
 
 <div align="center">
-  <a href="https://github.com/mcjill/technical-articles">
-    <img src="https://img.shields.io/badge/View%20All%20Articles-blue?style=for-the-badge&logo=github" alt="View All Articles">
-  </a>
+  <h3>💡 Key Writing Topics</h3>
+  <p>
+    <img src="https://img.shields.io/badge/AI%20Development-red?style=for-the-badge" alt="AI Development">
+    <img src="https://img.shields.io/badge/Software%20Architecture-blue?style=for-the-badge" alt="Software Architecture">
+    <img src="https://img.shields.io/badge/Best%20Practices-green?style=for-the-badge" alt="Best Practices">
+  </p>
 </div>
+
+> 📝 These articles reflect my experience in software development, AI integration, and technical writing. They combine theoretical knowledge with practical insights from real-world projects.
+
+## 🛠️ ERPNext Expertise Highlights:
+- **Custom Module Development**: Building tailored solutions for specific business needs
+- **Complex Workflows**: Implementing sophisticated business processes and automation
+- **Integration Specialist**: Connecting ERPNext with external systems and APIs
+- **Performance Optimization**: Enhancing system performance for large-scale deployments
+- **Technical Consulting**: Providing expert guidance on ERPNext architecture and customization
 
 ## 🌟 Featured Projects
 
