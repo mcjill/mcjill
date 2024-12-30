@@ -75,12 +75,80 @@ I'm a passionate developer who loves building innovative solutions and contribut
   </table>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">ERPNext Manufacturing Suite</h3>
+        <div align="center">
+          <a href="https://github.com/mcjill/erpnext-manufacturing" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <p>
+            <img src="https://img.shields.io/badge/ERPNext-0089FF?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADASURBVHgBjZLBDcIwEAT3RAEUQAfQAR2YDqAD6MCUkQ6gA+gA6MCUQQekg5wWtjydTCbASrZsn3bP9jkcbbDFFHd4kLxGGOCKBab4LUdY4x0R0WkQXOIL71iWxWu8Ym6DM+wxs/8TTPAJ2tkz4L8XRWtsoYkJOozRosQDRpjiGZ8+JRhiiwZzaOMLnrHJkBPsUaPBFZ7wCTMVc+RZ9yecnAT+1CMUP3+TUDXgGaqq6mg9XJeWoHyCOcuy78j+AHacWQ8XpChqAAAAAElFTkSuQmCC"/>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+          </p>
+          <p><strong>Advanced Manufacturing Customization</strong></p>
+          <p>
+            Custom manufacturing modules with advanced production planning, quality control, and real-time tracking capabilities.
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Healthcare Management System</h3>
+        <div align="center">
+          <a href="https://github.com/mcjill/erpnext-healthcare" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <p>
+            <img src="https://img.shields.io/badge/ERPNext-0089FF?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADASURBVHgBjZLBDcIwEAT3RAEUQAfQAR2YDqAD6MCUkQ6gA+gA6MCUQQekg5wWtjydTCbASrZsn3bP9jkcbbDFFHd4kLxGGOCKBab4LUdY4x0R0WkQXOIL71iWxWu8Ym6DM+wxs/8TTPAJ2tkz4L8XRWtsoYkJOozRosQDRpjiGZ8+JRhiiwZzaOMLnrHJkBPsUaPBFZ7wCTMVc+RZ9yecnAT+1CMUP3+TUDXgGaqq6mg9XJeWoHyCOcuy78j+AHacWQ8XpChqAAAAAElFTkSuQmCC"/>
+            <img src="https://img.shields.io/badge/Frappe-00A4EF?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADASURBVHgBjZLBDcIwEAT3RAEUQAfQAR2YDqAD6MCUkQ6gA+gA6MCUQQekg5wWtjydTCbASrZsn3bP9jkcbbDFFHd4kLxGGOCKBab4LUdY4x0R0WkQXOIL71iWxWu8Ym6DM+wxs/8TTPAJ2tkz4L8XRWtsoYkJOozRosQDRpjiGZ8+JRhiiwZzaOMLnrHJkBPsUaPBFZ7wCTMVc+RZ9yecnAT+1CMUP3+TUDXgGaqq6mg9XJeWoHyCOcuy78j+AHacWQ8XpChqAAAAAElFTkSuQmCC"/>
+            <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
+          </p>
+          <p><strong>Healthcare ERP Solution</strong></p>
+          <p>
+            Comprehensive healthcare management system with patient records, appointment scheduling, and billing integration.
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ### 🛠️ ERPNext Expertise Highlights:
 - **Custom Module Development**: Building tailored solutions for specific business needs
 - **Complex Workflows**: Implementing sophisticated business processes and automation
 - **Integration Specialist**: Connecting ERPNext with external systems and APIs
 - **Performance Optimization**: Enhancing system performance for large-scale deployments
 - **Technical Consulting**: Providing expert guidance on ERPNext architecture and customization
+
+## 📚 Technical Articles
+
+As a technical writer with 6 years of experience, I've written numerous in-depth articles about software development, AI, and technical best practices. Here are some of my recent articles:
+
+### Latest Articles
+
+1. [Text-to-PowerPoint Application](https://github.com/mcjill/technical-articles/blob/main/article_one.md)
+   Building a modern application using LangChain, OpenAI, CopilotKit & Next.js
+
+2. [Creating Custom Frappe Apps](https://github.com/mcjill/technical-articles/blob/main/article_two.md)
+   A comprehensive guide to developing custom applications in Frappe
+
+3. [AI's Impact on Dev Jobs](https://github.com/mcjill/technical-articles/blob/main/article_three.md)
+   An in-depth analysis of AI's role in software development
+
+4. [Symptoms of Bad Software](https://github.com/mcjill/technical-articles/blob/main/article_5.md)
+   A comprehensive guide to identifying and fixing problematic code
+
+5. [Technical Writing in 2025](https://github.com/mcjill/technical-articles/blob/main/article_6.md)
+   Insights and strategies for technical writing in the AI era
+
+<div align="center">
+  <a href="https://github.com/mcjill/technical-articles">
+    <img src="https://img.shields.io/badge/View%20All%20Articles-blue?style=for-the-badge&logo=github" alt="View All Articles">
+  </a>
+</div>
 
 ## 🌟 Featured Projects
 
