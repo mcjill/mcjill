@@ -297,6 +297,7 @@ As a technical writer with 6 years of experience, I've written numerous in-depth
 
 ### Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [The Best Tech Stacks for AI-Powered Applications in 2025](https://dev.to/elliot_brenya/the-best-tech-stacks-for-ai-powered-applications-in-2025-efe)
 - [Is AI Making Technical Writers Obsolete?](https://dev.to/elliot_brenya/is-ai-making-technical-writers-obsolete-176p)
 - [How to Write a Troubleshooting Guide That Actually Helps Users](https://dev.to/elliot_brenya/how-to-write-a-troubleshooting-guide-that-actually-helps-users-2hh9)
 - [How to Write a Technical Article in 2025: Lessons From My 6-Year Journey](https://dev.to/elliot_brenya/how-to-write-a-technical-article-in-2025-lessons-from-my-6-year-journey-njh)
@@ -308,7 +309,6 @@ As a technical writer with 6 years of experience, I've written numerous in-depth
 - [The psychology 🧠of debugging - It Works 💯](https://dev.to/elliot_brenya/the-psychology-of-debugging-it-works-26a9)
 - [Building a Progressive Web App with React](https://dev.to/elliot_brenya/building-a-progressive-web-app-with-react-ifd)
 - [Build Your Own Machine Learning Models without writing a single line of code 🤯](https://dev.to/elliot_brenya/build-your-own-machine-learning-models-without-writing-a-single-line-of-code-189c)
-- [Best Software Tools for Remote Teams](https://dev.to/elliot_brenya/best-software-tools-for-remote-teams-3a1a)
 <!-- BLOG-POST-LIST:END -->
 
 [➡️ More blog posts](https://dev.to/elliot_brenya)
